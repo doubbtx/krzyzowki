@@ -1,24 +1,24 @@
 # krzyżówki dla gen z 🧩
 
-15 krzyżówek z hasłami pisanymi pod Gen Z: slang, Młodzieżowe Słowo Roku, brainrot, TikTok, gaming, randki, muza, moda, żarcie, szkoła, AI, piłka i anime. Zero boomerskich haseł w stylu „rzeka w Afryce, 4 litery”.
+15 normalnych krzyżówek – historia, geografia, nauka, lektury, kino, sport – z mniej oczywistymi pytaniami. Do tego trochę Gen Z i rzeczy, które po prostu warto wiedzieć (PIT, RRSO, phishing, RKO…).
 
-| # | Krzyżówka | Hasła |
-|---|-----------|-------|
-| 1 | 💬 Gen Z 101 | 16 |
-| 2 | 🏆 Młodzieżowe Słowo Roku (hall of fame) | 17 |
-| 3 | 🗳️ MSR 2026: finałowa dwunastka | 15 |
-| 4 | 🧠 Brainrot | 15 |
-| 5 | 📱 Feed i sociale | 17 |
-| 6 | 🎮 Gaming | 17 |
-| 7 | 🚩 Red flagi i crushe | 15 |
-| 8 | 🎧 Muza | 16 |
-| 9 | 👟 Fit check | 15 |
-| 10 | 🍜 Żarcie i drinki | 16 |
-| 11 | 🎒 Szkoła i matura | 16 |
-| 12 | 🤖 Tech i AI | 17 |
-| 13 | 🎬 Main character | 13 |
-| 14 | ⚽ Piłka dla Gen Z | 16 |
-| 15 | 🍥 Anime i seriale | 16 |
+| # | Krzyżówka | Trudność |
+|---|-----------|----------|
+| 1 | 🔥 Na rozgrzewkę | ★☆☆ |
+| 2 | 🚌 Do autobusu | ★☆☆ |
+| 3 | 🛋️ Leniwa niedziela | ★☆☆ |
+| 4 | ☕ Przerwa na kawę | ★☆☆ |
+| 5 | 🎒 Po lekcjach | ★☆☆ |
+| 6 | 🌍 Dookoła świata | ★★☆ |
+| 7 | 🧪 Biologia, fizyka i reszta | ★★☆ |
+| 8 | 🏰 Lekcja historii | ★★☆ |
+| 9 | 📚 Lektury bez ściemy | ★★☆ |
+| 10 | ⚽ Sportowa | ★★☆ |
+| 11 | 🧾 Dorosłość na start | ★★☆ |
+| 12 | 🎬 Kino i seriale | ★★☆ |
+| 13 | 💻 Tech i internet | ★★☆ |
+| 14 | 🎵 Muzyka | ★★☆ |
+| 15 | 🧠 Dla mózgowców | ★★★ |
 
 ## Jak grać
 
@@ -37,7 +37,7 @@ Wszystkie hasła siedzą w jednym pliku: [`hasla.txt`](hasla.txt).
 ```
 == id | emoji | tytuł | podtytuł
 HASŁO | podpowiedź
-RED FLAG | Nie ma żadnych znajomych, a wszystkie jego byłe to „wariatki”.
+KOPERNIK | Nie tylko astronom – sformułował też prawo o gorszym pieniądzu.
 ```
 
 Po zmianach wygeneruj siatki od nowa:

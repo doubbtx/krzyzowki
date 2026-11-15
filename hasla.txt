@@ -5,274 +5,277 @@
 #    == id | emoji | tytuł | podtytuł     ← nowa krzyżówka
 #    HASŁO | podpowiedź                   ← jedno hasło
 #
-#  Spacje i myślniki w HASŁE są OK (np. RED FLAG, K-DRAMA) –
-#  w siatce znikają, a w podpowiedzi pojawia się układ liter (3, 4).
+#  Spacje, myślniki i apostrofy w HASŁE są OK (np. PAN TADEUSZ) –
+#  w siatce znikają, a przy podpowiedzi pojawia się układ liter (3, 7).
 #  Po zmianach odpal:  python3 tools/generate.py
 # ─────────────────────────────────────────────────────────────
 
-== gen-z-101 | 💬 | Gen Z 101 | Słownik przetrwania. Jeśli coś nie wchodzi, to jesteś unc.
-RIZZ | Charyzma w podrywaniu – masz albo nie masz, w Żabce nie kupisz. Słowo roku Oxfordu 2023.
-SLAY | „You ___, queen!” – gdy ktoś wjeżdża w takim outficie, że cała impreza pada.
-CRINGE | To uczucie, gdy wujek na weselu odtwarza trend z TikToka sprzed trzech lat.
-DELULU | Stan, w którym jesteś pewna, że Jungkook odpisze ci na DM-a. Od „delusional”.
-SUS | Podejrzany jak impostor w Among Us, który „robił taski” w elektryce.
-NPC | Ziomek z trzema kwestiami dialogowymi na krzyż, który zawsze stoi w tym samym miejscu.
-AURA | Niewidzialne punkty respektu. Minus tysiąc za potknięcie się przy crushu na korytarzu.
-GOAT | Najlepszy wszech czasów, z własnym emoji 🐐. Finalista Młodzieżowego Słowa Roku 2025.
-FLEX | Nowe Jordany na story z podpisem „nic takiego” – klasyczny ___.
-BAMBIK | Dzieciak-nowicjusz, który na voice chacie oznajmia, że mama woła na obiad.
-MID | Ani sztos, ani dno – takie se. Werdykt dla większości drugich sezonów.
-YAPPING | Nawijanie bez końca i bez sensu – twój kumpel po dwóch energetykach.
-BESTIE | Najlepsza psiapsi, z którą dzielisz się wszystkim – nawet ładowarką.
-LOWKEY | Trochę, po cichu, nieoficjalnie – przeciwieństwo „highkey”. Finalista MSR 2025.
-NO CAP | „Serio, bez ściemy” – dosłownie „bez czapki”.
-BASED | Mówi, co myśli, i ma w nosie opinię tłumu – w tym dobrym sensie.
+== na-rozgrzewke | 🔥 | Na rozgrzewkę | ★☆☆ · klasyka, ale nie podana na tacy
+WARSZAWA | Jej herbowa syrenka ma według legendy siostrę w Kopenhadze.
+WISŁA | Zaczyna się pod Baranią Górą, kończy w Zatoce Gdańskiej.
+KOT | W starożytnym Egipcie święty, w internecie – właściciel internetu.
+PIZZA | Jej wersję „Margherita” nazwano na cześć włoskiej królowej.
+TLEN | Około 21% tego, czym właśnie oddychasz.
+SOWA | Ptak Ateny; w Duolingo zielony i lekko groźny.
+MEM | Słowo ukute przez Richarda Dawkinsa w 1976 r., dziś raczej obrazek z podpisem.
+KAWA | Według legendy odkrył ją etiopski pasterz, gdy jego kozy dostały głupawki.
+ZIMA | Zaczyna się w najdłuższą noc roku.
+EMOJI | Japoński wynalazek z 1999 r.; jedno z nich, płaczące ze śmiechu, zostało słowem roku Oxfordu.
+MARS | Planeta z Olympus Mons, najwyższym wulkanem Układu Słonecznego.
+PESEL | Jedenaście cyfr, z których przedostatnia zdradza płeć.
+PIT | Z nim trzeba zdążyć do 30 kwietnia.
+BAŁTYK | Płytkie, mało słone i szczelnie obstawione parawanami.
+SZACHY | Gra, w której pionek może awansować na hetmana.
+NETFLIX | Firma, która zaczynała od wysyłania płyt DVD pocztą.
 
-== msr-hall-of-fame | 🏆 | Młodzieżowe Słowo Roku | Hall of fame plebiscytu PWN – od „sztosu” do „szpontu”.
-SZTOS | Pierwszy zwycięzca plebiscytu (2016): coś naprawdę świetnego.
-DZBAN | Zwycięzca z 2018 r. – ktoś, kto zachowuje się głupio. Też naczynie z uchem.
-ALTERNATYWKA | Słowo roku 2019: dziewczyna o nietypowym stylu i upodobaniach – glany, kolczyki, czerń.
-JESIENIARA | Wicemistrzyni 2019: fanka sweterków, kocyków i latte z dynią.
-ŚPIULKOLOT | Zwycięzca 2021, czyli łóżko albo inne miejsce do spania.
-NAURA | Srebro 2021: pożegnanie wymawiane z angielska.
-ESSA | Słowo roku 2022: okrzyk radości i triumfu, gdy wszystko idzie gładko.
-ODKLEJKA | Nagroda jury z 2022 r. – stan, w którym ktoś kompletnie odpływa od rzeczywistości.
-REL | Zwycięzca 2023 (od „relatable”) – „czuję to samo, zgadzam się”.
-OPOROWO | Brąz 2023: na maksa, bardzo mocno, np. „cisnąć ___”.
-SIGMA | Mistrz 2024 (rok wcześniej srebro): pewny siebie typ, którego się podziwia.
-CZEMÓ | Na podium 2024: „dlaczego”, ale z błędem ortograficznym zrobionym celowo.
-AZBEST | Na podium 2024, choć to nazwa toksycznego materiału z eternitowych dachów.
-SZPONT | Zwycięzca 2025 (razem z czasownikiem „szponcić”): ryzykowne wygłupy albo czysta energia.
-ELUWINA | Brąz 2019: luźne powitanie, czyli „elo” w wersji rozszerzonej.
-OGARNĄĆ | Srebro 2016: dać sobie radę, zapanować nad sytuacją.
-BEKA | Brąz 2016: coś bardzo śmiesznego – „ale ___!”.
+== do-autobusu | 🚌 | Do autobusu | ★☆☆ · zdążysz przed swoim przystankiem
+KRAKÓW | Miasto, w którym hejnał urywa się w pół nuty.
+TATRY | Góry, w których korek na szlaku to standard sezonu.
+RYSY | 2499 m n.p.m., szczyt dzielony ze Słowacją.
+PANDA | Ma szósty „palec” – przerośniętą kość do trzymania bambusa.
+LEW | Jedyny kot, który żyje w stadach.
+SELFIE | Słowo roku Oxfordu 2013 – zdjęcie z wyciągniętej ręki.
+WIFI | Wbrew pozorom nie jest skrótem od „wireless fidelity”, tylko chwytem marketingowym.
+KSIĘŻYC | Zawsze widzimy tylko jedną jego stronę.
+CHOPIN | Jego serce spoczywa w kościele Świętego Krzyża w Warszawie.
+KEBAB | Danie z obrotowego rożna, zamawiane „na cienkim, mieszane”.
+LAG | Trzy litery, które tłumaczą każdą przegraną online.
+MANDAT | Grozi pieszemu, który wchodzi na pasy wpatrzony w telefon.
+ZUS | Tam lecą twoje składki, choć wolałbyś nie myśleć o emeryturze (skrót).
+TIKTOK | Apka stworzona przez chińską firmę ByteDance.
+MIÓD | Praktycznie się nie psuje – jadalny znaleziono podobno w egipskich grobowcach.
+JESIEŃ | Amerykanie nazywają ją od spadających liści.
 
-== msr-2026 | 🗳️ | MSR 2026: finałowa dwunastka | Głosowanie w PWN trwa do 30 listopada, wyniki 8 grudnia. Znasz wszystkich finalistów?
-AURA FARMING | Celowe „farmienie” aury luźnymi pozami – jak chłopiec tańczący na dziobie łodzi w viralu z Indonezji.
-BRO | Kumpel, ziomek, brat – po angielsku i w trzech literach. Finalista drugi rok z rzędu.
-BROKUŁ | Fryzura: krótkie boki i burza loków na czubku, jak różyczka pewnego zielonego warzywa.
-KUKIRINIARZ | Kpiąco o kimś, kto szaleje na elektrycznej hulajnodze pewnej marki i się popisuje.
-LARP | Udawanie kogoś, kim się nie jest – np. eksperta bez wiedzy. Od „live action role-play”.
-SON | Ironiczna reakcja na coś absurdalnego albo żenującego – dosłownie „synu”, tylko po angielsku.
-PEAK | Szczyt, top, absolutna czołówka. Bywa też „___ głupoty”.
-PŁAKAŁ | Kpina z kogoś, kto został zgaszony – mem z anegdoty o trollu, który ponoć się rozkleił i przepraszał.
-SLOP | Tanie, masowo trzaskane treści, zwłaszcza z AI. Słowo roku Merriam-Webster 2025.
-SPŁYWKA | „Spadaj, zmywaj się, wypad” – w jednym słowie i na luzie.
-TUFF | Mocne, modne, robiące wrażenie, zwłaszcza o ciuchach. Od angielskiego „tough”.
-UNC | Ktoś (zwykle facet), kto nie ogarnia trendów – nowy „boomer”. Od angielskiego „uncle”.
-SZPONCIĆ | Obrońca tytułu: zwycięski czasownik z 2025 r.
-GALA | Uroczystość, na której 8 grudnia poznamy zwycięzcę.
-PWN | Wydawnictwo, które od 2016 r. organizuje plebiscyt (skrót).
+== leniwa-niedziela | 🛋️ | Leniwa niedziela | ★☆☆ · do kawy i scrollowania
+RZYM | Miasto, w którego środku leży całe osobne państwo.
+KANGUR | Razem z emu trzyma herb Australii.
+PINGWIN | Tux, maskotka Linuksa, to właśnie on.
+SPOTIFY | Szwedzka apka, która co grudzień zdradza, czego słuchałeś cały rok.
+SŁOŃCE | Jego światło leci do nas około ośmiu minut.
+PARYŻ | Miasto, którego najsłynniejsza wieża miała stać tylko 20 lat.
+GRUNWALD | Miejsce, w którym Krzyżacy przysłali Jagielle dwa nagie miecze.
+RKO | Trzy litery, które mogą uratować życie: 30 uciśnięć i 2 wdechy.
+CRINGE | Uczucie, gdy rodzic próbuje używać twojego slangu.
+SUSHI | Danie, w którym nigiri i maki to dopiero początek.
+KOPERNIK | Nie tylko astronom – sformułował też prawo o gorszym pieniądzu.
+SMOK | Pokonała go owca nadziana siarką.
+HEJT | Anonimowe komentarze, po których ktoś znika z sieci na tydzień.
+OCEAN | Spokojny, choć wcale taki nie jest.
+MINECRAFT | Najlepiej sprzedająca się gra wideo w historii.
+BUDŻET | Plan, który zwykle kończy się na „jeszcze tylko jedna kawa na mieście”.
 
-== brainrot | 🧠 | Brainrot | Jeśli znasz wszystkie hasła, to może czas wyjść na dwór.
-BRAINROT | Mózg zgniły od nadmiaru memów. Słowo roku Oxfordu 2024.
-SKIBIDI | Śpiewające głowy wystające z sedesów – kultowa seria z YouTube'a i finalista MSR 2025.
-OHIO | Stan USA, gdzie według memów dzieją się najdziwniejsze rzeczy: „only in ___”.
-MEWING | Język przy podniebieniu dla ostrzejszej szczęki. Gest palcem wzdłuż żuchwy = „nie odpowiadam”.
-FANUM TAX | Podatek od jedzenia: kumpel podbiera ci frytki, bo tak robi pewien streamer.
-MOGGING | Przyćmiewanie kogoś samym wyglądem – stoisz obok i nikt już na niego nie patrzy.
-LOOKSMAXXING | Wyciskanie maksimum z wyglądu: skincare, siłka, fryzura i ostra linia szczęki.
-TRALALERO | „___ Tralala” – rekin na trzech nogach w niebieskich Nike’ach z włoskiego brainrotu.
-SAHUR | „Tung Tung Tung ___” – drewniany ludzik z kijem bejsbolowym.
-BOMBARDIRO | „___ Crocodilo” – krokodyl-bombowiec, gwiazda włoskiego brainrotu.
-CAPPUCCINA | „Ballerina ___” – baletnica z filiżanką kawy zamiast głowy.
-SIX SEVEN | Liczby, które cała klasa wykrzykuje, machając dłońmi jak szalkami wagi. Srebro MSR 2025.
-SHEESH | Okrzyk podziwu – im dłużej przeciągasz „eee”, tym większy szacun.
-TOUCH GRASS | Rada dla kogoś, kto za długo siedzi w sieci: idź i dotknij trawy.
-CHAT | Zwracanie się do znajomych w realu, jakby byli widzami streama: „___, is this real?”.
+== przerwa-na-kawe | ☕ | Przerwa na kawę | ★☆☆ · szybkie 10 minut
+SAHARA | Kiedyś zielona sawanna, dziś piaskownica prawie wielkości USA.
+NIL | Płynie z południa na północ, więc Dolny Egipt leży na górze mapy.
+PIRAMIDA | Ta w Gizie przez prawie 4 tys. lat była najwyższą budowlą świata.
+DELFIN | Śpi, wyłączając po kolei półkule mózgu.
+GITARA | Jimi Hendrix grał na niej odwróconej do góry nogami.
+QUEEN | Zespół, którego wokalista urodził się na Zanzibarze jako Farrokh Bulsara.
+ROBLOX | Platforma, na której dzieciaki same robią gry – np. „Grow a Garden”.
+NOOB | Ktoś, kto dopiero zaczyna, i wszyscy na serwerze to widzą.
+MATURA | Egzamin, który zawsze zaczyna się od polskiego.
+LOKATA | Bankowa opcja, gdy chcesz, żeby kasa poleżała i trochę urosła.
+HASŁO | „123456” to najpopularniejsze na świecie – i najgorsze.
+SKŁODOWSKA | Jedyna osoba z Noblami z dwóch różnych nauk ścisłych.
+TOKIO | Gospodarz igrzysk, które odbyły się rok po terminie.
+ŻUBR | Wymarł na wolności i odrodził się z kilkunastu osobników z zoo.
+VIRAL | Treść, która rozchodzi się jak zaraza – stąd nazwa.
+LATO | Zaczyna się w najdłuższy dzień roku.
 
-== feed | 📱 | Feed i sociale | TikTok, Insta, Snap i cała reszta, przez którą nie śpisz.
-FYP | Strona „Dla Ciebie” na TikToku po angielsku – tam chce trafić każdy filmik (skrót).
-POV | „___: jesteś ostatnim klientem Żabki przed 23:00” – scenka, w której to ty grasz główną rolę.
-ALGORYTM | Tajemnicza siła, która wie o tobie więcej niż matka i decyduje, co zobaczysz.
-VIRAL | Filmik, który w jedną noc zbiera miliony wyświetleń.
-STITCH | Funkcja TikToka: wycinasz kawałek cudzego filmiku i doklejasz swoją odpowiedź.
-DUET | Twój filmik obok cudzego na podzielonym ekranie – albo po prostu występ we dwoje.
-STREAK | Ognik na Snapie: ile dni z rzędu wysyłacie sobie snapy. Zerwać go to zdrada.
-REELS | Instagramowa odpowiedź na TikToka.
-STORY | Relacja, która znika po 24 godzinach.
-RATIO | Gdy odpowiedź pod twoim postem zbiera więcej lajków niż sam post.
-DOOMSCROLLING | Przewijanie feedu o trzeciej w nocy, chociaż o ósmej masz kartkówkę.
-CLOSE FRIENDS | Zielona lista na Instagramie: story tylko dla wybranych.
-SHADOWBAN | Platforma po cichu ukrywa twoje posty, a ty nawet nie wiesz, czym podpadłeś.
-RAGE BAIT | Treść zrobiona po to, żeby cię wkurzyć i wycisnąć komentarze. Słowo roku Oxfordu 2025.
-PARASOCIAL | O relacji z kimś, kto nie wie o twoim istnieniu – np. z ulubionym streamerem. Słowo roku Cambridge 2025.
-HASHTAG | Słowo z kratką na początku.
-DONEJT | Wpłata dla streamera, często z wiadomością czytaną przez syntezator mowy.
+== po-lekcjach | 🎒 | Po lekcjach | ★☆☆ · mózg jeszcze działa
+MICKIEWICZ | Wieszcz, który za życia nie był ani w Warszawie, ani w Krakowie.
+EVEREST | Nazwany od brytyjskiego geodety; Nepalczycy mówią na niego Sagarmatha.
+ATOM | Po grecku „niepodzielny” – a jednak dało się go podzielić.
+DNA | Rozwinięte z jednej komórki ciągnęłoby się na około 2 metry (skrót).
+BOCIAN | Co czwarty taki ptak na świecie gniazduje w Polsce.
+PODCAST | Nazwa to skrzyżowanie iPoda i „broadcastu”.
+DISCORD | Komunikator, którego nazwa po angielsku oznacza „niezgodę”.
+BLIK | Polski sposób płacenia kodem, który wygasa po dwóch minutach.
+INFLACJA | Przez nią zapiekanka kosztuje dziś tyle, co kiedyś cały obiad.
+FERIE | Zimowe wolne, które każde województwo ma w innym terminie.
+OLIMPIADA | Potocznie igrzyska; formalnie – czteroletni okres między nimi.
+WAWEL | Wzgórze, pod którym mieszkał najsłynniejszy polski gad.
+AWOKADO | Przez tosty z nim millenialsom wytykano, że nie stać ich na mieszkanie.
+TRAMWAJ | Na szynach, ale nie pociąg; w Krakowie i Warszawie ma kilkadziesiąt linii.
+SLAY | Po angielsku „zabić”, w slangu – totalnie wymiatać.
+KOMAR | Gryzie tylko samica – samiec pije nektar.
 
-== gaming | 🎮 | Gaming | GG EZ… czy jednak lag?
-NOOB | Totalny początkujący – czyli ty w pierwszym meczu rankingowym.
-LAG | Wymówka numer jeden po przegranej: „to nie ja, to ___”.
-CLUTCH | Wygranie rundy, gdy zostajesz sam przeciwko całej drużynie wroga.
-CREEPER | Zielony gość z Minecrafta, który robi „tsss” i wysadza ci dom.
-ROBUX | Waluta, na którą młodsze rodzeństwo wydaje kartę rodziców.
-FORTNITE | Battle royale z tańcami, w którym koncert zagrał sam Travis Scott.
-RESPAWN | Powrót do gry po śmierci, czyli odrodzenie.
-AFK | Jesteś w grze, ale cię nie ma – poszedłeś po chipsy (skrót).
-SPEEDRUN | Przejście gry na czas, najchętniej z użyciem glitchy.
-TRYHARD | Gracz, który w luźnym meczu poci się jak w finale mistrzostw.
-SKIN | Wygląd postaci za prawdziwe pieniądze – nic nie daje, a daje wszystko.
-LOOTBOX | Wirtualna skrzynka z losową zawartością. Belgia uznała płatne za hazard.
-NERF | Osłabienie postaci w patchu – przeciwieństwo buffa.
-BOSS | Najmocniejszy przeciwnik na końcu poziomu.
-GTA | Seria Rockstara, na której szóstą część czekał chyba cały świat (skrót).
-STEAM | Platforma Valve: kupujesz gry na wyprzedaży i nigdy w nie nie grasz.
-ENDERMAN | Wysoki, czarny mieszkaniec Minecrafta. Nie patrz mu w oczy.
+== dookola-swiata | 🌍 | Dookoła świata | ★★☆ · bez paszportu
+OSLO | Jedyne miasto, w którym wręcza się Pokojową Nagrodę Nobla.
+SEUL | W jego aglomeracji mieszka mniej więcej co drugi Koreańczyk z Południa.
+LIZBONA | Stolica zrównana z ziemią przez trzęsienie ziemi w 1755 r.
+ISLANDIA | Kraj bez własnej armii, za to z gejzerami i wulkanami.
+AMAZONKA | Niesie więcej wody niż kilka kolejnych największych rzek razem.
+KANADA | Kraj z największą liczbą jezior na świecie.
+KAIR | Stolica, z której przedmieść widać piramidy w Gizie.
+ALPY | Góry, przez które Hannibal przeprowadził słonie.
+WENECJA | Miasto, które od 2024 r. pobiera opłatę od jednodniowych turystów.
+DUBAJ | Ojczyzna czekolady z pistacjami i kataifi, która podbiła TikToka.
+PASZPORT | Polski ma w środku obrazy widoczne dopiero w świetle UV.
+ROAMING | Opłaty, które Unia zniosła w 2017 r.
+JETLAG | Przez niego po locie do Tokio budzisz się o trzeciej w nocy.
+HAWAJE | Stan USA, w którym urodził się Barack Obama.
+MEKSYK | Kraj, któremu świat zawdzięcza tacos, guacamole i Dzień Zmarłych w wersji z czaszkami.
+NORWEGIA | Na jej północy latem słońce przez kilka tygodni w ogóle nie zachodzi.
 
-== red-flagi | 🚩 | Red flagi i crushe | Randkowy słownik – przeczytaj, zanim napiszesz do crusha.
-RED FLAG | Nie ma żadnych znajomych, a wszystkie jego byłe to „wariatki”.
-GREEN FLAG | Pamięta, że nie jesz cebuli, i sam pyta, czy dotarłaś do domu.
-GHOSTING | Zniknięcie bez słowa, jak duch – zero odpowiedzi, ale twoje story nadal ogląda.
-SITUATIONSHIP | Więcej niż przyjaźń, mniej niż związek, a pytanie „kim dla siebie jesteśmy?” jest zakazane.
-CRUSH | Osoba, przy której zapominasz, jak się chodzi i mówi.
-SIMP | Ktoś, kto robi wszystko dla osoby, która ma go kompletnie w nosie.
-ICK | Nagła odraza do kogoś, np. bo zobaczyłaś, jak biegnie za autobusem.
-LOVE BOMBING | Prezenty i wyznania od pierwszego tygodnia – podejrzanie dużo, podejrzanie szybko.
-BREADCRUMBING | Rzucanie okruszków: jeden lajk na tydzień, żeby ktoś nie przestał się tobą interesować.
-SOFT LAUNCH | Na story tylko jego dłoń albo dwie kawy na stoliku – związek ogłoszony, ale tylko trochę.
-HARD LAUNCH | Wspólne zdjęcie z twarzą i oznaczeniem – związek oficjalnie na feedzie.
-TALKING STAGE | Etap pisania do siebie godzinami, zanim „coś” się w ogóle zacznie.
-FRIENDZONE | Strefa, z której nie ma powrotu: „jesteś dla mnie jak brat”.
-WALENTYNKI | 14 lutego: albo randka, albo wieczór z psiapsiółkami i pizzą.
-BESTIE | Pierwsza osoba, która dostaje screena waszej rozmowy.
+== nauka | 🧪 | Biologia, fizyka i reszta | ★★☆ · ściąga, której nie miałeś
+MITOCHONDRIUM | „The powerhouse of the cell” – mem, który przetrwał każdą lekcję biologii.
+FOTOSYNTEZA | Na wejściu CO₂, woda i światło, na wyjściu cukier i tlen.
+GRAWITACJA | Na Księżycu jest jej sześć razy mniej.
+NEWTON | Jednostka siły nazwana od gościa z jabłkiem.
+EINSTEIN | Nobla dostał nie za względność, tylko za efekt fotoelektryczny.
+WODÓR | Około trzech czwartych masy zwykłej materii we Wszechświecie.
+NEURON | Masz ich w mózgu około 86 miliardów.
+PLUTON | W 2006 r. zdegradowany do karłów.
+SATURN | Planeta o gęstości mniejszej niż woda – pływałaby w gigantycznej wannie.
+PITAGORAS | Grek, który podobno zakazywał uczniom jedzenia bobu.
+MAGNES | Jego jednoimienne bieguny się odpychają.
+TĘCZA | Widzisz ją tylko wtedy, gdy słońce masz za plecami.
+KOFEINA | Blokuje receptory adenozyny, więc mózg „nie wie”, że jest zmęczony.
+DOPAMINA | Neuroprzekaźnik, na którym apki zarabiają przy każdym twoim scrollu.
+BAKTERIA | Na nią antybiotyk działa, na grypę już nie.
+SZCZEPIONKA | Pierwszą zrobił Edward Jenner – z krowianki.
 
-== muza | 🎧 | Muza | Od Taco po Sabrinę – co leci w słuchawkach.
-MATA | Raper, który w „Patointeligencji” opisał imprezy dzieciaków z dobrych domów.
-TACO | Hemingway od „Szprycera” i „Café Belga”.
-TACONAFIDE | Duet Hemingwaya i Queby, autorzy albumu „Soma 0,5 mg”.
-SANAH | Wokalistka od „Szampana” i „Melodii”.
-PODSIADŁO | Dawid, „Małomiasteczkowy” chłopak z Dąbrowy Górniczej.
-YOUNG LEOSIA | Raperka od „Szklanek”, które leciały na każdej imprezie w 2021.
-KENDRICK | Lamar, autor dissu „Not Like Us”, który wykonał go na Super Bowlu.
-DISS | Numer, w którym jedziesz po innym raperze.
-BIT | Podkład, na którym ktoś rapuje – spolszczony „beat”.
-FEAT | Gościnna zwrotka innego artysty w czyimś numerze (skrót).
-AUTOTUNE | Efekt, dzięki któremu każdy brzmi jak robot, a niektórzy jak gwiazdy.
-WRAPPED | Grudniowe podsumowanie Spotify, którym wszyscy chwalą się na story.
-SABRINA | Carpenter, która nagrała „Espresso”.
-ROSÉ | Gwiazda BLACKPINK, która z Bruno Marsem nagrała „APT.”.
-TRAP | Gatunek z hi-hatami jak serie z karabinu i dudniącym basem 808.
-PLATYNA | Wyróżnienie dla płyty, która sprzedała się lepiej niż „złota”.
+== historia | 🏰 | Lekcja historii | ★★☆ · daty, które warto ogarniać
+MIESZKO | Jego chrzest w 966 r. to umowny początek Polski.
+CHROBRY | Bolesław, który w 1025 r. został pierwszym koronowanym królem.
+KONSTYTUCJA | Ta z 1791 r. obowiązywała niewiele ponad rok.
+ENIGMA | Maszyna, którą złamali Rejewski, Różycki i Zygalski.
+SOLIDARNOŚĆ | Ruch, który w szczytowym momencie liczył około 10 mln członków.
+NAPOLEON | Wódz, którego hymn Polski wymienia z nazwiska.
+TITANIC | „Niezatapialny” – do 15 kwietnia 1912 r.
+KLEOPATRA | Żyła bliżej czasów iPhone’a niż budowy piramid w Gizie.
+WIKING | Wbrew filmom nie nosił hełmu z rogami.
+BERLIN | Przez 28 lat dzielił go mur.
+PIŁSUDSKI | Marszałek, który 11 listopada 1918 r. przejął dowództwo nad wojskiem.
+GLADIATOR | Walczył na arenie, ale rzadko na śmierć – był na to za drogi.
+PRL | Państwo z kartkami na mięso (skrót).
+FARAON | Tutenchamon był nim jako nastolatek.
+HUSARIA | Jazda ze skrzydłami, która pod Wiedniem w 1683 r. poprowadziła wielką szarżę.
+WRZESIEŃ | Miesiąc 1939 r., w którym Polskę zaatakowano z dwóch stron.
 
-== fit-check | 👟 | Fit check | Rate my fit – od lumpeksu po Labubu.
-DRIP | Styl, który aż kapie – gdy outfit robi całą robotę.
-FIT CHECK | Pokazanie całej stylówki na TikToku, od butów po czapkę.
-VINTED | Apka, na której sprzedajesz ciuchy założone raz i kupujesz cudze, też założone raz.
-LABUBU | Potworek z ząbkami od Pop Martu, przypinany do torebki. Ludzie stali po niego w kolejkach.
-OVERSIZE | Bluza o trzy rozmiary za duża – i to celowo.
-BAGGY | Szerokie spodnie, które wysłały skinny jeansy na emeryturę.
-CROCS | Gumowe chodaki z dziurkami, w które wpinasz przypinki.
-LUMPEKS | Polski thrift shop, zwany też szmateksem.
-CLEAN GIRL | Estetyka: gładki kok, błyszczące policzki i złote kółka w uszach.
-OLD MONEY | Styl „dziadek z jachtem”: sweter zarzucony na ramiona i mokasyny.
-GORPCORE | Kurtka przeciwdeszczowa i buty trekkingowe – tyle że do miasta, nie w góry.
-STANLEY | Kubek termiczny, który stał się symbolem statusu.
-JORDANY | Buty z sylwetką skaczącego koszykarza w logo – flex numer jeden.
-TOTE BAG | Płócienna torba z napisem, w której nosisz laptopa i matchę.
-NERKA | Saszetka na pasku – kiedyś na brzuchu taty na wakacjach, dziś przez ramię.
+== lektury | 📚 | Lektury bez ściemy | ★★☆ · nawet jeśli czytałeś streszczenie
+PAN TADEUSZ | Ostatni zajazd na Litwie w dwunastu księgach.
+SIENKIEWICZ | Pierwszy polski noblista w dziedzinie literatury (1905).
+SZYMBORSKA | Poetka od „Kota w pustym mieszkaniu”, noblistka z 1996 r.
+TOKARCZUK | Noblistka, autorka „Biegunów”.
+WIEDŹMIN | Nosi dwa miecze: stalowy na ludzi, srebrny na potwory.
+HOGWART | Szkoła, do której list przynosi sowa.
+GANDALF | Najpierw Szary, potem Biały.
+ROMEO | Kochanek z Werony, który wypił truciznę o chwilę za wcześnie.
+LALKA | Powieść, w której Wokulski traci głowę dla Izabeli Łęckiej.
+DZIADY | Dramat, którego zdjęcie z afisza w 1968 r. stało się iskrą protestów.
+KORDIAN | Słowacki kazał mu wejść na Mont Blanc i wygłosić monolog.
+FRASZKA | Krótki, dowcipny wierszyk, np. „Na lipę”.
+KOCHANOWSKI | Poeta z Czarnolasu, który po śmierci córki napisał „Treny”.
+EBOOK | Książka bez ani jednej kartki.
+AUDIOBOOK | Lektura do słuchania w autobusie.
+SPOILER | „Bruce Willis przez cały film był…” – stop, nie kończ!
 
-== zarcie | 🍜 | Żarcie i drinki | Matcha, kebab i hot dog z Żabki o 23:00.
-MATCHA | Zielony proszek, bez którego żadna „that girl” nie wyjdzie rano z domu.
-BUBBLE TEA | Herbata z kulkami tapioki, pita przez grubą słomkę.
-ZAPIEKANKA | Pół bagietki z pieczarkami i serem – legenda krakowskiego Kazimierza.
-ŻABKA | Zielony sklep na każdym rogu, gdzie hot dog o 23:00 smakuje najlepiej.
-KEBAB | „Na grubym, mieszany, ostry” – polska klasyka po imprezie.
-MONSTER | Energetyk w puszce z zielonymi pazurami – paliwo na sesję.
-DUBAJSKA | „___ czekolada”: pistacje i chrupiące kataifi, za które płaciło się fortunę.
-RAMEN | Japońska zupa z makaronem – w wersji instant dieta każdego studenta.
-ONIGIRI | Trójkąt z ryżu owinięty glonem nori.
-MUKBANG | Filmik, w którym ktoś pochłania do kamery górę jedzenia.
-ASMR | Szepty i chrupanie prosto do mikrofonu, od których przechodzą ciarki (skrót).
-PRIME | Napój Logana Paula i KSI, za którym dzieciaki goniły po sklepach.
-BIAŁKO | Gym bros liczą je w gramach i dosypują nawet do kawy.
-EKIPA | Grupa Friza, która miała nawet własne lody.
-KOMBUCHA | Fermentowana herbata, która smakuje jak… zdrowie.
-ACAI | Fioletowa miska z brazylijskich jagód – obowiązkowo na story.
+== sport | ⚽ | Sportowa | ★★☆ · na rozgrzewkę przed meczem
+ŚWIĄTEK | W finale Wimbledonu 2025 nie oddała rywalce ani gema.
+MAŁYSZ | Wiślanin, przez którego w 2001 r. cała Polska zaczęła oglądać skoki.
+LEWANDOWSKI | Strzelił Wolfsburgowi pięć goli w dziewięć minut.
+KUBICA | Pierwszy Polak w F1, a w 2025 r. zwycięzca 24h Le Mans.
+SIATKÓWKA | Dyscyplina Bartosza Kurka i Wilfredo Leona.
+MUNDIAL | Turniej, który w 2026 r. po raz pierwszy miał 48 drużyn.
+MESSI | Ośmiokrotny zdobywca Złotej Piłki.
+RONALDO | Jego „SIUUU” zna każdy, kto choć raz otworzył TikToka.
+MARATON | Nazwa od greckiej równiny, z której biegł posłaniec.
+KARNY | Panenka to jeden ze sposobów na jego wykonanie.
+SPALONY | Przepis, którego nikt nie potrafi wytłumaczyć mamie.
+E-SPORT | Rywalizacja, w której mistrzowie grają w CS-a czy LoL-a o miliony.
+SIŁOWNIA | Miejsce, gdzie poniedziałek to „dzień klaty”.
+REKORD | Bolt ma go na 100 m: 9,58 s.
+RAKIETA | Narzędzie pracy Huberta Hurkacza.
+VAR | Trzy litery, przez które z gola cieszysz się dopiero po trzech minutach.
 
-== szkola | 🎒 | Szkoła i matura | Od kartkówki do studniówki.
-MATURA | Egzamin, do którego „jest jeszcze dużo czasu”… aż nagle jest maj.
-LIBRUS | Dziennik elektroniczny, którego powiadomienie potrafi zepsuć cały dzień.
-KARTKÓWKA | Niezapowiedziana mini-katastrofa na 15 minut.
-ŚCIĄGA | Kiedyś pod piórnikiem, dziś w smartwatchu.
-KORKI | Dodatkowe lekcje za kasę, bo „z matmy jest słabo”.
-WAGARY | Nieobecność bez usprawiedliwienia – tradycyjnie 21 marca.
-STUDNIÓWKA | Bal na sto dni przed najważniejszym egzaminem w życiu (tak przynajmniej mówią).
-POLONEZ | Taniec, którym otwiera się bal sto dni przed egzaminem dojrzałości – i kultowe auto z FSO.
-PASEK | Biało-czerwony bonus za średnią minimum 4,75 i co najmniej bardzo dobre zachowanie.
-OSIEMNASTKA | Impreza, po której piwo w Żabce kupisz już legalnie.
-NUMEREK | „Szczęśliwy ___” – jeśli wypadnie twój, nie mogą cię dziś pytać.
-KUJON | Osoba, która przypomina pani o zadanej pracy domowej.
-DYRA | Szef albo szefowa szkoły w wersji potocznej.
-WUEF | Lekcja, na którą „zapomniałeś stroju”.
-ODPYTKA | Pani wodzi palcem po dzienniku, a cała klasa przestaje oddychać.
-ŚWIADECTWO | Papier z ocenami na koniec roku – dla jednych powód do dumy, dla innych do chowania przed rodzicami.
+== doroslosc | 🧾 | Dorosłość na start | ★★☆ · to, czego nie uczą w szkole
+RRSO | Pokazuje prawdziwy koszt kredytu, razem z prowizjami i ubezpieczeniem (skrót).
+PHISHING | „Twoja paczka czeka, dopłać 1,99 zł” – i po chwili masz pusto na koncie.
+KAUCJA | Od października 2025 r. odzyskasz ją, oddając butelkę w sklepie.
+URLOP | Po 10 latach stażu masz go 26 dni, wcześniej 20.
+WYPOWIEDZENIE | Przy dłuższym stażu może trwać nawet trzy miesiące.
+NETTO | Kwota, która naprawdę wpada na konto.
+BRUTTO | Kwota, którą chwali się pracodawca w ogłoszeniu.
+RODO | Dzięki niemu możesz zażądać usunięcia swoich danych (skrót).
+CZYNSZ | Co miesiąc idzie do właściciela mieszkania albo spółdzielni.
+FAKTURA | Dokument, który co miesiąc wystawia każdy na B2B.
+DEFIBRYLATOR | Zielona skrzynka z sercem i błyskawicą, wisząca na dworcach.
+ŻYCIORYS | Polskie słowo na CV, którego nikt już nie używa.
+ODSETKI | Rosną, gdy spóźniasz się z ratą.
+RACHUNEK | „Poproszę ___” – mówisz kelnerowi na koniec.
+SPF | Liczba na tubce kremu – im wyższa, tym mniej spieczony nos (skrót).
+GRAFIK | Kto go układa, ten rządzi twoim weekendem.
 
-== tech-ai | 🤖 | Tech i AI | Prompty, deepfake’i i hasło do Wi-Fi.
-CHATGPT | Chatbot OpenAI – najczęstszy niewymieniony współautor wypracowań.
-PROMPT | Polecenie wpisywane do AI. Dobre to połowa sukcesu.
-DEEPFAKE | Fałszywe wideo, w którym AI wkłada komuś w usta słowa, których nigdy nie powiedział.
-HALUCYNACJA | Gdy AI z pełnym przekonaniem wymyśla fakty, których nie ma.
-VIBE CODING | Programowanie na czuja: mówisz AI, co chcesz, i nie czytasz kodu. Słowo roku Collinsa 2025.
-AIRPODS | Białe słuchawki, które gubisz pojedynczo.
-POWERBANK | Zewnętrzna bateria – ratunek na festiwalu.
-HOTSPOT | Udostępnianie netu z telefonu kumplowi, który „zaraz odda”.
-CAPTCHA | Zaznacz wszystkie obrazki z sygnalizatorem, żeby udowodnić, że nie jesteś robotem.
-DARK MODE | Ciemny motyw, bez którego oczy płaczą o drugiej w nocy.
-SCREENSHOT | Dowód w każdej dramie.
-BLIK | Sześciocyfrowy kod, którym płacisz za wszystko – od kebaba po zrzutkę.
-GLITCH | Błąd, przez który gra albo apka zaczyna robić dziwne rzeczy.
-APKA | Aplikacja, ale po ludzku.
-CLANKER | Pogardliwie o robotach i AI – słówko z „Gwiezdnych wojen”, które w 2025 r. stało się memem.
-ŁADOWARKA | Rzecz, którą każdy pożycza i nikt nie oddaje.
-WIFI | Pierwsze pytanie w nowym miejscu: „jakie jest hasło do ___?”.
+== kino | 🎬 | Kino i seriale | ★★☆ · popcorn w dłoń
+SHREK | Ogr, według którego ogry są jak cebula.
+OSCAR | Statuetka, którą podobno nazwano od czyjegoś wujka.
+HOLLYWOOD | Słynny napis na wzgórzu pierwotnie kończył się na „-LAND”.
+JOKER | Joaquin Phoenix tańczył w tej roli na schodach w Bronksie.
+BARBIE | Pełne imię: Barbara Millicent Roberts.
+OPPENHEIMER | Film Nolana, w którym wybuch nakręcono bez CGI.
+ELEVEN | Bohaterka „Stranger Things”, która zamiast imienia ma numer.
+MARVEL | Kinowe uniwersum, w którym trzeba siedzieć do końca napisów.
+THANOS | Pstryknął palcami w rękawicy z sześcioma kamieniami.
+YODA | Mistrz Jedi, szyk zdania odwrotny stosujący.
+POPCORN | Kina zarabiają na nim podobno więcej niż na biletach.
+KADR | Jedna klatka filmu albo fragment zdjęcia po przycięciu.
+REŻYSER | Na oparciu jego krzesła jest napisane, kim jest.
+SEQUEL | „Dwójka”, która rzadko jest lepsza od „jedynki”.
+WEDNESDAY | Serial, którego taniec na TikToku przywrócił do łask „Bloody Mary” Lady Gagi.
+ANIME | „To nie są bajki!” – broni się każdy jego fan.
 
-== main-character | 🎬 | Main character | Twoje życie to serial, a ty grasz główną rolę.
-LORE | „Opowiedz mi swój ___” – czyli całe życie od podstawówki.
-ARC | Etap przemiany postaci, np. „villain ___”, kiedy przestajesz być miły.
-ERA | „Jestem w swojej ___ spokoju” – etap życia nazwany jak trasa Taylor Swift.
-SIDE QUEST | Poboczna misja, np. zgubienie się w Ikei w drodze po klopsiki.
-MAIN CHARACTER | Idziesz przez miasto w słuchawkach, jakby kręcili o tobie film – ___ energy.
-PLOT TWIST | Nieoczekiwany zwrot akcji.
-SPOILER | Zdradzenie zakończenia. Grozi za to wyrzucenie z grupki na Messengerze.
-CANON | „___ event” ze „Spider-Mana: Poprzez multiwersum” – coś, co po prostu musiało ci się przytrafić.
-GLOW UP | Spektakularna przemiana na lepsze, najlepiej po wakacjach.
-FILLER | Odcinek-wypełniacz, w którym nic się nie dzieje – jak każdy poniedziałek.
-CLIFFHANGER | Koniec odcinka w najgorszym możliwym momencie.
-BOSS FIGHT | Ostateczne starcie, np. rozmowa z wychowawczynią o frekwencji.
-ROMANTYZOWAĆ | „___ swoje życie” – pić kawę na balkonie, jakby to była scena z filmu.
+== tech | 💻 | Tech i internet | ★★☆ · dla tych, co naprawiają rodzicom drukarkę
+ALGORYTM | Nazwa pochodzi od perskiego matematyka al-Chwarizmiego.
+CHATBOT | ELIZA z 1966 r. była jednym z pierwszych.
+PROMPT | „Napisz to jak pirat” – przykład takiego polecenia dla AI.
+PIKSEL | Kwadracik, z którego zbudowany jest każdy obraz na ekranie.
+ROUTER | Pudełko z mrugającymi diodami, które naprawiasz metodą „wyłącz i włącz”.
+BLUETOOTH | Nazwany od duńskiego króla Haralda Sinozębego.
+CAPTCHA | Klikasz w sygnalizatory świetlne, żeby udowodnić, że jesteś człowiekiem.
+DEEPFAKE | Wideo, w którym polityk mówi coś, czego nigdy nie powiedział.
+LINUX | System, który fiński student napisał w 1991 r. jako hobby.
+SPAM | Nazwa od konserwy z mielonką i skeczu Monty Pythona.
+HAKER | Ten „etyczny” pomaga firmom łatać dziury.
+CHMURA | iCloud albo Dysk Google, tylko po polsku.
+POWERBANK | Ratunek na festiwalu, gdy telefon ma 1%.
+ANDROID | System, którego wersje nazywano kiedyś od deserów.
+BAJT | Osiem bitów.
+DWUETAPOWA | Weryfikacja, która ratuje konto, nawet gdy ktoś zna twoje hasło.
 
-== pilka | ⚽ | Piłka dla Gen Z | SIUUU, panenka i paczki w Ultimate Team.
-SIU | Okrzyk Ronaldo po golu, z obrotem i lądowaniem – zwykle z kilkoma „u” więcej.
-LEWY | Ksywka Roberta Lewandowskiego.
-YAMAL | Lamine, cudowne dziecko Barcy, który na Euro 2024 strzelił Francji golazo, mając 16 lat.
-HAALAND | Norweski cyborg, który po golu siada w pozycji medytacji.
-MBAPPÉ | Francuski snajper, który w 2024 r. zamienił PSG na Real.
-KINGS LEAGUE | Liga Piqué grana siedmiu na siedmiu, z tajnymi kartami i streamerami jako prezesami.
-SPEED | Streamer w koszulce Ronaldo, który szczeka, robi salta i objechał świat na żywo (ksywka w skrócie).
-ULTIMATE TEAM | Tryb w EA FC, w którym otwierasz paczki z kartami piłkarzy.
-WALKOUT | Animacja w paczce zapowiadająca, że trafiła ci się gwiazda.
-VAR | Wideoweryfikacja, która zabiera radość z gola na trzy minuty.
-SPALONY | Przez niego gol zostaje anulowany o paznokieć – po angielsku offside.
-CIESZYNKA | Taniec albo gest po strzelonym golu.
-PANENKA | Delikatny karny lobem w środek bramki, nazwany od czechosłowackiego piłkarza.
-PRZEWROTKA | Strzał nożycami nad własną głową, tyłem do bramki.
-TIKI TAKA | Styl gry tysiącem krótkich podań, rodem z Barcelony Guardioli.
-MUNDIAL | Mistrzostwa świata – w 2026 r. po raz pierwszy w historii w trzech krajach naraz.
+== muzyka | 🎵 | Muzyka | ★★☆ · słuchawki na uszy
+MOZART | Pierwszy utwór skomponował jako pięciolatek.
+BEATLESI | Ich „Yesterday” to jedna z najczęściej coverowanych piosenek w historii.
+PODSIADŁO | Chłopak z Dąbrowy Górniczej, który wypełnia stadiony.
+SANAH | Pseudonim Zuzanny Grabowskiej.
+RAP | Gatunek, w którym liczą się flow i punchline’y.
+WINYL | Płyty z niego w USA znów sprzedają się lepiej niż CD.
+PERKUSJA | Najgłośniejszy instrument w zespole, zawsze z tyłu sceny.
+SKRZYPCE | Stradivari robił je tak dobrze, że dziś kosztują miliony.
+KARAOKE | Po japońsku „pusta orkiestra”.
+OPOLE | Miasto, w którego amfiteatrze festiwal piosenki trwa od 1963 r.
+OPEN'ER | Festiwal na lotnisku w Gdyni, na który bierzesz kalosze i powerbank.
+TAYLOR | Swift, której trasa „The Eras Tour” zarobiła ponad 2 mld dolarów.
+EUROWIZJA | Konkurs, który ABBA wygrała piosenką „Waterloo”.
+PLAYLISTA | „Smutne piosenki na 2 w nocy” to przykład takiej.
+NUTA | Cała, półnuta albo ćwierćnuta.
+MATA | Raper, który w „Patointeligencji” rapował o imprezach dzieciaków z dobrych domów.
 
-== anime-seriale | 🍥 | Anime i seriale | „Jeszcze tylko jeden odcinek” – mówi każdy o 4 rano.
-LUFFY | Gumowy kapitan w słomkowym kapeluszu, który chce zostać Królem Piratów.
-ONE PIECE | Manga i anime o piratach, które w 2023 r. dostało aktorski serial na Netfliksie.
-NARUTO | Ninja z Konohy, którego bieg z rękami do tyłu kopiowały całe korytarze.
-GOJO | Najsilniejszy czarownik z „Jujutsu Kaisen”, zawsze z zasłoniętymi oczami.
-PIKACHU | Żółty elektryczny Pokémon, nieodłączny kompan Asha.
-SENPAI | Starszy kolega, który „wreszcie cię zauważy”.
-OTAKU | Fan anime i mangi, który zna więcej japońskich słów niż angielskich.
-MANGA | Japoński komiks czytany od prawej do lewej.
-WEDNESDAY | Córka Addamsów, której taniec z serialu Netfliksa podbił TikToka.
-SQUID GAME | Koreański serial, w którym zabawa w „czerwone światło, zielone światło” kończy się tragicznie.
-ELEVEN | Dziewczyna z mocami i słabością do gofrów Eggo w „Stranger Things”.
-ARCANE | Animowany serial Netfliksa o siostrach Vi i Jinx ze świata League of Legends.
-DEMON SLAYER | Anime o Tanjiro, którego siostra-demonica nosi w ustach bambus.
-K-DRAMA | Koreański serial, po którym masz ochotę na ramen i własnego oppę.
-BINGE | „___-watching” – cały sezon za jednym posiedzeniem.
-KAWAII | Japońskie „słodkie” – o wszystkim, co różowe i ma wielkie oczy.
+== dla-mozgowcow | 🧠 | Dla mózgowców | ★★★ · tu już trzeba pomyśleć
+REJEWSKI | Matematyk z Bydgoszczy, który jako pierwszy złamał Enigmę.
+MAGELLAN | Jego wyprawa jako pierwsza opłynęła Ziemię – on sam nie wrócił.
+ARCHIMEDES | Wanna, wypór i „Eureka!”.
+KAPIBARA | Największy gryzoń świata; w memach dogaduje się z każdym zwierzęciem.
+AKSOLOTL | Płaz, który potrafi odbudować nawet fragmenty serca i mózgu.
+SAPKOWSKI | Pisarz, który prawa do gier o swoim bohaterze sprzedał za grosze.
+PARLAMENT | Nazwa od francuskiego „parler” – mówić.
+SEJM | Izba, w której zasiada 460 osób.
+LEONARDO | Pisał od prawej do lewej, lustrzanym pismem.
+SYZYF | Bohater mitu o pracy, która nigdy się nie kończy – jak pranie.
+ODYSEUSZ | To on wymyślił drewnianego konia.
+PALINDROM | „Kobyła ma mały bok” to przykład.
+HIEROGLIF | Kamień z Rosetty pozwolił go wreszcie odczytać.
+OKSYMORON | „Gorący lód” albo „głośna cisza”.
+TSUNAMI | Po japońsku „fala w porcie”.
+NPC | Postać niezależna – i ziomek, który zawsze mówi to samo.

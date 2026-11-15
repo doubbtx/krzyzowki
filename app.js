@@ -63,7 +63,7 @@
     app.innerHTML = `
       <header class="hero">
         <h1>krzyżówki<br>dla gen <span class="z">z</span></h1>
-        <p>${PUZZLES.length} krzyżówek o slangu, memach, grach, szkole i całej reszcie. Zero boomerskich haseł w stylu „rzeka w Afryce, 4 litery”.</p>
+        <p>${PUZZLES.length} normalnych krzyżówek – historia, geografia, nauka, kino, sport – tylko pytania nie są podane na tacy. Do tego trochę internetu i rzeczy, które po prostu warto wiedzieć.</p>
         <div class="stats">rozwiązane: <b>${solved}/${PUZZLES.length}</b></div>
       </header>
       <section class="list">
