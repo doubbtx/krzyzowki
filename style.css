@@ -1,0 +1,194 @@
+:root {
+  --bg: #0e0e12;
+  --panel: #17171f;
+  --panel-2: #20202b;
+  --line: #2c2c3a;
+  --text: #f3f3f7;
+  --muted: #9a9aae;
+  --lime: #d4ff3a;
+  --lime-soft: #eef9c4;
+  --pink: #ff4fd8;
+  --red: #ff4d6d;
+  --violet: #8b5cf6;
+  --cell-bg: #fafaf5;
+  --cell-text: #111118;
+  --radius: 14px;
+  --cell: 32px;
+  --kb-h: 0px;
+}
+
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+
+html, body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: ui-rounded, "SF Pro Rounded", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+
+body { padding-bottom: calc(var(--kb-h) + env(safe-area-inset-bottom)); }
+
+button { font: inherit; color: inherit; cursor: pointer; }
+
+#app { max-width: 720px; margin: 0 auto; padding: 16px 12px 40px; }
+
+/* ───────── strona główna ───────── */
+
+.hero { padding: 18px 4px 10px; }
+.hero h1 {
+  margin: 0;
+  font-size: clamp(34px, 9vw, 52px);
+  line-height: 1;
+  letter-spacing: -0.03em;
+  font-weight: 800;
+}
+.hero h1 .z { color: var(--lime); }
+.hero p { margin: 10px 0 0; color: var(--muted); font-size: 15px; line-height: 1.4; }
+.hero .stats { margin-top: 14px; display: inline-block; padding: 6px 12px; border-radius: 999px; background: var(--panel-2); font-size: 13px; color: var(--muted); }
+.hero .stats b { color: var(--lime); }
+
+.list { display: grid; gap: 10px; margin-top: 18px; }
+@media (min-width: 560px) { .list { grid-template-columns: 1fr 1fr; } }
+
+.card {
+  display: flex; gap: 12px; align-items: center;
+  width: 100%; text-align: left;
+  padding: 14px; border-radius: var(--radius);
+  background: var(--panel); border: 1px solid var(--line);
+  transition: transform .12s ease, border-color .12s ease;
+}
+.card:active { transform: scale(.98); }
+.card:hover { border-color: #3d3d52; }
+.card .emoji { font-size: 30px; width: 44px; height: 44px; display: grid; place-items: center; background: var(--panel-2); border-radius: 12px; flex: none; }
+.card .meta { min-width: 0; flex: 1; }
+.card .num { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .08em; }
+.card .title { font-weight: 700; font-size: 16px; margin-top: 1px; }
+.card .sub { font-size: 13px; color: var(--muted); margin-top: 3px; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.badge { flex: none; font-size: 12px; font-weight: 700; padding: 4px 9px; border-radius: 999px; background: var(--panel-2); color: var(--muted); }
+.badge.done { background: var(--lime); color: #111; }
+.badge.wip { background: #3a2a4a; color: var(--pink); }
+
+.howto { margin-top: 22px; color: var(--muted); font-size: 13px; line-height: 1.5; padding: 0 4px; }
+.howto b { color: var(--text); }
+
+/* ───────── widok krzyżówki ───────── */
+
+.topbar { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+.back { width: 40px; height: 40px; border-radius: 12px; border: 1px solid var(--line); background: var(--panel); font-size: 18px; flex: none; }
+.topbar .t { flex: 1; min-width: 0; }
+.topbar .t .title { font-weight: 800; font-size: 18px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.topbar .t .sub { font-size: 12px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.timer { font-variant-numeric: tabular-nums; font-size: 14px; color: var(--muted); padding: 6px 10px; border-radius: 10px; background: var(--panel); flex: none; }
+
+.cluebar {
+  position: sticky; top: 0; z-index: 5;
+  display: flex; align-items: stretch; gap: 6px;
+  margin: 0 -12px 12px; padding: 8px 12px;
+  background: rgba(14, 14, 18, .92);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+}
+.cluebar .nav { width: 36px; border: none; border-radius: 10px; background: var(--panel-2); font-size: 18px; flex: none; }
+.cluebar .box { flex: 1; min-height: 58px; padding: 8px 12px; border-radius: 12px; background: var(--lime); color: #111; display: flex; flex-direction: column; justify-content: center; }
+.cluebar .label { font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; opacity: .65; }
+.cluebar .text { font-size: 15px; line-height: 1.3; font-weight: 600; }
+.cluebar .enum { font-weight: 800; white-space: nowrap; }
+
+.board { display: flex; justify-content: center; }
+.grid {
+  display: grid;
+  grid-template-columns: repeat(var(--w), var(--cell));
+  grid-auto-rows: var(--cell);
+  gap: 2px;
+  user-select: none; -webkit-user-select: none;
+  touch-action: manipulation;
+}
+.cell {
+  position: relative;
+  background: var(--cell-bg);
+  color: var(--cell-text);
+  border-radius: 4px;
+  display: grid; place-items: center;
+  font-weight: 800;
+  font-size: calc(var(--cell) * .56);
+  line-height: 1;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+.cell.block { background: transparent; cursor: default; }
+.cell .n {
+  position: absolute; top: 1px; left: 2px;
+  font-size: max(8px, calc(var(--cell) * .27));
+  font-weight: 700; color: #55556a;
+}
+.cell.word { background: var(--lime-soft); }
+.cell.sel { background: var(--lime); box-shadow: inset 0 0 0 2px #111; }
+.cell.wrong { color: var(--red); background: #ffe0e6; }
+.cell.wrong.sel { background: #ffb3c1; }
+.cell.revealed { color: var(--violet); }
+.solved .cell:not(.block) { background: var(--lime); color: #111; }
+.solved .cell.revealed { color: var(--violet); }
+
+.actions { display: flex; gap: 8px; margin: 14px 0 6px; flex-wrap: wrap; justify-content: center; }
+.actions button {
+  flex: 1 1 auto; min-width: 72px;
+  padding: 10px 12px; border-radius: 12px;
+  border: 1px solid var(--line); background: var(--panel);
+  font-size: 14px; font-weight: 700;
+}
+.actions button:active { transform: scale(.97); }
+.actions .danger.armed { background: var(--red); border-color: var(--red); color: #fff; }
+
+.win {
+  margin: 12px 0; padding: 14px 16px; border-radius: var(--radius);
+  background: linear-gradient(120deg, var(--lime), #a6ff7a);
+  color: #111; font-weight: 800; font-size: 17px; text-align: center;
+}
+.win small { display: block; font-weight: 600; font-size: 13px; margin-top: 3px; opacity: .75; }
+
+.clues { display: grid; gap: 16px; margin-top: 14px; }
+@media (min-width: 640px) { .clues { grid-template-columns: 1fr 1fr; } }
+.clues h3 { margin: 0 0 6px; font-size: 13px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
+.clues ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+.clue {
+  display: flex; gap: 8px; width: 100%; text-align: left;
+  padding: 8px 10px; border-radius: 10px; border: none;
+  background: transparent; font-size: 14px; line-height: 1.35;
+}
+.clue .cn { font-weight: 800; color: var(--lime); min-width: 22px; }
+.clue .ce { color: var(--muted); white-space: nowrap; }
+.clue.active { background: var(--panel-2); }
+.clue.filled .ct { color: var(--muted); text-decoration: line-through; text-decoration-color: #555; }
+
+/* ───────── klawiatura ekranowa ───────── */
+
+.kb {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 20;
+  padding: 6px 4px calc(6px + env(safe-area-inset-bottom));
+  background: #121218; border-top: 1px solid var(--line);
+  display: none;
+}
+.kb.on { display: block; }
+.kb .row { display: flex; gap: 4px; justify-content: center; margin: 4px 0; }
+.kb button {
+  flex: 1 1 0; max-width: 44px; height: 42px;
+  border: none; border-radius: 7px;
+  background: #2b2b38; color: var(--text);
+  font-size: 17px; font-weight: 700;
+  touch-action: manipulation;
+}
+.kb button.pl { background: #24243a; color: #cfc3ff; font-size: 16px; }
+.kb button.wide { max-width: 64px; flex-grow: 1.6; font-size: 15px; }
+.kb button:active { background: var(--lime); color: #111; }
+
+/* ───────── toast ───────── */
+
+#toast {
+  position: fixed; left: 50%; bottom: calc(var(--kb-h) + 18px + env(safe-area-inset-bottom));
+  transform: translateX(-50%) translateY(10px);
+  background: #fff; color: #111; font-weight: 700; font-size: 14px;
+  padding: 10px 16px; border-radius: 999px;
+  opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s;
+  z-index: 30; max-width: calc(100vw - 32px); text-align: center;
+}
+#toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
