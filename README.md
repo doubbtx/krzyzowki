@@ -1,24 +1,24 @@
 # krzyżówki dla gen z 🧩
 
-15 normalnych krzyżówek – historia, geografia, nauka, lektury, kino, sport – z mniej oczywistymi pytaniami. Do tego trochę Gen Z i rzeczy, które po prostu warto wiedzieć (PIT, RRSO, phishing, RKO…).
+15 krzyżówek z odmłodzonymi pytaniami: pół normalnych haseł, pół rzeczy, które zna każde Gen Z – bajki z Cartoon Network, gierki, memy, polski internet, szkoła, domówki. Ma być śmiesznie, nie trudno.
 
-| # | Krzyżówka | Trudność |
-|---|-----------|----------|
-| 1 | 🔥 Na rozgrzewkę | ★☆☆ |
-| 2 | 🚌 Do autobusu | ★☆☆ |
-| 3 | 🛋️ Leniwa niedziela | ★☆☆ |
-| 4 | ☕ Przerwa na kawę | ★☆☆ |
-| 5 | 🎒 Po lekcjach | ★☆☆ |
-| 6 | 🌍 Dookoła świata | ★★☆ |
-| 7 | 🧪 Biologia, fizyka i reszta | ★★☆ |
-| 8 | 🏰 Lekcja historii | ★★☆ |
-| 9 | 📚 Lektury bez ściemy | ★★☆ |
-| 10 | ⚽ Sportowa | ★★☆ |
-| 11 | 🧾 Dorosłość na start | ★★☆ |
-| 12 | 🎬 Kino i seriale | ★★☆ |
-| 13 | 💻 Tech i internet | ★★☆ |
-| 14 | 🎵 Muzyka | ★★☆ |
-| 15 | 🧠 Dla mózgowców | ★★★ |
+| # | Krzyżówka |
+|---|-----------|
+| 1 | 🔥 Rozgrzewka |
+| 2 | 🏫 Szkolny korytarz |
+| 3 | 📺 Dzieciństwo przed telewizorem |
+| 4 | 🍲 Niedziela u babci |
+| 5 | 🌐 Polski internet |
+| 6 | 🎮 Gierki |
+| 7 | 🎧 Muza |
+| 8 | 🏖️ Wakacje |
+| 9 | 💘 Randki i crushe |
+| 10 | 🥳 Domówka |
+| 11 | 📱 TikTok i reszta |
+| 12 | 🧾 Dorosłość mode |
+| 13 | 🍿 Filmy i seriale |
+| 14 | ⚽ Sport i fame |
+| 15 | 🎲 Nostalgia |
 
 ## Jak grać
 
@@ -37,7 +37,7 @@ Wszystkie hasła siedzą w jednym pliku: [`hasla.txt`](hasla.txt).
 ```
 == id | emoji | tytuł | podtytuł
 HASŁO | podpowiedź
-KOPERNIK | Nie tylko astronom – sformułował też prawo o gorszym pieniądzu.
+BUDZIK | Wróg publiczny numer jeden o 6:30.
 ```
 
 Po zmianach wygeneruj siatki od nowa:

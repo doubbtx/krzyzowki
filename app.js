@@ -63,7 +63,7 @@
     app.innerHTML = `
       <header class="hero">
         <h1>krzyżówki<br>dla gen <span class="z">z</span></h1>
-        <p>${PUZZLES.length} normalnych krzyżówek – historia, geografia, nauka, kino, sport – tylko pytania nie są podane na tacy. Do tego trochę internetu i rzeczy, które po prostu warto wiedzieć.</p>
+        <p>${PUZZLES.length} krzyżówek z odmłodzonymi pytaniami: pół normalnych haseł, pół bajek z Cartoon Network, gierek, memów i polskiego internetu. Ma być śmiesznie, nie trudno.</p>
         <div class="stats">rozwiązane: <b>${solved}/${PUZZLES.length}</b></div>
       </header>
       <section class="list">

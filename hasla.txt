@@ -5,277 +5,277 @@
 #    == id | emoji | tytuł | podtytuł     ← nowa krzyżówka
 #    HASŁO | podpowiedź                   ← jedno hasło
 #
-#  Spacje, myślniki i apostrofy w HASŁE są OK (np. PAN TADEUSZ) –
-#  w siatce znikają, a przy podpowiedzi pojawia się układ liter (3, 7).
+#  Spacje, myślniki i apostrofy w HASŁE są OK (np. RED FLAG) –
+#  w siatce znikają, a przy podpowiedzi pojawia się układ liter (3, 4).
 #  Po zmianach odpal:  python3 tools/generate.py
 # ─────────────────────────────────────────────────────────────
 
-== na-rozgrzewke | 🔥 | Na rozgrzewkę | ★☆☆ · klasyka, ale nie podana na tacy
-WARSZAWA | Jej herbowa syrenka ma według legendy siostrę w Kopenhadze.
-WISŁA | Zaczyna się pod Baranią Górą, kończy w Zatoce Gdańskiej.
-KOT | W starożytnym Egipcie święty, w internecie – właściciel internetu.
-PIZZA | Jej wersję „Margherita” nazwano na cześć włoskiej królowej.
-TLEN | Około 21% tego, czym właśnie oddychasz.
-SOWA | Ptak Ateny; w Duolingo zielony i lekko groźny.
-MEM | Słowo ukute przez Richarda Dawkinsa w 1976 r., dziś raczej obrazek z podpisem.
-KAWA | Według legendy odkrył ją etiopski pasterz, gdy jego kozy dostały głupawki.
-ZIMA | Zaczyna się w najdłuższą noc roku.
-EMOJI | Japoński wynalazek z 1999 r.; jedno z nich, płaczące ze śmiechu, zostało słowem roku Oxfordu.
-MARS | Planeta z Olympus Mons, najwyższym wulkanem Układu Słonecznego.
-PESEL | Jedenaście cyfr, z których przedostatnia zdradza płeć.
-PIT | Z nim trzeba zdążyć do 30 kwietnia.
-BAŁTYK | Płytkie, mało słone i szczelnie obstawione parawanami.
-SZACHY | Gra, w której pionek może awansować na hetmana.
-NETFLIX | Firma, która zaczynała od wysyłania płyt DVD pocztą.
+== rozgrzewka | 🔥 | Rozgrzewka | na dzień dobry, zanim wstaniesz z łóżka
+USTA | Przydają się do całowania i do jedzenia kebaba.
+PONIEDZIAŁEK | Dzień, którego nikt nie zamawiał.
+BUDZIK | Wróg publiczny numer jeden o 6:30.
+DRZEMKA | „Jeszcze pięć minut”, które trwa dwie godziny.
+LODÓWKA | Otwierasz ją co 10 minut, licząc, że coś się w niej pojawiło.
+SKARPETKA | Pralka zawsze zjada tylko jedną z pary.
+ŻABKA | Sklep, który jest bliżej ciebie niż twoi znajomi.
+KEBAB | Najlepszy przyjaciel człowieka po drugiej w nocy.
+MEM | Wysyłasz go zamiast normalnej odpowiedzi.
+WIFI | Pierwsze, o co pytasz, gdy wchodzisz do kogoś do domu.
+ŁADOWARKA | Każdy ją pożycza, nikt nie oddaje.
+KOT | Zrzuca rzeczy ze stołu, patrząc ci prosto w oczy.
+PIZZA | Z ananasem czy bez? Kłótnia stara jak internet.
+MAMA | Tata mówi: „zapytaj ___”. ___ mówi: „zapytaj tatę”.
+SIEMA | Coś pomiędzy „dzień dobry” a „elo”.
+NETFLIX | „Czy nadal oglądasz?” – pyta o trzeciej w nocy.
 
-== do-autobusu | 🚌 | Do autobusu | ★☆☆ · zdążysz przed swoim przystankiem
-KRAKÓW | Miasto, w którym hejnał urywa się w pół nuty.
-TATRY | Góry, w których korek na szlaku to standard sezonu.
-RYSY | 2499 m n.p.m., szczyt dzielony ze Słowacją.
-PANDA | Ma szósty „palec” – przerośniętą kość do trzymania bambusa.
-LEW | Jedyny kot, który żyje w stadach.
-SELFIE | Słowo roku Oxfordu 2013 – zdjęcie z wyciągniętej ręki.
-WIFI | Wbrew pozorom nie jest skrótem od „wireless fidelity”, tylko chwytem marketingowym.
-KSIĘŻYC | Zawsze widzimy tylko jedną jego stronę.
-CHOPIN | Jego serce spoczywa w kościele Świętego Krzyża w Warszawie.
-KEBAB | Danie z obrotowego rożna, zamawiane „na cienkim, mieszane”.
-LAG | Trzy litery, które tłumaczą każdą przegraną online.
-MANDAT | Grozi pieszemu, który wchodzi na pasy wpatrzony w telefon.
-ZUS | Tam lecą twoje składki, choć wolałbyś nie myśleć o emeryturze (skrót).
-TIKTOK | Apka stworzona przez chińską firmę ByteDance.
-MIÓD | Praktycznie się nie psuje – jadalny znaleziono podobno w egipskich grobowcach.
-JESIEŃ | Amerykanie nazywają ją od spadających liści.
+== szkola | 🏫 | Szkolny korytarz | dzwonek jest dla nauczyciela
+DZWONEK | Według nauczycieli jest dla nich, nie dla ciebie.
+LIBRUS | Jego powiadomienie potrafi zepsuć cały weekend.
+WOREK | Ten na kapcie zawsze ktoś kopał po szatni.
+DROŻDŻÓWKA | Klasyk ze szkolnego sklepiku, najlepiej z budyniem.
+WUEF | Lekcja, na którą „zapomniałeś stroju”.
+TABLICA | Wywołują cię do niej zawsze wtedy, gdy nic nie umiesz.
+KARTKÓWKA | „Wyjmujemy karteczki” – i nagle cisza.
+ŚCIĄGA | Kiedyś w piórniku, dziś w smartwatchu.
+GIMNAZJUM | Szkoła zlikwidowana w 2019 r. Gimby nie znajo.
+NUMEREK | Szczęśliwy ___ – jak wypadnie twój, możesz odetchnąć.
+APEL | Stoisz na sali gimnastycznej, a mikrofon dyrektora piszczy.
+KUJON | Przypomina pani o pracy domowej. Wróg publiczny klasy.
+WAGARY | 21 marca to ich nieoficjalne święto.
+KORKI | Dodatkowa matma za kasę rodziców.
+PRZERWA | 10 minut na zjedzenie kanapki, plotki i odpisanie na 20 wiadomości.
+MATURA | „To tylko papierek” – mówią wszyscy, a i tak się stresują.
 
-== leniwa-niedziela | 🛋️ | Leniwa niedziela | ★☆☆ · do kawy i scrollowania
-RZYM | Miasto, w którego środku leży całe osobne państwo.
-KANGUR | Razem z emu trzyma herb Australii.
-PINGWIN | Tux, maskotka Linuksa, to właśnie on.
-SPOTIFY | Szwedzka apka, która co grudzień zdradza, czego słuchałeś cały rok.
-SŁOŃCE | Jego światło leci do nas około ośmiu minut.
-PARYŻ | Miasto, którego najsłynniejsza wieża miała stać tylko 20 lat.
-GRUNWALD | Miejsce, w którym Krzyżacy przysłali Jagielle dwa nagie miecze.
-RKO | Trzy litery, które mogą uratować życie: 30 uciśnięć i 2 wdechy.
-CRINGE | Uczucie, gdy rodzic próbuje używać twojego slangu.
-SUSHI | Danie, w którym nigiri i maki to dopiero początek.
-KOPERNIK | Nie tylko astronom – sformułował też prawo o gorszym pieniądzu.
-SMOK | Pokonała go owca nadziana siarką.
-HEJT | Anonimowe komentarze, po których ktoś znika z sieci na tydzień.
-OCEAN | Spokojny, choć wcale taki nie jest.
-MINECRAFT | Najlepiej sprzedająca się gra wideo w historii.
-BUDŻET | Plan, który zwykle kończy się na „jeszcze tylko jedna kawa na mieście”.
+== bajki | 📺 | Dzieciństwo przed telewizorem | Cartoon Network, Disney Channel i Polsat w święta
+SKALMAR | Kolega Spongeboba z klarnetem, który nienawidzi wszystkich.
+PATRYK | Różowa rozgwiazda, która mieszka pod kamieniem.
+FINEASZ | Razem z Ferbem miał 104 dni wakacji.
+DZIOBAK | Agent P, czyli Pepe Pan ___.
+VIOLETTA | Argentyński serial Disneya, przy którym śpiewała cała podstawówka.
+HANNAH MONTANA | Miley Cyrus w blond peruce.
+SCOOBY | ___-Doo, pies, który boi się duchów, ale za chrupki zrobi wszystko.
+SHREK | Ogr, który porównuje się do cebuli.
+MINIONKI | Żółte, w ogrodniczkach, szaleją za bananami.
+KEVIN | Co roku zostaje sam w domu na Polsacie.
+KRAINA LODU | Bajka, po której wszyscy śpiewali „Mam tę moc”.
+BEN | ___ 10 – chłopak z zegarkiem Omnitrix.
+TOTALNA PORAŻKA | Animowany reality show: obóz, wyzwania i eliminacje.
+PSI PATROL | Szczeniaki-ratownicy pod wodzą chłopca o imieniu Ryder.
+TELETUBISIE | Tinky Winky, Dipsy, Laa-Laa i Po.
+TOM | Gadający kot z apki, który powtarzał wszystko piskliwym głosem.
 
-== przerwa-na-kawe | ☕ | Przerwa na kawę | ★☆☆ · szybkie 10 minut
-SAHARA | Kiedyś zielona sawanna, dziś piaskownica prawie wielkości USA.
-NIL | Płynie z południa na północ, więc Dolny Egipt leży na górze mapy.
-PIRAMIDA | Ta w Gizie przez prawie 4 tys. lat była najwyższą budowlą świata.
-DELFIN | Śpi, wyłączając po kolei półkule mózgu.
-GITARA | Jimi Hendrix grał na niej odwróconej do góry nogami.
-QUEEN | Zespół, którego wokalista urodził się na Zanzibarze jako Farrokh Bulsara.
-ROBLOX | Platforma, na której dzieciaki same robią gry – np. „Grow a Garden”.
-NOOB | Ktoś, kto dopiero zaczyna, i wszyscy na serwerze to widzą.
-MATURA | Egzamin, który zawsze zaczyna się od polskiego.
-LOKATA | Bankowa opcja, gdy chcesz, żeby kasa poleżała i trochę urosła.
-HASŁO | „123456” to najpopularniejsze na świecie – i najgorsze.
-SKŁODOWSKA | Jedyna osoba z Noblami z dwóch różnych nauk ścisłych.
-TOKIO | Gospodarz igrzysk, które odbyły się rok po terminie.
-ŻUBR | Wymarł na wolności i odrodził się z kilkunastu osobników z zoo.
-VIRAL | Treść, która rozchodzi się jak zaraza – stąd nazwa.
-LATO | Zaczyna się w najdłuższy dzień roku.
+== babcia | 🍲 | Niedziela u babci | dokładka obowiązkowa
+ROSÓŁ | Niedzielna zupa i babcine lekarstwo na wszystko.
+SCHABOWY | Kotlet, bez którego nie ma polskiej niedzieli.
+MIZERIA | Ogórki w śmietanie do ziemniaków.
+BABCIA | Uważa, że jesteś za chudy, nawet po trzech talerzach.
+DOKŁADKA | „Zjedz jeszcze troszkę” – i już leży na talerzu.
+PIEROGI | Ruskie, z mięsem albo z jagodami.
+KOMPOT | Napój z gotowanych owoców, zawsze trochę za słodki.
+KAPCIE | „Załóż ___, bo podłoga zimna!”.
+DZIADEK | Ogląda skoki i wie lepiej od trenera.
+MAŁYSZ | Orzeł z Wisły, przez którego cała Polska zaczęła oglądać skoki.
+TELEWIZOR | Gra cały dzień, nawet jak nikt nie patrzy.
+WNUCZKA | Metoda na ___ – oszustwo telefoniczne, przed którym trzeba ostrzec starszych.
+PILOT | Zawsze ginie w kanapie.
+SERNIK | Ciasto z twarogu, które zawsze czeka na stole „na wszelki wypadek”.
+BUDYŃ | Deser, na którym zawsze robi się kożuch.
+SWETER | Zrobiony na drutach, gryzie, ale musisz go nosić przy babci.
 
-== po-lekcjach | 🎒 | Po lekcjach | ★☆☆ · mózg jeszcze działa
-MICKIEWICZ | Wieszcz, który za życia nie był ani w Warszawie, ani w Krakowie.
-EVEREST | Nazwany od brytyjskiego geodety; Nepalczycy mówią na niego Sagarmatha.
-ATOM | Po grecku „niepodzielny” – a jednak dało się go podzielić.
-DNA | Rozwinięte z jednej komórki ciągnęłoby się na około 2 metry (skrót).
-BOCIAN | Co czwarty taki ptak na świecie gniazduje w Polsce.
-PODCAST | Nazwa to skrzyżowanie iPoda i „broadcastu”.
-DISCORD | Komunikator, którego nazwa po angielsku oznacza „niezgodę”.
-BLIK | Polski sposób płacenia kodem, który wygasa po dwóch minutach.
-INFLACJA | Przez nią zapiekanka kosztuje dziś tyle, co kiedyś cały obiad.
-FERIE | Zimowe wolne, które każde województwo ma w innym terminie.
-OLIMPIADA | Potocznie igrzyska; formalnie – czteroletni okres między nimi.
-WAWEL | Wzgórze, pod którym mieszkał najsłynniejszy polski gad.
-AWOKADO | Przez tosty z nim millenialsom wytykano, że nie stać ich na mieszkanie.
-TRAMWAJ | Na szynach, ale nie pociąg; w Krakowie i Warszawie ma kilkadziesiąt linii.
-SLAY | Po angielsku „zabić”, w slangu – totalnie wymiatać.
-KOMAR | Gryzie tylko samica – samiec pije nektar.
+== internet | 🌐 | Polski internet | tylko dla tych, co scrollują od podstawówki
+PUDELEK | Portal plotkarski, którego nazwa brzmi jak mały piesek.
+NOSACZ | Małpa z wielkim nosem, która w memach jest typowym Polakiem.
+JANUSZ | Memowy wąsacz w sandałach i skarpetach.
+GRAŻYNA | Memowa żona tego pana od sandałów.
+KARTONY | W nie wjechała Hanka Mostowiak. Mem wszech czasów.
+PACZKOMAT | Żółta szafa, do której biegniesz, zanim paczka wróci do nadawcy.
+VINTED | Sprzedajesz bluzę za 20 zł i czujesz się jak biznesmen.
+ALLEGRO | Kupisz tu wszystko, łącznie z używaną zmywarką.
+OLX | Ogłoszenia, gdzie każdy pisze tylko „aktualne?”.
+BLIK | Sześć cyfr i kasa już leci do kumpla.
+HEJT | To, co zostawiają w komentarzach anonimowi eksperci.
+FAME MMA | Youtuberzy biją się w klatce, a konferencje są lepsze od walk.
+FRIZ | Szef Ekipy.
+LODY | Ekipa sprzedawała własne w Żabce.
+GADU GADU | Komunikator ze słoneczkiem, na którym siedzieli starsi kuzyni.
+NASZA KLASA | Tam rodzice szukali znajomych z podstawówki.
 
-== dookola-swiata | 🌍 | Dookoła świata | ★★☆ · bez paszportu
-OSLO | Jedyne miasto, w którym wręcza się Pokojową Nagrodę Nobla.
-SEUL | W jego aglomeracji mieszka mniej więcej co drugi Koreańczyk z Południa.
-LIZBONA | Stolica zrównana z ziemią przez trzęsienie ziemi w 1755 r.
-ISLANDIA | Kraj bez własnej armii, za to z gejzerami i wulkanami.
-AMAZONKA | Niesie więcej wody niż kilka kolejnych największych rzek razem.
-KANADA | Kraj z największą liczbą jezior na świecie.
-KAIR | Stolica, z której przedmieść widać piramidy w Gizie.
-ALPY | Góry, przez które Hannibal przeprowadził słonie.
-WENECJA | Miasto, które od 2024 r. pobiera opłatę od jednodniowych turystów.
-DUBAJ | Ojczyzna czekolady z pistacjami i kataifi, która podbiła TikToka.
-PASZPORT | Polski ma w środku obrazy widoczne dopiero w świetle UV.
-ROAMING | Opłaty, które Unia zniosła w 2017 r.
-JETLAG | Przez niego po locie do Tokio budzisz się o trzeciej w nocy.
-HAWAJE | Stan USA, w którym urodził się Barack Obama.
-MEKSYK | Kraj, któremu świat zawdzięcza tacos, guacamole i Dzień Zmarłych w wersji z czaszkami.
-NORWEGIA | Na jej północy latem słońce przez kilka tygodni w ogóle nie zachodzi.
+== gierki | 🎮 | Gierki | press start
+HESOYAM | Kod, który w San Andreas dawał zdrowie, pancerz i 250 tys. dolarów.
+GTA | „Ah shit, here we go again” – CJ, ta seria (skrót).
+MINECRAFT | Creeper? Aw man.
+SIMSY | Gra, w której wyjmowało się drabinkę z basenu.
+AMONG US | Gra z czasów pandemii, w której ktoś jest bardzo sus.
+FLAPPY BIRD | Ptaszek, który w 2014 r. zniszczył nerwy całemu światu.
+ANGRY BIRDS | Wściekłe ptaki kontra zielone świnie.
+POKEMON GO | Lato 2016: wszyscy łażą po parku z telefonem.
+FORTNITE | Gra, z której tańce robił każdy na przerwie.
+ROBLOX | Tu młodszy brat wydaje kasę z karty taty.
+LAG | Każda przegrana to jego wina.
+NOOB | Ty w pierwszej grze. I w drugiej też.
+FIFA | Dziś trzeba mówić EA FC, ale wszyscy i tak mówią…
+SURFERS | Subway ___ – uciekasz po torach przed strażnikiem z psem.
+PAD | Kontroler, którym rzuca się o ścianę po przegranej.
+SAVE | Nie zrobiłeś go i godzina gry poszła w piach.
 
-== nauka | 🧪 | Biologia, fizyka i reszta | ★★☆ · ściąga, której nie miałeś
-MITOCHONDRIUM | „The powerhouse of the cell” – mem, który przetrwał każdą lekcję biologii.
-FOTOSYNTEZA | Na wejściu CO₂, woda i światło, na wyjściu cukier i tlen.
-GRAWITACJA | Na Księżycu jest jej sześć razy mniej.
-NEWTON | Jednostka siły nazwana od gościa z jabłkiem.
-EINSTEIN | Nobla dostał nie za względność, tylko za efekt fotoelektryczny.
-WODÓR | Około trzech czwartych masy zwykłej materii we Wszechświecie.
-NEURON | Masz ich w mózgu około 86 miliardów.
-PLUTON | W 2006 r. zdegradowany do karłów.
-SATURN | Planeta o gęstości mniejszej niż woda – pływałaby w gigantycznej wannie.
-PITAGORAS | Grek, który podobno zakazywał uczniom jedzenia bobu.
-MAGNES | Jego jednoimienne bieguny się odpychają.
-TĘCZA | Widzisz ją tylko wtedy, gdy słońce masz za plecami.
-KOFEINA | Blokuje receptory adenozyny, więc mózg „nie wie”, że jest zmęczony.
-DOPAMINA | Neuroprzekaźnik, na którym apki zarabiają przy każdym twoim scrollu.
-BAKTERIA | Na nią antybiotyk działa, na grypę już nie.
-SZCZEPIONKA | Pierwszą zrobił Edward Jenner – z krowianki.
+== muza | 🎧 | Muza | śpiewaj z nami
+PODSIADŁO | Dawid, który w 2018 r. był „Małomiasteczkowy”.
+SANAH | Ta od „Szampana” i biletów wyprzedanych w sekundę.
+ZENEK | Martyniuk, ten od „Przez twe oczy zielone”.
+WEEKEND | Zespół od „Ona tańczy dla mnie” – hit każdego wesela.
+SŁAWOMIR | Ten od „Miłości w Zakopanem”.
+DODA | Królowa skandali, kiedyś wokalistka Virgin.
+MATA | Raper, przez którego wszyscy znali słowo „Patointeligencja”.
+GANGNAM | ___ Style – pierwszy filmik z miliardem wyświetleń na YouTube.
+DESPACITO | Hit z 2017 r., który śpiewał każdy, nawet bez hiszpańskiego.
+TAYLOR | Swift, która ma więcej er niż historia Polski.
+BIEBER | Justin, który zaczynał od filmików na YouTube.
+ONE DIRECTION | Boysband, po którym odejściu Zayna płakały tysiące fanek.
+ROKSANA | Węgiel, zwyciężczyni Eurowizji Junior 2018.
+KARAOKE | Śpiewanie do tekstu na ekranie – zwykle po północy i fałszywie.
+SPOTIFY | Apka, która w grudniu zdradza, że słuchałeś jednej piosenki 300 razy.
+SŁUCHAWKI | Wkładasz je, żeby nikt do ciebie nie mówił.
 
-== historia | 🏰 | Lekcja historii | ★★☆ · daty, które warto ogarniać
-MIESZKO | Jego chrzest w 966 r. to umowny początek Polski.
-CHROBRY | Bolesław, który w 1025 r. został pierwszym koronowanym królem.
-KONSTYTUCJA | Ta z 1791 r. obowiązywała niewiele ponad rok.
-ENIGMA | Maszyna, którą złamali Rejewski, Różycki i Zygalski.
-SOLIDARNOŚĆ | Ruch, który w szczytowym momencie liczył około 10 mln członków.
-NAPOLEON | Wódz, którego hymn Polski wymienia z nazwiska.
-TITANIC | „Niezatapialny” – do 15 kwietnia 1912 r.
-KLEOPATRA | Żyła bliżej czasów iPhone’a niż budowy piramid w Gizie.
-WIKING | Wbrew filmom nie nosił hełmu z rogami.
-BERLIN | Przez 28 lat dzielił go mur.
-PIŁSUDSKI | Marszałek, który 11 listopada 1918 r. przejął dowództwo nad wojskiem.
-GLADIATOR | Walczył na arenie, ale rzadko na śmierć – był na to za drogi.
-PRL | Państwo z kartkami na mięso (skrót).
-FARAON | Tutenchamon był nim jako nastolatek.
-HUSARIA | Jazda ze skrzydłami, która pod Wiedniem w 1683 r. poprowadziła wielką szarżę.
-WRZESIEŃ | Miesiąc 1939 r., w którym Polskę zaatakowano z dwóch stron.
+== wakacje | 🏖️ | Wakacje | parawan rozłożony
+PARAWAN | Nadmorska broń do zajmowania terytorium.
+GOFR | Z bitą śmietaną na deptaku, kosztuje jak obiad.
+BAŁTYK | Woda ma 17 stopni, a i tak się wchodzi.
+MEWA | Kradnie ci frytki prosto z ręki.
+KREM | Ten z filtrem – zapominasz go raz i jesteś czerwony jak rak.
+SANDAŁY | Ze skarpetami to polska klasyka.
+OSA | Przychodzi na każdego grilla bez zaproszenia.
+KOMAR | Brzęczy przy uchu dokładnie wtedy, gdy zasypiasz.
+GRILL | Kiełbasa, karkówka i wujek, który „wie, jak rozpalić”.
+WAKACJE | Dwa miesiące, które mijają w dwa tygodnie.
+OPALENIZNA | Pamiątka z plaży, czasem w kształcie koszulki.
+KOLONIE | Wyjazd z dyskoteką, apelem i tęsknotą za domem.
+NAMIOT | Rozkładasz go godzinę, a i tak przecieka.
+ZAKOPANE | Zimowa stolica Polski pod Giewontem.
+OSCYPEK | Wędzony góralski ser z każdej budki na Krupówkach.
+LEŻAK | Rozkładasz go 15 minut, a on i tak przytrzaśnie ci palce.
 
-== lektury | 📚 | Lektury bez ściemy | ★★☆ · nawet jeśli czytałeś streszczenie
-PAN TADEUSZ | Ostatni zajazd na Litwie w dwunastu księgach.
-SIENKIEWICZ | Pierwszy polski noblista w dziedzinie literatury (1905).
-SZYMBORSKA | Poetka od „Kota w pustym mieszkaniu”, noblistka z 1996 r.
-TOKARCZUK | Noblistka, autorka „Biegunów”.
-WIEDŹMIN | Nosi dwa miecze: stalowy na ludzi, srebrny na potwory.
-HOGWART | Szkoła, do której list przynosi sowa.
-GANDALF | Najpierw Szary, potem Biały.
-ROMEO | Kochanek z Werony, który wypił truciznę o chwilę za wcześnie.
-LALKA | Powieść, w której Wokulski traci głowę dla Izabeli Łęckiej.
-DZIADY | Dramat, którego zdjęcie z afisza w 1968 r. stało się iskrą protestów.
-KORDIAN | Słowacki kazał mu wejść na Mont Blanc i wygłosić monolog.
-FRASZKA | Krótki, dowcipny wierszyk, np. „Na lipę”.
-KOCHANOWSKI | Poeta z Czarnolasu, który po śmierci córki napisał „Treny”.
-EBOOK | Książka bez ani jednej kartki.
-AUDIOBOOK | Lektura do słuchania w autobusie.
-SPOILER | „Bruce Willis przez cały film był…” – stop, nie kończ!
+== randki | 💘 | Randki i crushe | zostawiony na „odczytano”
+CRUSH | Osoba, przy której nagle zapominasz, jak się chodzi.
+GHOSTING | Znika bez słowa, ale twoje story dalej ogląda.
+RED FLAG | Mówi, że wszystkie jego byłe to wariatki.
+WALENTYNKI | 14 lutego: albo randka, albo pizza z psiapsiółkami.
+TINDER | Apka, w której przesuwasz ludzi w prawo i w lewo.
+BUZIAK | Całus, najczęściej od cioci, prosto w policzek.
+RANDKA | Spotkanie, przed którym trzy razy zmieniasz outfit.
+SERDUSZKO | Klikasz je przez przypadek pod zdjęciem sprzed trzech lat.
+FRIENDZONE | „Jesteś dla mnie jak brat”.
+ŚLUB | Na weselu każda ciocia pyta, kiedy twój.
+PIERŚCIONEK | Chowany w deserze albo wyciągany na kolanie przy zachodzie słońca.
+RÓŻA | W „Bachelorze” oznacza, że zostajesz.
+SIMP | Zrobi wszystko dla kogoś, kto ma go w nosie.
+DELULU | Jesteś pewna, że idol z K-popu ci odpisze.
+WIADOMOŚĆ | Piszesz ją 20 minut, kasujesz i wysyłasz „hej”.
+ODCZYTANO | Najgorsze słowo na Messengerze, gdy czekasz na odpowiedź.
 
-== sport | ⚽ | Sportowa | ★★☆ · na rozgrzewkę przed meczem
-ŚWIĄTEK | W finale Wimbledonu 2025 nie oddała rywalce ani gema.
-MAŁYSZ | Wiślanin, przez którego w 2001 r. cała Polska zaczęła oglądać skoki.
-LEWANDOWSKI | Strzelił Wolfsburgowi pięć goli w dziewięć minut.
-KUBICA | Pierwszy Polak w F1, a w 2025 r. zwycięzca 24h Le Mans.
-SIATKÓWKA | Dyscyplina Bartosza Kurka i Wilfredo Leona.
-MUNDIAL | Turniej, który w 2026 r. po raz pierwszy miał 48 drużyn.
-MESSI | Ośmiokrotny zdobywca Złotej Piłki.
-RONALDO | Jego „SIUUU” zna każdy, kto choć raz otworzył TikToka.
-MARATON | Nazwa od greckiej równiny, z której biegł posłaniec.
-KARNY | Panenka to jeden ze sposobów na jego wykonanie.
-SPALONY | Przepis, którego nikt nie potrafi wytłumaczyć mamie.
-E-SPORT | Rywalizacja, w której mistrzowie grają w CS-a czy LoL-a o miliony.
-SIŁOWNIA | Miejsce, gdzie poniedziałek to „dzień klaty”.
-REKORD | Bolt ma go na 100 m: 9,58 s.
-RAKIETA | Narzędzie pracy Huberta Hurkacza.
+== domowka | 🥳 | Domówka | kto przynosi głośnik?
+GŁOŚNIK | Ktoś zawsze przynosi swój, a o 23 i tak pada bateria.
+CHIPSY | Paprykowe albo zielona cebulka – kończą się pierwsze.
+SĄSIAD | Puka o 22:01 i grozi policją.
+CISZA | ___ nocna – zwyczajowo zaczyna się o 22.
+TWISTER | Lewa ręka na zielone, prawa noga na czerwone.
+MAFIA | „Miasto zasypia, budzi się ___”.
+UNO | Karcianka, w której +4 niszczy przyjaźnie.
+JENGA | Wieża z klocków, która zawsze spada akurat przy tobie.
+PLAYLISTA | Kłótnia o to, kto ją puszcza, to stały punkt imprezy.
+SELFIE | Robisz je z całą ekipą i zawsze ktoś mruga.
+BALONY | Z helem mówisz po nich jak smerf.
+OSIEMNASTKA | Pierwsza impreza, na której jesteś oficjalnie dorosły.
+TORT | Ma tyle świeczek, ile masz lat – do czasu.
+KONFETTI | Sprzątasz je jeszcze miesiąc po imprezie.
+UBER | Wracasz nim o 3 w nocy z cennikiem jak za wakacje.
+KAC | Pamiątka po domówce, odbierana rano.
+
+== sociale | 📱 | TikTok i reszta | scroll, scroll, scroll
+TIKTOK | Apka, na której „pięć minut” trwa dwie godziny.
+POV | Trzy litery przed scenką, w której to ty jesteś bohaterem.
+VIRAL | Wieczorem milion wyświetleń, rano wie o nim twoja ciocia.
+STORY | Znika po 24 godzinach, ale screenshot zostaje na zawsze.
+FILTR | Dzięki niemu masz psie uszy i cerę jak z reklamy.
+HASHTAG | Kratka i słowo – np. #dlaciebie.
+LAJK | Serduszko pod zdjęciem, pisane po polsku.
+CRINGE | To, co czujesz, oglądając swoje posty z 2016 r.
+INFLUENCER | Pokazuje kod rabatowy i mówi „link w bio”.
+YOUTUBE | Tu kiedyś wszyscy oglądali, jak ktoś gra w Minecrafta.
+SNAPCHAT | Duszek, płomyk i zdjęcia, które znikają.
+FOMO | Strach, że ominie cię coś fajnego (skrót).
+EMOJI | 💀, czyli „umarłem ze śmiechu”.
+TREND | Taniec, który za tydzień będzie żenujący.
+SCROLL | Robisz to kciukiem przez pół nocy.
+SCREEN | ___ time – statystyka, której nikt nie chce oglądać.
+
+== doroslosc | 🧾 | Dorosłość mode | nikt nie dał instrukcji
+WYPŁATA | Przychodzi raz w miesiącu, znika w trzy dni.
+PIT | Do 26. roku życia płacisz zero, więc na razie spoko.
+ZUS | Obiecuje ci emeryturę. Podobno.
+CZYNSZ | Płacisz go co miesiąc za to, że masz gdzie spać.
+PRANIE | Ciągle się robi, nigdy się nie kończy.
+ODKURZACZ | Kot go nienawidzi, a ty włączasz go tylko przed wizytą rodziców.
+RACHUNKI | Przychodzą co miesiąc jak znajomi, tylko nikt się nie cieszy.
+URZĄD | Bierzesz numerek i tracisz pół dnia.
+KOLEJKA | Zawsze stoisz w tej wolniejszej.
+PHISHING | SMS „dopłać 1,99 zł do paczki”. Nie klikaj!
+PIN | Cztery cyfry, które zapominasz akurat przy kasie.
+BUDŻET | Plan wydatków, który kończy się na pierwszym jedzeniu z dowozem.
+PRZELEW | „Oddam ci jutro” – a potem czekasz na niego tydzień.
+LISTA | Ta zakupów: idziesz po mleko, wracasz z paragonem na 90 zł.
+ŻELAZKO | Każdy je ma, nikt nie wie, gdzie stoi.
+DENTYSTA | Wizytę u niego odkładasz od trzech lat.
+
+== filmy | 🍿 | Filmy i seriale | jeszcze jeden odcinek
+ZMIERZCH | Film, w którym wampir błyszczy w słońcu.
+EDWARD | Team ___ czy team Jacob?
+HOGWART | Szkoła, z której list nigdy do ciebie nie przyszedł.
+HARRY | Potter, chłopiec z blizną.
+SQUID GAME | Serial, po którym każdy bał się lalki od „zielonego światła”.
+WEDNESDAY | Taniec z tego serialu robił każdy na TikToku.
+JOKER | „We live in a society” – mem z jego udziałem.
+BARBIE | Film z 2023 r., na który wszyscy szli na różowo.
+TITANIC | Na tych drzwiach zmieściłyby się dwie osoby!
+KATNISS | Dziewczyna z łukiem z „Igrzysk śmierci”.
+YODA | Mówi od tyłu i dożył 900 lat.
+THANOS | Pstryknął palcami i połowy wszechświata nie było.
+MARVEL | Kino, w którym trzeba zostać do końca napisów.
+POPCORN | W kinie kosztuje więcej niż bilet.
+KIEPSKI | Ferdek, który całe życie przeleżał na kanapie.
+RANCZO | Serial z Wilkowyj i ławeczką pod sklepem.
+
+== sport | ⚽ | Sport i fame | SIUUU
+SIU | Okrzyk Ronaldo po golu – zwykle z kilkoma „u” więcej.
+LEWY | Ksywka Roberta Lewandowskiego.
+MESSI | Argentyńczyk, który w 2022 r. w końcu został mistrzem świata.
+SZCZĘSNY | Bramkarz, który przeszedł na emeryturę, a potem i tak trafił do Barcelony.
+ŚWIĄTEK | Iga, która w finale Wimbledonu 2025 rozdała rywalce dwa bajgle.
+PUDZIAN | Strongman, który zamienił opony na klatkę KSW.
+KUBICA | Robert, który po strasznym wypadku wrócił do F1.
+KIBIC | Wie lepiej od trenera, kogo wystawić – siedząc na kanapie.
 VAR | Trzy litery, przez które z gola cieszysz się dopiero po trzech minutach.
+SPALONY | Przepis, którego nikt nie umie wytłumaczyć mamie.
+KARNY | Strzela się go z 11 metrów i pod największą presją.
+SIŁOWNIA | Miejsce, gdzie poniedziałek to dzień klaty.
+ROWER | Na nim się nie zapomina, jak się jeździ.
+MUNDIAL | Turniej, przy którym cała Polska nagle zna się na piłce.
+SZALIK | Na stadionie się nim macha, a babcia daje go na zimę.
+BIEG | Uprawiasz go tylko wtedy, gdy ucieka ci autobus.
 
-== doroslosc | 🧾 | Dorosłość na start | ★★☆ · to, czego nie uczą w szkole
-RRSO | Pokazuje prawdziwy koszt kredytu, razem z prowizjami i ubezpieczeniem (skrót).
-PHISHING | „Twoja paczka czeka, dopłać 1,99 zł” – i po chwili masz pusto na koncie.
-KAUCJA | Od października 2025 r. odzyskasz ją, oddając butelkę w sklepie.
-URLOP | Po 10 latach stażu masz go 26 dni, wcześniej 20.
-WYPOWIEDZENIE | Przy dłuższym stażu może trwać nawet trzy miesiące.
-NETTO | Kwota, która naprawdę wpada na konto.
-BRUTTO | Kwota, którą chwali się pracodawca w ogłoszeniu.
-RODO | Dzięki niemu możesz zażądać usunięcia swoich danych (skrót).
-CZYNSZ | Co miesiąc idzie do właściciela mieszkania albo spółdzielni.
-FAKTURA | Dokument, który co miesiąc wystawia każdy na B2B.
-DEFIBRYLATOR | Zielona skrzynka z sercem i błyskawicą, wisząca na dworcach.
-ŻYCIORYS | Polskie słowo na CV, którego nikt już nie używa.
-ODSETKI | Rosną, gdy spóźniasz się z ratą.
-RACHUNEK | „Poproszę ___” – mówisz kelnerowi na koniec.
-SPF | Liczba na tubce kremu – im wyższa, tym mniej spieczony nos (skrót).
-GRAFIK | Kto go układa, ten rządzi twoim weekendem.
-
-== kino | 🎬 | Kino i seriale | ★★☆ · popcorn w dłoń
-SHREK | Ogr, według którego ogry są jak cebula.
-OSCAR | Statuetka, którą podobno nazwano od czyjegoś wujka.
-HOLLYWOOD | Słynny napis na wzgórzu pierwotnie kończył się na „-LAND”.
-JOKER | Joaquin Phoenix tańczył w tej roli na schodach w Bronksie.
-BARBIE | Pełne imię: Barbara Millicent Roberts.
-OPPENHEIMER | Film Nolana, w którym wybuch nakręcono bez CGI.
-ELEVEN | Bohaterka „Stranger Things”, która zamiast imienia ma numer.
-MARVEL | Kinowe uniwersum, w którym trzeba siedzieć do końca napisów.
-THANOS | Pstryknął palcami w rękawicy z sześcioma kamieniami.
-YODA | Mistrz Jedi, szyk zdania odwrotny stosujący.
-POPCORN | Kina zarabiają na nim podobno więcej niż na biletach.
-KADR | Jedna klatka filmu albo fragment zdjęcia po przycięciu.
-REŻYSER | Na oparciu jego krzesła jest napisane, kim jest.
-SEQUEL | „Dwójka”, która rzadko jest lepsza od „jedynki”.
-WEDNESDAY | Serial, którego taniec na TikToku przywrócił do łask „Bloody Mary” Lady Gagi.
-ANIME | „To nie są bajki!” – broni się każdy jego fan.
-
-== tech | 💻 | Tech i internet | ★★☆ · dla tych, co naprawiają rodzicom drukarkę
-ALGORYTM | Nazwa pochodzi od perskiego matematyka al-Chwarizmiego.
-CHATBOT | ELIZA z 1966 r. była jednym z pierwszych.
-PROMPT | „Napisz to jak pirat” – przykład takiego polecenia dla AI.
-PIKSEL | Kwadracik, z którego zbudowany jest każdy obraz na ekranie.
-ROUTER | Pudełko z mrugającymi diodami, które naprawiasz metodą „wyłącz i włącz”.
-BLUETOOTH | Nazwany od duńskiego króla Haralda Sinozębego.
-CAPTCHA | Klikasz w sygnalizatory świetlne, żeby udowodnić, że jesteś człowiekiem.
-DEEPFAKE | Wideo, w którym polityk mówi coś, czego nigdy nie powiedział.
-LINUX | System, który fiński student napisał w 1991 r. jako hobby.
-SPAM | Nazwa od konserwy z mielonką i skeczu Monty Pythona.
-HAKER | Ten „etyczny” pomaga firmom łatać dziury.
-CHMURA | iCloud albo Dysk Google, tylko po polsku.
-POWERBANK | Ratunek na festiwalu, gdy telefon ma 1%.
-ANDROID | System, którego wersje nazywano kiedyś od deserów.
-BAJT | Osiem bitów.
-DWUETAPOWA | Weryfikacja, która ratuje konto, nawet gdy ktoś zna twoje hasło.
-
-== muzyka | 🎵 | Muzyka | ★★☆ · słuchawki na uszy
-MOZART | Pierwszy utwór skomponował jako pięciolatek.
-BEATLESI | Ich „Yesterday” to jedna z najczęściej coverowanych piosenek w historii.
-PODSIADŁO | Chłopak z Dąbrowy Górniczej, który wypełnia stadiony.
-SANAH | Pseudonim Zuzanny Grabowskiej.
-RAP | Gatunek, w którym liczą się flow i punchline’y.
-WINYL | Płyty z niego w USA znów sprzedają się lepiej niż CD.
-PERKUSJA | Najgłośniejszy instrument w zespole, zawsze z tyłu sceny.
-SKRZYPCE | Stradivari robił je tak dobrze, że dziś kosztują miliony.
-KARAOKE | Po japońsku „pusta orkiestra”.
-OPOLE | Miasto, w którego amfiteatrze festiwal piosenki trwa od 1963 r.
-OPEN'ER | Festiwal na lotnisku w Gdyni, na który bierzesz kalosze i powerbank.
-TAYLOR | Swift, której trasa „The Eras Tour” zarobiła ponad 2 mld dolarów.
-EUROWIZJA | Konkurs, który ABBA wygrała piosenką „Waterloo”.
-PLAYLISTA | „Smutne piosenki na 2 w nocy” to przykład takiej.
-NUTA | Cała, półnuta albo ćwierćnuta.
-MATA | Raper, który w „Patointeligencji” rapował o imprezach dzieciaków z dobrych domów.
-
-== dla-mozgowcow | 🧠 | Dla mózgowców | ★★★ · tu już trzeba pomyśleć
-REJEWSKI | Matematyk z Bydgoszczy, który jako pierwszy złamał Enigmę.
-MAGELLAN | Jego wyprawa jako pierwsza opłynęła Ziemię – on sam nie wrócił.
-ARCHIMEDES | Wanna, wypór i „Eureka!”.
-KAPIBARA | Największy gryzoń świata; w memach dogaduje się z każdym zwierzęciem.
-AKSOLOTL | Płaz, który potrafi odbudować nawet fragmenty serca i mózgu.
-SAPKOWSKI | Pisarz, który prawa do gier o swoim bohaterze sprzedał za grosze.
-PARLAMENT | Nazwa od francuskiego „parler” – mówić.
-SEJM | Izba, w której zasiada 460 osób.
-LEONARDO | Pisał od prawej do lewej, lustrzanym pismem.
-SYZYF | Bohater mitu o pracy, która nigdy się nie kończy – jak pranie.
-ODYSEUSZ | To on wymyślił drewnianego konia.
-PALINDROM | „Kobyła ma mały bok” to przykład.
-HIEROGLIF | Kamień z Rosetty pozwolił go wreszcie odczytać.
-OKSYMORON | „Gorący lód” albo „głośna cisza”.
-TSUNAMI | Po japońsku „fala w porcie”.
-NPC | Postać niezależna – i ziomek, który zawsze mówi to samo.
+== nostalgia | 🎲 | Nostalgia | gimby nie znajo
+NOKIA | Telefon, którym dało się wbijać gwoździe.
+SNAKE | Wąż z telefonu z klawiszami, który rósł, aż zjadł sam siebie.
+SPINNER | Kręciołek z 2017 r., który miał uspokajać, a wkurzał nauczycieli.
+SLIME | Glut z kleju i płynu do soczewek.
+ŚWIEŻAKI | Pluszowe warzywa z Biedronki, za które zbierało się naklejki.
+BAKUGAN | Kulka, która po rzuceniu zamieniała się w potwora.
+TAMAGOTCHI | Elektroniczny zwierzak, który umierał, gdy poszedłeś do szkoły.
+KINDER | ___ Niespodzianka – czekolada z zabawką, którą składało się 10 sekund.
+TYMBARK | Sok, pod którego kapslem czekało hasło.
+ŻELKI | Misie, które zjadasz całą paczką „przez przypadek”.
+POKEMON | „Złap je wszystkie!” – ale kogo?
+PIKACHU | Żółty, elektryczny, umie powiedzieć tylko swoje imię.
+GUMKI | Kolorowe ___ do plecenia bransoletek – szał z 2014 r.
+FRUGO | Napój z lat 90., który wrócił i znów stał w każdym sklepiku.
+BEYBLADE | Bączek do walki: „Let it rip!”.
+PIÓRNIK | Dwupiętrowy, z magnesem – flex w podstawówce.
