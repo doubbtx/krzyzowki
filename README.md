@@ -1,12 +1,14 @@
 # krzyżówki dla gen z 🧩
 
-45 krzyżówek z odmłodzonymi pytaniami: pół normalnych haseł, pół rzeczy, które zna każde Gen Z – bajki z Cartoon Network, gierki, memy, polski internet, szkoła, wesela, siłka, korpo. Ma być śmiesznie, nie trudno.
+60 krzyżówek z odmłodzonymi pytaniami: pół normalnych haseł, pół rzeczy, które zna każde Gen Z – bajki z Cartoon Network, gierki, memy, polski internet, szkoła, wesela, siłka, korpo. Ma być śmiesznie, nie trudno.
 
 **Sezon 1:** 🔥 Rozgrzewka · 🏫 Szkolny korytarz · 📺 Dzieciństwo przed telewizorem · 🍲 Niedziela u babci · 🌐 Polski internet · 🎮 Gierki · 🎧 Muza · 🏖️ Wakacje · 💘 Randki i crushe · 🥳 Domówka · 📱 TikTok i reszta · 🧾 Dorosłość mode · 🍿 Filmy i seriale · ⚽ Sport i fame · 🎲 Nostalgia
 
 **Sezon 2:** 💒 Wesele · 🎄 Święta · 🐾 Zwierzaki i memy · 🛒 Zakupy · 🚌 Na mieście · 💪 Siłka · 💄 Glow up · 📺 Polska telewizja · 🗣️ Słownik ziomka · 🗺️ Polska na mapie · 🍔 Fast food · 💼 Korpo i studia · ✏️ Piórnik i lekcje · ✈️ Wakacje za granicą · 🕹️ Gierki 2.0
 
 **Sezon 3:** 🚗 Pierwsze auto · 🎤 Muza 2.0 · 📲 Apki w telefonie · ⚽ Piłka nożna · 🌧️ Polska pogoda · 👨‍👩‍👧 Rodzinka · 🐣 Wielkanoc · 😷 Pandemia 2020 · 🤯 Ciekawostki z TikToka · 🏠 Pierwsze mieszkanie · 🏰 Disney i Pixar · 🍳 Kuchnia na studiach · 📅 Kalendarz świąt · 🎲 Gry na przerwę · 🚍 Wycieczka szkolna
+
+**Sezon 4:** 😂 Memy 2025 · 🍝 Włoski brainrot · 🔎 Czego szukaliście w Google · 🚀 Kosmos dla laików · 📼 Za czasów rodziców · 🕹️ Retro gaming · 🛋️ Seriale do bingowania · 🗣️ Polskie powiedzonka · 🎃 Horrory · 🌍 Kraje w jednym zdaniu · 🧑‍🏫 Pokój nauczycielski · 💸 Kasa · 🌙 Bajki na dobranoc · 🏓 Dziwne sporty · 🤖 AI i przyszłość
 
 ## Jak grać
 
