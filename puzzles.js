@@ -5159,5 +5159,2530 @@ window.PUZZLES = [
     "enum": "6"
    }
   ]
+ },
+ {
+  "id": "auto",
+  "emoji": "🚗",
+  "title": "Pierwsze auto",
+  "subtitle": "z choinką zapachową na lusterku",
+  "section": "Sezon 3",
+  "width": 14,
+  "height": 15,
+  "entries": [
+   {
+    "num": 2,
+    "dir": "A",
+    "row": 0,
+    "col": 8,
+    "answer": "GARAŻ",
+    "display": "GARAŻ",
+    "clue": "Tata trzyma w nim wszystko oprócz auta.",
+    "enum": "5"
+   },
+   {
+    "num": 3,
+    "dir": "A",
+    "row": 2,
+    "col": 3,
+    "answer": "PRZEGLĄD",
+    "display": "PRZEGLĄD",
+    "clue": "Raz w roku stacja kontroli sprawdza, czy auto się nie rozpada.",
+    "enum": "8"
+   },
+   {
+    "num": 5,
+    "dir": "A",
+    "row": 5,
+    "col": 2,
+    "answer": "ODŚWIEŻACZ",
+    "display": "ODŚWIEŻACZ",
+    "clue": "Choinka na lusterku, która po tygodniu już nic nie pachnie.",
+    "enum": "10"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 7,
+    "col": 2,
+    "answer": "WYDECH",
+    "display": "WYDECH",
+    "clue": "Sportowy ___ – żeby całe osiedle wiedziało, że wróciłeś.",
+    "enum": "6"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 9,
+    "col": 8,
+    "answer": "MYJNIA",
+    "display": "MYJNIA",
+    "clue": "Bezdotykowa ___ – wrzucasz 20 zł w monetach i dalej jest brudno.",
+    "enum": "6"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 10,
+    "col": 0,
+    "answer": "KLAKSON",
+    "display": "KLAKSON",
+    "clue": "Trąbisz nim, gdy ktoś stoi na zielonym dłużej niż dwie sekundy.",
+    "enum": "7"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 12,
+    "col": 8,
+    "answer": "FELGI",
+    "display": "FELGI",
+    "clue": "Pierwsza rzecz do wymiany po kupnie auta – im większe, tym lepiej.",
+    "enum": "5"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 14,
+    "col": 2,
+    "answer": "TIR",
+    "display": "TIR",
+    "clue": "Ciężarówka, za którą wleczesz się na jednopasmówce.",
+    "enum": "3"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 6,
+    "answer": "UBEZPIECZENIE",
+    "display": "UBEZPIECZENIE",
+    "clue": "OC co roku drożeje, a ty nawet nie wiesz, co obejmuje.",
+    "enum": "13"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 8,
+    "answer": "GOLF",
+    "display": "GOLF",
+    "clue": "Volkswagen, który nazywa się jak sport z kijem i dołkiem.",
+    "enum": "4"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 3,
+    "col": 13,
+    "answer": "ŚWIATŁA",
+    "display": "ŚWIATŁA",
+    "clue": "Mijania – w Polsce jeździ się na nich cały rok, nawet w dzień.",
+    "enum": "7"
+   },
+   {
+    "num": 6,
+    "dir": "D",
+    "row": 5,
+    "col": 9,
+    "answer": "AWARYJNE",
+    "display": "AWARYJNE",
+    "clue": "Migające ___ – włączasz je, parkując „tylko na chwilę po bułki”.",
+    "enum": "8"
+   },
+   {
+    "num": 7,
+    "dir": "D",
+    "row": 6,
+    "col": 0,
+    "answer": "BEEMKA",
+    "display": "BEEMKA",
+    "clue": "Potocznie BMW – według memów zawsze bez kierunkowskazów.",
+    "enum": "6"
+   },
+   {
+    "num": 9,
+    "dir": "D",
+    "row": 7,
+    "col": 4,
+    "answer": "DIESEL",
+    "display": "DIESEL",
+    "clue": "Rano klekocze jak traktor, ale mało pali.",
+    "enum": "6"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 7,
+    "col": 11,
+    "answer": "TUNING",
+    "display": "TUNING",
+    "clue": "Spoiler, neony i naklejki „Racing” – czyli ___.",
+    "enum": "6"
+   },
+   {
+    "num": 11,
+    "dir": "D",
+    "row": 9,
+    "col": 2,
+    "answer": "PASSAT",
+    "display": "PASSAT",
+    "clue": "Kombi, którym w memach jeździ każdy Janusz – oczywiście w dieslu.",
+    "enum": "6"
+   }
+  ]
+ },
+ {
+  "id": "muza-2",
+  "emoji": "🎤",
+  "title": "Muza 2.0",
+  "subtitle": "playlista z całego świata",
+  "section": "Sezon 3",
+  "width": 13,
+  "height": 14,
+  "entries": [
+   {
+    "num": 5,
+    "dir": "A",
+    "row": 2,
+    "col": 0,
+    "answer": "GRAMMY",
+    "display": "GRAMMY",
+    "clue": "Muzyczny Oscar w kształcie złotego gramofonu.",
+    "enum": "6"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 5,
+    "col": 1,
+    "answer": "BILLIE",
+    "display": "BILLIE",
+    "clue": "Eilish, która nagrywała z bratem w sypialni, a potem zgarnęła dwa Oscary.",
+    "enum": "6"
+   },
+   {
+    "num": 9,
+    "dir": "A",
+    "row": 5,
+    "col": 8,
+    "answer": "ADELE",
+    "display": "ADELE",
+    "clue": "Brytyjka od „Hello” – soundtrack każdego rozstania.",
+    "enum": "5"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 8,
+    "col": 6,
+    "answer": "DUALIPA",
+    "display": "DUA LIPA",
+    "clue": "Gwiazda „Levitating” z albańskimi korzeniami.",
+    "enum": "3, 4"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 9,
+    "col": 3,
+    "answer": "BTS",
+    "display": "BTS",
+    "clue": "Koreański boysband, którego fani nazywają się ARMY.",
+    "enum": "3"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 11,
+    "col": 3,
+    "answer": "BLACKPINK",
+    "display": "BLACKPINK",
+    "clue": "Girlsband z Korei: Jisoo, Jennie, Rosé i Lisa.",
+    "enum": "9"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 13,
+    "col": 4,
+    "answer": "SABRINA",
+    "display": "SABRINA",
+    "clue": "Carpenter, ta od „Espresso”.",
+    "enum": "7"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 0,
+    "answer": "GAGA",
+    "display": "GAGA",
+    "clue": "Lady ___, która przyszła na galę w sukni z mięsa.",
+    "enum": "4"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 2,
+    "answer": "CHARLI",
+    "display": "CHARLI",
+    "clue": "___ xcx, przez którą lato 2024 było „brat”.",
+    "enum": "6"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 0,
+    "col": 8,
+    "answer": "OLIVIA",
+    "display": "OLIVIA",
+    "clue": "Rodrigo, która w 2021 r. zrobiła z prawa jazdy hymn złamanych serc.",
+    "enum": "6"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 1,
+    "col": 10,
+    "answer": "DRAKE",
+    "display": "DRAKE",
+    "clue": "Kanadyjczyk z memu, w którym jedno odrzuca, a drugie wskazuje palcem.",
+    "enum": "5"
+   },
+   {
+    "num": 6,
+    "dir": "D",
+    "row": 3,
+    "col": 6,
+    "answer": "WEEKND",
+    "display": "WEEKND",
+    "clue": "The ___ – na Super Bowlu błądził po labiryncie luster.",
+    "enum": "6"
+   },
+   {
+    "num": 7,
+    "dir": "D",
+    "row": 3,
+    "col": 12,
+    "answer": "SHEERAN",
+    "display": "SHEERAN",
+    "clue": "Ed, rudy gość z gitarą i „Shape of You”.",
+    "enum": "7"
+   },
+   {
+    "num": 8,
+    "dir": "D",
+    "row": 5,
+    "col": 1,
+    "answer": "BADBUNNY",
+    "display": "BAD BUNNY",
+    "clue": "Portorykańczyk, który w 2026 r. zagrał na Super Bowlu po hiszpańsku.",
+    "enum": "3, 5"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 7,
+    "col": 10,
+    "answer": "RIHANNA",
+    "display": "RIHANNA",
+    "clue": "Gwiazda „Umbrella”, która zamiast nowej płyty wypuściła kosmetyki.",
+    "enum": "7"
+   },
+   {
+    "num": 11,
+    "dir": "D",
+    "row": 8,
+    "col": 4,
+    "answer": "STYLES",
+    "display": "STYLES",
+    "clue": "Harry, który po boysbandzie zaczął nosić perły.",
+    "enum": "6"
+   }
+  ]
+ },
+ {
+  "id": "apki",
+  "emoji": "📲",
+  "title": "Apki w telefonie",
+  "subtitle": "99+ nieprzeczytanych powiadomień",
+  "section": "Sezon 3",
+  "width": 14,
+  "height": 17,
+  "entries": [
+   {
+    "num": 1,
+    "dir": "A",
+    "row": 0,
+    "col": 4,
+    "answer": "MESSENGER",
+    "display": "MESSENGER",
+    "clue": "Niebieski komunikator, na którym ciocia wysyła „Miłego dnia” z kawą.",
+    "enum": "9"
+   },
+   {
+    "num": 4,
+    "dir": "A",
+    "row": 2,
+    "col": 4,
+    "answer": "CAPCUT",
+    "display": "CAPCUT",
+    "clue": "Apka do montowania filmików na TikToka.",
+    "enum": "6"
+   },
+   {
+    "num": 7,
+    "dir": "A",
+    "row": 4,
+    "col": 6,
+    "answer": "WHATSAPP",
+    "display": "WHATSAPP",
+    "clue": "Zielony komunikator, na którym siedzi cała rodzina z zagranicy.",
+    "enum": "8"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 6,
+    "col": 0,
+    "answer": "TELEGRAM",
+    "display": "TELEGRAM",
+    "clue": "Komunikator z papierowym samolotem w logo.",
+    "enum": "8"
+   },
+   {
+    "num": 10,
+    "dir": "A",
+    "row": 8,
+    "col": 4,
+    "answer": "DUOLINGO",
+    "display": "DUOLINGO",
+    "clue": "Zielona sowa, która grozi ci, gdy nie zrobisz lekcji.",
+    "enum": "8"
+   },
+   {
+    "num": 11,
+    "dir": "A",
+    "row": 10,
+    "col": 0,
+    "answer": "AKTUALIZACJA",
+    "display": "AKTUALIZACJA",
+    "clue": "Wyskakuje dokładnie wtedy, gdy najbardziej potrzebujesz telefonu.",
+    "enum": "12"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 12,
+    "col": 5,
+    "answer": "INSTAGRAM",
+    "display": "INSTAGRAM",
+    "clue": "Apka, w której każdy ma idealne życie – na zdjęciach.",
+    "enum": "9"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 14,
+    "col": 0,
+    "answer": "PINTEREST",
+    "display": "PINTEREST",
+    "clue": "Tablica inspiracji do mieszkania, którego nigdy nie urządzisz.",
+    "enum": "9"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 16,
+    "col": 1,
+    "answer": "LATARKA",
+    "display": "LATARKA",
+    "clue": "Włącza się sama w kieszeni.",
+    "enum": "7"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 9,
+    "answer": "NOTATKI",
+    "display": "NOTATKI",
+    "clue": "Lista zakupów, przemyślenia o 3 w nocy i teksty piosenek – wszystko w jednej apce.",
+    "enum": "7"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 1,
+    "col": 2,
+    "answer": "BEREAL",
+    "display": "BEREAL",
+    "clue": "Raz dziennie daje ci dwie minuty na zdjęcie z obu kamer naraz.",
+    "enum": "6"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 2,
+    "col": 6,
+    "answer": "POWIADOMIENIE",
+    "display": "POWIADOMIENIE",
+    "clue": "Czerwona kropka z napisem 99+, której nigdy nie odczytasz.",
+    "enum": "13"
+   },
+   {
+    "num": 6,
+    "dir": "D",
+    "row": 2,
+    "col": 12,
+    "answer": "MAPY",
+    "display": "MAPY",
+    "clue": "Google ___ – prowadzą cię przez pole, bo „tak szybciej”.",
+    "enum": "4"
+   },
+   {
+    "num": 8,
+    "dir": "D",
+    "row": 6,
+    "col": 0,
+    "answer": "THREADS",
+    "display": "THREADS",
+    "clue": "Apka Mety, w której piszesz posty jak na Twitterze.",
+    "enum": "7"
+   },
+   {
+    "num": 9,
+    "dir": "D",
+    "row": 7,
+    "col": 13,
+    "answer": "SHAZAM",
+    "display": "SHAZAM",
+    "clue": "Rozpozna piosenkę, która leci w sklepie.",
+    "enum": "6"
+   },
+   {
+    "num": 12,
+    "dir": "D",
+    "row": 12,
+    "col": 2,
+    "answer": "CANVA",
+    "display": "CANVA",
+    "clue": "Tu robisz prezentację na ostatnią chwilę.",
+    "enum": "5"
+   }
+  ]
+ },
+ {
+  "id": "pilka-nozna",
+  "emoji": "⚽",
+  "title": "Piłka nożna",
+  "subtitle": "dla tych, co znają skład na pamięć",
+  "section": "Sezon 3",
+  "width": 13,
+  "height": 16,
+  "entries": [
+   {
+    "num": 3,
+    "dir": "A",
+    "row": 2,
+    "col": 0,
+    "answer": "DERBY",
+    "display": "DERBY",
+    "clue": "Mecz dwóch drużyn z tego samego miasta.",
+    "enum": "5"
+   },
+   {
+    "num": 4,
+    "dir": "A",
+    "row": 3,
+    "col": 5,
+    "answer": "GOL",
+    "display": "GOL",
+    "clue": "Najpiękniejsze trzy litery w piłce.",
+    "enum": "3"
+   },
+   {
+    "num": 7,
+    "dir": "A",
+    "row": 5,
+    "col": 3,
+    "answer": "PANENKA",
+    "display": "PANENKA",
+    "clue": "Karny podcinką w środek bramki, nazwany od czechosłowackiego piłkarza.",
+    "enum": "7"
+   },
+   {
+    "num": 9,
+    "dir": "A",
+    "row": 8,
+    "col": 0,
+    "answer": "PRZEWROTKA",
+    "display": "PRZEWROTKA",
+    "clue": "Strzał nożycami tyłem do bramki – na podwórku kończy się na plecach.",
+    "enum": "10"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 11,
+    "col": 1,
+    "answer": "KAPITAN",
+    "display": "KAPITAN",
+    "clue": "Ma opaskę na ramieniu i najdłużej kłóci się z sędzią.",
+    "enum": "7"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 12,
+    "col": 7,
+    "answer": "SŁUPEK",
+    "display": "SŁUPEK",
+    "clue": "Trafiasz w niego, a cały stadion łapie się za głowę.",
+    "enum": "6"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 13,
+    "col": 1,
+    "answer": "ŻÓŁTA",
+    "display": "ŻÓŁTA",
+    "clue": "___ kartka – ostrzeżenie od sędziego.",
+    "enum": "5"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 15,
+    "col": 1,
+    "answer": "YAMAL",
+    "display": "YAMAL",
+    "clue": "Lamine, który strzelił gola na Euro, mając 16 lat.",
+    "enum": "5"
+   },
+   {
+    "num": 16,
+    "dir": "A",
+    "row": 15,
+    "col": 7,
+    "answer": "ROŻNY",
+    "display": "ROŻNY",
+    "clue": "Rzut ___ – z narożnika boiska.",
+    "enum": "5"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 7,
+    "answer": "HAALAND",
+    "display": "HAALAND",
+    "clue": "Norweski cyborg, który po golu medytuje.",
+    "enum": "7"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 1,
+    "col": 3,
+    "answer": "MBAPPE",
+    "display": "MBAPPE",
+    "clue": "Francuz, który w 2024 r. przeszedł z PSG do Realu.",
+    "enum": "6"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 3,
+    "col": 9,
+    "answer": "BRAMKARZ",
+    "display": "BRAMKARZ",
+    "clue": "Jedyny, któremu wolno łapać piłkę rękami.",
+    "enum": "8"
+   },
+   {
+    "num": 6,
+    "dir": "D",
+    "row": 4,
+    "col": 1,
+    "answer": "HATTRICK",
+    "display": "HAT-TRICK",
+    "clue": "Trzy gole jednego zawodnika w meczu.",
+    "enum": "3-5"
+   },
+   {
+    "num": 8,
+    "dir": "D",
+    "row": 5,
+    "col": 12,
+    "answer": "CIESZYNKA",
+    "display": "CIESZYNKA",
+    "clue": "Taniec po strzelonym golu, czasem lepszy niż sam gol.",
+    "enum": "9"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 8,
+    "col": 7,
+    "answer": "TRANSFER",
+    "display": "TRANSFER",
+    "clue": "Okno ___ – kibice odświeżają newsy co minutę.",
+    "enum": "8"
+   },
+   {
+    "num": 11,
+    "dir": "D",
+    "row": 10,
+    "col": 4,
+    "answer": "SIATKA",
+    "display": "SIATKA",
+    "clue": "Przepuszczenie piłki między nogami rywala – czyli założenie ___.",
+    "enum": "6"
+   }
+  ]
+ },
+ {
+  "id": "pogoda",
+  "emoji": "🌧️",
+  "title": "Polska pogoda",
+  "subtitle": "cztery pory roku w jeden dzień",
+  "section": "Sezon 3",
+  "width": 14,
+  "height": 15,
+  "entries": [
+   {
+    "num": 2,
+    "dir": "A",
+    "row": 0,
+    "col": 7,
+    "answer": "TĘCZA",
+    "display": "TĘCZA",
+    "clue": "Pojawia się po deszczu, gdy słońce masz za plecami.",
+    "enum": "5"
+   },
+   {
+    "num": 4,
+    "dir": "A",
+    "row": 1,
+    "col": 0,
+    "answer": "UPAŁ",
+    "display": "UPAŁ",
+    "clue": "30 stopni, a w autobusie nie ma klimy.",
+    "enum": "4"
+   },
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 2,
+    "col": 10,
+    "answer": "MGŁA",
+    "display": "MGŁA",
+    "clue": "Rano nie widać przez nią nawet przystanku.",
+    "enum": "4"
+   },
+   {
+    "num": 7,
+    "dir": "A",
+    "row": 3,
+    "col": 1,
+    "answer": "GOŁOLEDŹ",
+    "display": "GOŁOLEDŹ",
+    "clue": "Chodnik zamienia się w lodowisko.",
+    "enum": "8"
+   },
+   {
+    "num": 9,
+    "dir": "A",
+    "row": 5,
+    "col": 5,
+    "answer": "PROGNOZA",
+    "display": "PROGNOZA",
+    "clue": "Mówiła 0% szans na deszcz, a ty jesteś mokry do kości.",
+    "enum": "8"
+   },
+   {
+    "num": 11,
+    "dir": "A",
+    "row": 8,
+    "col": 4,
+    "answer": "PRZYMROZEK",
+    "display": "PRZYMROZEK",
+    "clue": "Majowy wróg ogródka babci.",
+    "enum": "10"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 10,
+    "col": 2,
+    "answer": "BURZA",
+    "display": "BURZA",
+    "clue": "Babcia wyłącza przez nią wszystko z gniazdek.",
+    "enum": "5"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 11,
+    "col": 9,
+    "answer": "WIATR",
+    "display": "WIATR",
+    "clue": "Wywraca ci na ulicy wszystko na lewą stronę, łącznie z fryzurą.",
+    "enum": "5"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 12,
+    "col": 4,
+    "answer": "SZRON",
+    "display": "SZRON",
+    "clue": "Skrobiesz go rano z szyby kartą lojalnościową.",
+    "enum": "5"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 14,
+    "col": 0,
+    "answer": "ODWILŻ",
+    "display": "ODWILŻ",
+    "clue": "Śnieg zamienia się w szarą breję.",
+    "enum": "6"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 2,
+    "answer": "KALOSZE",
+    "display": "KALOSZE",
+    "clue": "Gumowe buty na kałuże – i na festiwal.",
+    "enum": "7"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 0,
+    "col": 10,
+    "answer": "ZIMNIOGRODNICY",
+    "display": "ZIMNI OGRODNICY",
+    "clue": "Połowa maja: babcia mówi, że jeszcze nie sadzić.",
+    "enum": "5, 9"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 1,
+    "col": 5,
+    "answer": "CHLAPA",
+    "display": "CHLAPA",
+    "clue": "Ni to deszcz, ni to śnieg – listopadowa polska klasyka.",
+    "enum": "6"
+   },
+   {
+    "num": 8,
+    "dir": "D",
+    "row": 4,
+    "col": 12,
+    "answer": "BABIELATO",
+    "display": "BABIE LATO",
+    "clue": "Ciepły wrzesień z pajęczynami latającymi w powietrzu.",
+    "enum": "5, 4"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 7,
+    "col": 8,
+    "answer": "SMOG",
+    "display": "SMOG",
+    "clue": "Zimą w niektórych miastach da się go kroić nożem.",
+    "enum": "4"
+   },
+   {
+    "num": 11,
+    "dir": "D",
+    "row": 8,
+    "col": 4,
+    "answer": "PARASOL",
+    "display": "PARASOL",
+    "clue": "Masz go zawsze wtedy, kiedy nie pada.",
+    "enum": "7"
+   }
+  ]
+ },
+ {
+  "id": "rodzinka",
+  "emoji": "👨‍👩‍👧",
+  "title": "Rodzinka",
+  "subtitle": "grupa „Rodzina 💕” ma 47 nowych wiadomości",
+  "section": "Sezon 3",
+  "width": 13,
+  "height": 17,
+  "entries": [
+   {
+    "num": 7,
+    "dir": "A",
+    "row": 3,
+    "col": 8,
+    "answer": "GRUPA",
+    "display": "GRUPA",
+    "clue": "Rodzinna ___ na WhatsAppie – 200 wiadomości dziennie.",
+    "enum": "5"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 6,
+    "col": 8,
+    "answer": "KUZYN",
+    "display": "KUZYN",
+    "clue": "Na rodzinnych imprezach jedyny ziomek w twoim wieku.",
+    "enum": "5"
+   },
+   {
+    "num": 9,
+    "dir": "A",
+    "row": 7,
+    "col": 0,
+    "answer": "BLIŹNIAKI",
+    "display": "BLIŹNIAKI",
+    "clue": "Urodzeni tego samego dnia i nikt ich nie odróżnia.",
+    "enum": "9"
+   },
+   {
+    "num": 11,
+    "dir": "A",
+    "row": 9,
+    "col": 5,
+    "answer": "SIOSTRA",
+    "display": "SIOSTRA",
+    "clue": "Pożycza ciuchy bez pytania.",
+    "enum": "7"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 11,
+    "col": 6,
+    "answer": "CIOCIA",
+    "display": "CIOCIA",
+    "clue": "Wysyła rano GIF z kawą i napisem „Miłego dnia”.",
+    "enum": "6"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 13,
+    "col": 1,
+    "answer": "SKARBONKA",
+    "display": "SKARBONKA",
+    "clue": "Świnka, do której wrzucasz grosze od babci.",
+    "enum": "9"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 16,
+    "col": 2,
+    "answer": "ZDJĘCIE",
+    "display": "ZDJĘCIE",
+    "clue": "Rodzinne, przy choince: wszyscy się uśmiechają, tylko ty mrugasz.",
+    "enum": "7"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 0,
+    "answer": "MŁODSZYBRAT",
+    "display": "MŁODSZY BRAT",
+    "clue": "Wchodzi do pokoju bez pukania i skarży rodzicom.",
+    "enum": "7, 4"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 4,
+    "answer": "CHRZESTNY",
+    "display": "CHRZESTNY",
+    "clue": "Dał ci zegarek na komunię i od tamtej pory pyta tylko o szkołę.",
+    "enum": "9"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 0,
+    "col": 6,
+    "answer": "TEŚCIOWA",
+    "display": "TEŚCIOWA",
+    "clue": "Bohaterka najstarszych dowcipów świata.",
+    "enum": "8"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 0,
+    "col": 10,
+    "answer": "ALBUM",
+    "display": "ALBUM",
+    "clue": "Babcia pokazuje w nim gościom twoje zdjęcia z wanny.",
+    "enum": "5"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 0,
+    "col": 12,
+    "answer": "SZLABAN",
+    "display": "SZLABAN",
+    "clue": "Kara: zero telefonu przez tydzień.",
+    "enum": "7"
+   },
+   {
+    "num": 6,
+    "dir": "D",
+    "row": 2,
+    "col": 2,
+    "answer": "KOMUNIA",
+    "display": "KOMUNIA",
+    "clue": "Impreza, z której wracasz z quadem albo laptopem.",
+    "enum": "7"
+   },
+   {
+    "num": 8,
+    "dir": "D",
+    "row": 6,
+    "col": 8,
+    "answer": "KIESZONKOWE",
+    "display": "KIESZONKOWE",
+    "clue": "Pieniądze od rodziców, które znikają do środy.",
+    "enum": "11"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 8,
+    "col": 11,
+    "answer": "TATA",
+    "display": "TATA",
+    "clue": "Na każdy problem z komputerem mówi „wyłącz i włącz”.",
+    "enum": "4"
+   },
+   {
+    "num": 12,
+    "dir": "D",
+    "row": 10,
+    "col": 3,
+    "answer": "OBIAD",
+    "display": "OBIAD",
+    "clue": "Niedzielny, z całą rodziną i pytaniem „a jak tam w szkole?”.",
+    "enum": "5"
+   }
+  ]
+ },
+ {
+  "id": "wielkanoc",
+  "emoji": "🐣",
+  "title": "Wielkanoc",
+  "subtitle": "śmigus-dyngus bez litości",
+  "section": "Sezon 3",
+  "width": 13,
+  "height": 17,
+  "entries": [
+   {
+    "num": 1,
+    "dir": "A",
+    "row": 0,
+    "col": 4,
+    "answer": "ZAJĄCZEK",
+    "display": "ZAJĄCZEK",
+    "clue": "Przynosi drobne prezenty – wielkanocna wersja Mikołaja.",
+    "enum": "8"
+   },
+   {
+    "num": 4,
+    "dir": "A",
+    "row": 2,
+    "col": 6,
+    "answer": "ŻUREK",
+    "display": "ŻUREK",
+    "clue": "Kwaśna zupa z białą kiełbasą i jajkiem.",
+    "enum": "5"
+   },
+   {
+    "num": 7,
+    "dir": "A",
+    "row": 5,
+    "col": 0,
+    "answer": "ŚMIGUSDYNGUS",
+    "display": "ŚMIGUS-DYNGUS",
+    "clue": "Lany poniedziałek – woda za kołnierz i mokre skarpety.",
+    "enum": "6-6"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 8,
+    "col": 4,
+    "answer": "KOSZYCZEK",
+    "display": "KOSZYCZEK",
+    "clue": "Wiklinowy, z jajkami, chlebem i solą.",
+    "enum": "9"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 13,
+    "col": 4,
+    "answer": "BARANEK",
+    "display": "BARANEK",
+    "clue": "Cukrowy, z czerwoną chorągiewką.",
+    "enum": "7"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 15,
+    "col": 5,
+    "answer": "RZEŻUCHA",
+    "display": "RZEŻUCHA",
+    "clue": "Zielona trawka hodowana na wacie.",
+    "enum": "8"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 16,
+    "col": 1,
+    "answer": "JAJKO",
+    "display": "JAJKO",
+    "clue": "Bitwa na nie przy stole: czyje pierwsze pęknie.",
+    "enum": "5"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 8,
+    "answer": "CHRZAN",
+    "display": "CHRZAN",
+    "clue": "Od niego łzy lecą jak na smutnym filmie.",
+    "enum": "6"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 2,
+    "col": 4,
+    "answer": "MAZUREK",
+    "display": "MAZUREK",
+    "clue": "Płaskie wielkanocne ciasto z lukrem i bakaliami.",
+    "enum": "7"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 4,
+    "col": 2,
+    "answer": "PISANKA",
+    "display": "PISANKA",
+    "clue": "Wielkanocna ozdoba, którą maluje się woskiem i farbką.",
+    "enum": "7"
+   },
+   {
+    "num": 6,
+    "dir": "D",
+    "row": 4,
+    "col": 10,
+    "answer": "KURCZACZEK",
+    "display": "KURCZACZEK",
+    "clue": "Żółta ozdoba z puchu na świątecznym stole.",
+    "enum": "10"
+   },
+   {
+    "num": 7,
+    "dir": "D",
+    "row": 5,
+    "col": 0,
+    "answer": "ŚWIĘCONKA",
+    "display": "ŚWIĘCONKA",
+    "clue": "Sobotnie poświęcenie jedzenia w kościele.",
+    "enum": "9"
+   },
+   {
+    "num": 9,
+    "dir": "D",
+    "row": 8,
+    "col": 6,
+    "answer": "SÓL",
+    "display": "SÓL",
+    "clue": "Biała przyprawa, której szczypta też trafia do koszyka.",
+    "enum": "3"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 11,
+    "col": 5,
+    "answer": "WIADRO",
+    "display": "WIADRO",
+    "clue": "Główna broń w lany poniedziałek.",
+    "enum": "6"
+   },
+   {
+    "num": 11,
+    "dir": "D",
+    "row": 11,
+    "col": 12,
+    "answer": "BABKA",
+    "display": "BABKA",
+    "clue": "Ciasto z dziurą w środku i lukrem na górze.",
+    "enum": "5"
+   }
+  ]
+ },
+ {
+  "id": "pandemia",
+  "emoji": "😷",
+  "title": "Pandemia 2020",
+  "subtitle": "kamerka wyłączona, mikrofon też",
+  "section": "Sezon 3",
+  "width": 13,
+  "height": 17,
+  "entries": [
+   {
+    "num": 3,
+    "dir": "A",
+    "row": 1,
+    "col": 2,
+    "answer": "LOCKDOWN",
+    "display": "LOCKDOWN",
+    "clue": "Zamknięte wszystko: szkoły, galerie i siłownie.",
+    "enum": "8"
+   },
+   {
+    "num": 5,
+    "dir": "A",
+    "row": 4,
+    "col": 4,
+    "answer": "PIŻAMA",
+    "display": "PIŻAMA",
+    "clue": "Strój na lekcje online – od pasa w dół.",
+    "enum": "6"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 6,
+    "col": 1,
+    "answer": "DEZYNFEKCJA",
+    "display": "DEZYNFEKCJA",
+    "clue": "Płyn do rąk na każdym wejściu do sklepu.",
+    "enum": "11"
+   },
+   {
+    "num": 9,
+    "dir": "A",
+    "row": 9,
+    "col": 3,
+    "answer": "DYSTANS",
+    "display": "DYSTANS",
+    "clue": "Półtora metra, które trzeba było trzymać od innych.",
+    "enum": "7"
+   },
+   {
+    "num": 10,
+    "dir": "A",
+    "row": 11,
+    "col": 3,
+    "answer": "PRZYŁBICA",
+    "display": "PRZYŁBICA",
+    "clue": "Plastikowa osłona na twarz – hit sezonu.",
+    "enum": "9"
+   },
+   {
+    "num": 11,
+    "dir": "A",
+    "row": 12,
+    "col": 0,
+    "answer": "NUDA",
+    "display": "NUDA",
+    "clue": "Przez nią obejrzałeś całego Netfliksa i nauczyłeś się żonglować.",
+    "enum": "4"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 13,
+    "col": 6,
+    "answer": "DALGONA",
+    "display": "DALGONA",
+    "clue": "Kawa ubijana na piankę, którą w 2020 r. robił cały TikTok.",
+    "enum": "7"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 15,
+    "col": 0,
+    "answer": "CHLEB",
+    "display": "CHLEB",
+    "clue": "Bananowy ___ – nagle każdy został piekarzem.",
+    "enum": "5"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 3,
+    "answer": "ZOOM",
+    "display": "ZOOM",
+    "clue": "Apka do wideorozmów, w której zawsze ktoś mówi z wyciszonym mikrofonem.",
+    "enum": "4"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 9,
+    "answer": "ANIMALCROSSING",
+    "display": "ANIMAL CROSSING",
+    "clue": "Gra z wyspą, na której wszyscy spędzali wiosnę 2020 r.",
+    "enum": "6, 8"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 3,
+    "col": 7,
+    "answer": "KAMERKA",
+    "display": "KAMERKA",
+    "clue": "„Proszę włączyć ___!” – „Ale mi nie działa…”.",
+    "enum": "7"
+   },
+   {
+    "num": 6,
+    "dir": "D",
+    "row": 4,
+    "col": 11,
+    "answer": "KWARANTANNA",
+    "display": "KWARANTANNA",
+    "clue": "Dwa tygodnie w domu z rodziną bez wychodzenia.",
+    "enum": "11"
+   },
+   {
+    "num": 7,
+    "dir": "D",
+    "row": 5,
+    "col": 1,
+    "answer": "ZDALNE",
+    "display": "ZDALNE",
+    "clue": "___ nauczanie – lekcje w łóżku.",
+    "enum": "6"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 11,
+    "col": 3,
+    "answer": "PAPIER",
+    "display": "PAPIER",
+    "clue": "Toaletowy – na początku wszyscy wykupywali go na zapas.",
+    "enum": "6"
+   },
+   {
+    "num": 12,
+    "dir": "D",
+    "row": 13,
+    "col": 6,
+    "answer": "DRES",
+    "display": "DRES",
+    "clue": "Strój, w którym przetrwałeś cały rok.",
+    "enum": "4"
+   }
+  ]
+ },
+ {
+  "id": "ciekawostki",
+  "emoji": "🤯",
+  "title": "Ciekawostki z TikToka",
+  "subtitle": "„czy wiedziałeś, że…”",
+  "section": "Sezon 3",
+  "width": 13,
+  "height": 16,
+  "entries": [
+   {
+    "num": 1,
+    "dir": "A",
+    "row": 0,
+    "col": 0,
+    "answer": "WOMBAT",
+    "display": "WOMBAT",
+    "clue": "Torbacz, który robi kwadratowe kupy.",
+    "enum": "6"
+   },
+   {
+    "num": 3,
+    "dir": "A",
+    "row": 0,
+    "col": 8,
+    "answer": "SŁOŃ",
+    "display": "SŁOŃ",
+    "clue": "Ssak, który w ogóle nie potrafi podskoczyć.",
+    "enum": "4"
+   },
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 3,
+    "col": 1,
+    "answer": "FLAMING",
+    "display": "FLAMING",
+    "clue": "Jest różowy tylko przez to, co je.",
+    "enum": "7"
+   },
+   {
+    "num": 7,
+    "dir": "A",
+    "row": 5,
+    "col": 0,
+    "answer": "KREWETKA",
+    "display": "KREWETKA",
+    "clue": "Ma serce w głowie.",
+    "enum": "8"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 7,
+    "col": 3,
+    "answer": "WENUS",
+    "display": "WENUS",
+    "clue": "Planeta, na której doba trwa dłużej niż rok.",
+    "enum": "5"
+   },
+   {
+    "num": 9,
+    "dir": "A",
+    "row": 7,
+    "col": 9,
+    "answer": "MIÓD",
+    "display": "MIÓD",
+    "clue": "Nie psuje się – podobno jadalny znaleziono w grobowcach faraonów.",
+    "enum": "4"
+   },
+   {
+    "num": 10,
+    "dir": "A",
+    "row": 9,
+    "col": 2,
+    "answer": "KLEOPATRA",
+    "display": "KLEOPATRA",
+    "clue": "Żyła bliżej czasów iPhone’a niż budowy piramid w Gizie.",
+    "enum": "9"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 13,
+    "col": 0,
+    "answer": "TRUSKAWKA",
+    "display": "TRUSKAWKA",
+    "clue": "Botanicznie nie jest jagodą, za to bakłażan już tak.",
+    "enum": "9"
+   },
+   {
+    "num": 16,
+    "dir": "A",
+    "row": 15,
+    "col": 2,
+    "answer": "BANAN",
+    "display": "BANAN",
+    "clue": "Lekko radioaktywny przez potas.",
+    "enum": "5"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 1,
+    "answer": "OKSFORD",
+    "display": "OKSFORD",
+    "clue": "Ten uniwersytet jest starszy niż imperium Azteków.",
+    "enum": "7"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 0,
+    "col": 10,
+    "answer": "OŚMIORNICA",
+    "display": "OŚMIORNICA",
+    "clue": "Ma trzy serca i niebieską krew.",
+    "enum": "10"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 2,
+    "col": 5,
+    "answer": "NINTENDO",
+    "display": "NINTENDO",
+    "clue": "Firma, która w 1889 r. zaczynała od kart do gry.",
+    "enum": "8"
+   },
+   {
+    "num": 11,
+    "dir": "D",
+    "row": 9,
+    "col": 6,
+    "answer": "PINGWIN",
+    "display": "PINGWIN",
+    "clue": "Niektóre samce oświadczają się samicy, dając jej kamyk.",
+    "enum": "7"
+   },
+   {
+    "num": 12,
+    "dir": "D",
+    "row": 10,
+    "col": 1,
+    "answer": "WYDRA",
+    "display": "WYDRA",
+    "clue": "Morskie śpią, trzymając się za łapki, żeby nie odpłynąć.",
+    "enum": "5"
+   },
+   {
+    "num": 13,
+    "dir": "D",
+    "row": 11,
+    "col": 4,
+    "answer": "REKIN",
+    "display": "REKIN",
+    "clue": "Pływa po oceanach dłużej, niż na Ziemi istnieją drzewa.",
+    "enum": "5"
+   },
+   {
+    "num": 14,
+    "dir": "D",
+    "row": 11,
+    "col": 8,
+    "answer": "KOALA",
+    "display": "KOALA",
+    "clue": "Śpi nawet 20 godzin na dobę – mood.",
+    "enum": "5"
+   }
+  ]
+ },
+ {
+  "id": "mieszkanie",
+  "emoji": "🏠",
+  "title": "Pierwsze mieszkanie",
+  "subtitle": "kto znowu nie umył kubka?",
+  "section": "Sezon 3",
+  "width": 13,
+  "height": 16,
+  "entries": [
+   {
+    "num": 4,
+    "dir": "A",
+    "row": 1,
+    "col": 0,
+    "answer": "UMOWA",
+    "display": "UMOWA",
+    "clue": "Najmu – czytasz ją dopiero, gdy pojawia się problem.",
+    "enum": "5"
+   },
+   {
+    "num": 7,
+    "dir": "A",
+    "row": 3,
+    "col": 1,
+    "answer": "WSPÓŁLOKATOR",
+    "display": "WSPÓŁLOKATOR",
+    "clue": "Zjada twoje jedzenie z lodówki i mówi, że to nie on.",
+    "enum": "12"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 5,
+    "col": 0,
+    "answer": "PRALKA",
+    "display": "PRALKA",
+    "clue": "Zjada skarpetki i spaceruje po łazience przy wirowaniu.",
+    "enum": "6"
+   },
+   {
+    "num": 10,
+    "dir": "A",
+    "row": 6,
+    "col": 9,
+    "answer": "IKEA",
+    "display": "IKEA",
+    "clue": "Sklep z klopsikami i meblami do samodzielnego skręcania.",
+    "enum": "4"
+   },
+   {
+    "num": 11,
+    "dir": "A",
+    "row": 9,
+    "col": 3,
+    "answer": "KAUCJA",
+    "display": "KAUCJA",
+    "clue": "Płacisz ją przy wynajmie i już nigdy jej nie zobaczysz.",
+    "enum": "6"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 11,
+    "col": 4,
+    "answer": "WIERTARKA",
+    "display": "WIERTARKA",
+    "clue": "Sąsiad odpala ją w niedzielę o ósmej rano.",
+    "enum": "9"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 13,
+    "col": 3,
+    "answer": "KUBEK",
+    "display": "KUBEK",
+    "clue": "Ten ulubiony zawsze stoi brudny w zlewie.",
+    "enum": "5"
+   },
+   {
+    "num": 16,
+    "dir": "A",
+    "row": 15,
+    "col": 2,
+    "answer": "MONSTERA",
+    "display": "MONSTERA",
+    "clue": "Roślina z dziurawymi liśćmi, obowiązkowa w każdym mieszkaniu z Instagrama.",
+    "enum": "8"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 1,
+    "answer": "ZMYWARKA",
+    "display": "ZMYWARKA",
+    "clue": "Kłótnia o to, jak ją układać, niszczy związki.",
+    "enum": "8"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 4,
+    "answer": "ŻARÓWKA",
+    "display": "ŻARÓWKA",
+    "clue": "Przepala się zawsze tam, gdzie nie sięgasz.",
+    "enum": "7"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 0,
+    "col": 12,
+    "answer": "MIKROFALÓWKA",
+    "display": "MIKROFALÓWKA",
+    "clue": "Dwie minuty i obiad w środku zimny, a na brzegach lawa.",
+    "enum": "12"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 1,
+    "col": 9,
+    "answer": "CZAJNIK",
+    "display": "CZAJNIK",
+    "clue": "Kamień w nim masz gratis.",
+    "enum": "7"
+   },
+   {
+    "num": 6,
+    "dir": "D",
+    "row": 2,
+    "col": 7,
+    "answer": "KOSZ",
+    "display": "KOSZ",
+    "clue": "Kto go wynosi? Odwieczna kłótnia w każdym mieszkaniu.",
+    "enum": "4"
+   },
+   {
+    "num": 9,
+    "dir": "D",
+    "row": 6,
+    "col": 6,
+    "answer": "KLUCZE",
+    "display": "KLUCZE",
+    "clue": "Szukasz ich, trzymając je w ręce.",
+    "enum": "6"
+   },
+   {
+    "num": 12,
+    "dir": "D",
+    "row": 10,
+    "col": 9,
+    "answer": "KANAPA",
+    "display": "KANAPA",
+    "clue": "Śpi na niej każdy znajomy „tylko na jedną noc”.",
+    "enum": "6"
+   },
+   {
+    "num": 14,
+    "dir": "D",
+    "row": 11,
+    "col": 5,
+    "answer": "IMBUS",
+    "display": "IMBUS",
+    "clue": "Sześciokątny kluczyk, który zawsze zostaje po skręcaniu mebli.",
+    "enum": "5"
+   }
+  ]
+ },
+ {
+  "id": "disney",
+  "emoji": "🏰",
+  "title": "Disney i Pixar",
+  "subtitle": "bajki, przy których płakałeś",
+  "section": "Sezon 3",
+  "width": 13,
+  "height": 12,
+  "entries": [
+   {
+    "num": 2,
+    "dir": "A",
+    "row": 0,
+    "col": 7,
+    "answer": "SULLEY",
+    "display": "SULLEY",
+    "clue": "Wielki niebieski włochacz z „Potworów i spółki”.",
+    "enum": "6"
+   },
+   {
+    "num": 3,
+    "dir": "A",
+    "row": 1,
+    "col": 3,
+    "answer": "ODLOT",
+    "display": "ODLOT",
+    "clue": "Bajka o dziadku, który przywiązał dom do balonów.",
+    "enum": "5"
+   },
+   {
+    "num": 5,
+    "dir": "A",
+    "row": 3,
+    "col": 0,
+    "answer": "VAIANA",
+    "display": "VAIANA",
+    "clue": "Polinezyjka, która płynie przez ocean z półbogiem Mauim.",
+    "enum": "6"
+   },
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 3,
+    "col": 7,
+    "answer": "CHUDY",
+    "display": "CHUDY",
+    "clue": "Kowboj z „Toy Story” z wężem w bucie.",
+    "enum": "5"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 5,
+    "col": 9,
+    "answer": "BUZZ",
+    "display": "BUZZ",
+    "clue": "___ Astral: „Do nieskończoności i jeszcze dalej!”.",
+    "enum": "4"
+   },
+   {
+    "num": 10,
+    "dir": "A",
+    "row": 7,
+    "col": 4,
+    "answer": "ROSZPUNKA",
+    "display": "ROSZPUNKA",
+    "clue": "Księżniczka z 21 metrami włosów i patelnią w ręce.",
+    "enum": "9"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 8,
+    "col": 1,
+    "answer": "REMY",
+    "display": "REMY",
+    "clue": "Szczur, który gotował w paryskiej restauracji.",
+    "enum": "4"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 9,
+    "col": 5,
+    "answer": "SMUTEK",
+    "display": "SMUTEK",
+    "clue": "Niebieska emocja z „W głowie się nie mieści”.",
+    "enum": "6"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 11,
+    "col": 5,
+    "answer": "WALLE",
+    "display": "WALL-E",
+    "clue": "Robot, który sam sprzątał opuszczoną Ziemię.",
+    "enum": "4-1"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 1,
+    "answer": "MULAN",
+    "display": "MULAN",
+    "clue": "Przebrała się za żołnierza, żeby ojciec nie musiał iść na wojnę.",
+    "enum": "5"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 7,
+    "answer": "STICH",
+    "display": "STICH",
+    "clue": "Niebieski kosmita, najlepszy przyjaciel Lilo.",
+    "enum": "5"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 1,
+    "col": 3,
+    "answer": "OLAF",
+    "display": "OLAF",
+    "clue": "Bałwanek, który kocha ciepłe uściski.",
+    "enum": "4"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 2,
+    "col": 11,
+    "answer": "ZYGZAK",
+    "display": "ZYGZAK",
+    "clue": "___ McQueen, czerwona wyścigówka z „Aut”.",
+    "enum": "6"
+   },
+   {
+    "num": 7,
+    "dir": "D",
+    "row": 5,
+    "col": 4,
+    "answer": "DORY",
+    "display": "DORY",
+    "clue": "Niebieska rybka z pamięcią na trzy sekundy.",
+    "enum": "4"
+   },
+   {
+    "num": 9,
+    "dir": "D",
+    "row": 7,
+    "col": 2,
+    "answer": "NEMO",
+    "display": "NEMO",
+    "clue": "Rybka-błazen, której szukał cały ocean.",
+    "enum": "4"
+   },
+   {
+    "num": 11,
+    "dir": "D",
+    "row": 7,
+    "col": 6,
+    "answer": "SIMBA",
+    "display": "SIMBA",
+    "clue": "Lwiątko podniesione na skale na oczach całej sawanny.",
+    "enum": "5"
+   }
+  ]
+ },
+ {
+  "id": "kuchnia",
+  "emoji": "🍳",
+  "title": "Kuchnia na studiach",
+  "subtitle": "gotowanie dla opornych",
+  "section": "Sezon 3",
+  "width": 14,
+  "height": 17,
+  "entries": [
+   {
+    "num": 2,
+    "dir": "A",
+    "row": 1,
+    "col": 6,
+    "answer": "PARÓWKI",
+    "display": "PARÓWKI",
+    "clue": "Gotujesz je trzy minuty i nazywasz to gotowaniem.",
+    "enum": "7"
+   },
+   {
+    "num": 3,
+    "dir": "A",
+    "row": 2,
+    "col": 1,
+    "answer": "MIKSER",
+    "display": "MIKSER",
+    "clue": "Kręci ciasto i chlapie nim po ścianach.",
+    "enum": "6"
+   },
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 4,
+    "col": 3,
+    "answer": "PATELNIA",
+    "display": "PATELNIA",
+    "clue": "Teflonowa, porysowana widelcem przez współlokatora.",
+    "enum": "8"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 7,
+    "col": 0,
+    "answer": "ZUPKA",
+    "display": "ZUPKA",
+    "clue": "Chińska ___ za dwa złote – zalewasz wrzątkiem i gotowe.",
+    "enum": "5"
+   },
+   {
+    "num": 9,
+    "dir": "A",
+    "row": 9,
+    "col": 3,
+    "answer": "JAJECZNICA",
+    "display": "JAJECZNICA",
+    "clue": "Szczyt kulinarnych możliwości o drugiej w nocy.",
+    "enum": "10"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 11,
+    "col": 3,
+    "answer": "MROŻONKI",
+    "display": "MROŻONKI",
+    "clue": "Pierogi z zamrażarki – plan awaryjny każdego studenta.",
+    "enum": "8"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 14,
+    "col": 0,
+    "answer": "TOSTY",
+    "display": "TOSTY",
+    "clue": "Opiekacz robi z nich obiad w trzy minuty.",
+    "enum": "5"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 15,
+    "col": 7,
+    "answer": "KANAPKA",
+    "display": "KANAPKA",
+    "clue": "Chleb, masło i to, co zostało w lodówce.",
+    "enum": "7"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 16,
+    "col": 0,
+    "answer": "MAKARON",
+    "display": "MAKARON",
+    "clue": "Z keczupem to obiad, z serem to już kolacja.",
+    "enum": "7"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 4,
+    "answer": "OWSIANKA",
+    "display": "OWSIANKA",
+    "clue": "Śniadanie, do którego dodajesz wszystko, żeby miało jakiś smak.",
+    "enum": "8"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 1,
+    "col": 6,
+    "answer": "PRZEPIS",
+    "display": "PRZEPIS",
+    "clue": "„Szczypta soli” w nim to ile dokładnie?",
+    "enum": "7"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 3,
+    "col": 0,
+    "answer": "DOWÓZ",
+    "display": "DOWÓZ",
+    "clue": "Zamawiasz go, bo „nie chce ci się gotować”, a czekasz godzinę.",
+    "enum": "5"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 3,
+    "col": 10,
+    "answer": "NALEŚNIKI",
+    "display": "NALEŚNIKI",
+    "clue": "Pierwszy zawsze wychodzi brzydki.",
+    "enum": "9"
+   },
+   {
+    "num": 7,
+    "dir": "D",
+    "row": 4,
+    "col": 12,
+    "answer": "PRZYPALONE",
+    "display": "PRZYPALONE",
+    "clue": "Tak smakuje obiad, gdy w trakcie odpisywałeś na wiadomości.",
+    "enum": "10"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 9,
+    "col": 4,
+    "answer": "AIRFRYER",
+    "display": "AIR FRYER",
+    "clue": "Frytkownica beztłuszczowa, o której opowiada każdy, kto ją kupił.",
+    "enum": "3, 5"
+   },
+   {
+    "num": 11,
+    "dir": "D",
+    "row": 9,
+    "col": 7,
+    "answer": "CZOSNEK",
+    "display": "CZOSNEK",
+    "clue": "Wampiry go nie znoszą, a ty dajesz go do wszystkiego.",
+    "enum": "7"
+   }
+  ]
+ },
+ {
+  "id": "kalendarz",
+  "emoji": "📅",
+  "title": "Kalendarz świąt",
+  "subtitle": "od karnawału do Sylwestra",
+  "section": "Sezon 3",
+  "width": 15,
+  "height": 17,
+  "entries": [
+   {
+    "num": 1,
+    "dir": "A",
+    "row": 0,
+    "col": 0,
+    "answer": "APRILIS",
+    "display": "APRILIS",
+    "clue": "Prima ___ – 1 kwietnia wszystkie newsy są podejrzane.",
+    "enum": "7"
+   },
+   {
+    "num": 4,
+    "dir": "A",
+    "row": 2,
+    "col": 7,
+    "answer": "URODZINY",
+    "display": "URODZINY",
+    "clue": "Facebook przypomina o nich ludziom, których nie znasz.",
+    "enum": "8"
+   },
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 5,
+    "col": 3,
+    "answer": "HALLOWEEN",
+    "display": "HALLOWEEN",
+    "clue": "Cukierek albo psikus!",
+    "enum": "9"
+   },
+   {
+    "num": 9,
+    "dir": "A",
+    "row": 8,
+    "col": 2,
+    "answer": "DZIEŃCHŁOPAKA",
+    "display": "DZIEŃ CHŁOPAKA",
+    "clue": "30 września – dostajesz skarpetki i dezodorant.",
+    "enum": "5, 8"
+   },
+   {
+    "num": 10,
+    "dir": "A",
+    "row": 10,
+    "col": 2,
+    "answer": "MIKOŁAJKI",
+    "display": "MIKOŁAJKI",
+    "clue": "Klasowe losowanie, komu kupujesz prezent.",
+    "enum": "9"
+   },
+   {
+    "num": 11,
+    "dir": "A",
+    "row": 12,
+    "col": 4,
+    "answer": "SYLWESTER",
+    "display": "SYLWESTER",
+    "clue": "Fajerwerki o północy i pies schowany pod łóżkiem.",
+    "enum": "9"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 14,
+    "col": 2,
+    "answer": "WIGILIA",
+    "display": "WIGILIA",
+    "clue": "24 grudnia: kolacja, opłatek i Kevin w telewizji.",
+    "enum": "7"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 16,
+    "col": 1,
+    "answer": "KARNAWAŁ",
+    "display": "KARNAWAŁ",
+    "clue": "Czas balów przebierańców przed postem.",
+    "enum": "8"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 0,
+    "answer": "ANDRZEJKI",
+    "display": "ANDRZEJKI",
+    "clue": "Wróżby z lania wosku przez dziurkę od klucza.",
+    "enum": "9"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 4,
+    "answer": "LAURKA",
+    "display": "LAURKA",
+    "clue": "Rysowany prezent dla mamy na 26 maja.",
+    "enum": "6"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 0,
+    "col": 12,
+    "answer": "ZNICZ",
+    "display": "ZNICZ",
+    "clue": "1 listopada stawiasz go na grobie.",
+    "enum": "5"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 2,
+    "col": 10,
+    "answer": "DZIEŃKOBIET",
+    "display": "DZIEŃ KOBIET",
+    "clue": "8 marca: tulipany w każdej kwiaciarni.",
+    "enum": "5, 6"
+   },
+   {
+    "num": 7,
+    "dir": "D",
+    "row": 5,
+    "col": 14,
+    "answer": "CZWARTEK",
+    "display": "CZWARTEK",
+    "clue": "Tłusty ___ – pączki znikają z piekarni do południa.",
+    "enum": "8"
+   },
+   {
+    "num": 8,
+    "dir": "D",
+    "row": 6,
+    "col": 12,
+    "answer": "BLACKFRIDAY",
+    "display": "BLACK FRIDAY",
+    "clue": "Piątek promocji na rzeczy, których nie potrzebujesz.",
+    "enum": "5, 6"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 10,
+    "col": 2,
+    "answer": "MAJÓWKA",
+    "display": "MAJÓWKA",
+    "clue": "Długi weekend z grillem, w który zawsze pada.",
+    "enum": "7"
+   }
+  ]
+ },
+ {
+  "id": "planszowki",
+  "emoji": "🎲",
+  "title": "Gry na przerwę",
+  "subtitle": "trafiony, zatopiony",
+  "section": "Sezon 3",
+  "width": 13,
+  "height": 17,
+  "entries": [
+   {
+    "num": 3,
+    "dir": "A",
+    "row": 1,
+    "col": 2,
+    "answer": "SZACHY",
+    "display": "SZACHY",
+    "clue": "Gra, w której koń chodzi w kształcie litery L.",
+    "enum": "6"
+   },
+   {
+    "num": 5,
+    "dir": "A",
+    "row": 3,
+    "col": 7,
+    "answer": "MAKAO",
+    "display": "MAKAO",
+    "clue": "Karcianka, w której krzyczysz jej nazwę, gdy zostaje ci jedna karta.",
+    "enum": "5"
+   },
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 5,
+    "col": 0,
+    "answer": "EUROBIZNES",
+    "display": "EUROBIZNES",
+    "clue": "Polska planszówka z miastami Europy, hotelami i więzieniem.",
+    "enum": "10"
+   },
+   {
+    "num": 7,
+    "dir": "A",
+    "row": 7,
+    "col": 7,
+    "answer": "PIONEK",
+    "display": "PIONEK",
+    "clue": "Mała figurka, którą przesuwasz po planszy.",
+    "enum": "6"
+   },
+   {
+    "num": 10,
+    "dir": "A",
+    "row": 10,
+    "col": 1,
+    "answer": "CHIŃCZYK",
+    "display": "CHIŃCZYK",
+    "clue": "Zbijasz komuś pionka tuż przed metą i masz wroga do końca życia.",
+    "enum": "8"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 13,
+    "col": 4,
+    "answer": "STATKI",
+    "display": "STATKI",
+    "clue": "„B4 – trafiony, zatopiony!” na kartce w kratkę.",
+    "enum": "6"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 16,
+    "col": 5,
+    "answer": "PAŃSTWA",
+    "display": "PAŃSTWA",
+    "clue": "„___-miasta” – zawsze brakuje rzeki na „Ł”.",
+    "enum": "7"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 4,
+    "answer": "KALAMBURY",
+    "display": "KALAMBURY",
+    "clue": "Pokazujesz hasło bez słów, a drużyna krzyczy wszystko oprócz niego.",
+    "enum": "9"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 1,
+    "col": 0,
+    "answer": "WISIELEC",
+    "display": "WISIELEC",
+    "clue": "Zgadujesz litery, a kreska po kresce rysuje się ludzik.",
+    "enum": "8"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 2,
+    "col": 11,
+    "answer": "DOBBLE",
+    "display": "DOBBLE",
+    "clue": "Okrągłe karty, na których szukasz tego samego obrazka szybciej od reszty.",
+    "enum": "6"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 3,
+    "col": 7,
+    "answer": "MONOPOLY",
+    "display": "MONOPOLY",
+    "clue": "Gra, która kończy więcej przyjaźni niż kłótnie o kasę.",
+    "enum": "8"
+   },
+   {
+    "num": 8,
+    "dir": "D",
+    "row": 7,
+    "col": 12,
+    "answer": "KOŚCI",
+    "display": "KOŚCI",
+    "clue": "Rzucasz nimi w każdej planszówce.",
+    "enum": "5"
+   },
+   {
+    "num": 9,
+    "dir": "D",
+    "row": 9,
+    "col": 1,
+    "answer": "SCRABBLE",
+    "display": "SCRABBLE",
+    "clue": "Układasz słowa z literek i kłócisz się, czy „xd” to słowo.",
+    "enum": "8"
+   },
+   {
+    "num": 11,
+    "dir": "D",
+    "row": 10,
+    "col": 8,
+    "answer": "KÓŁKO",
+    "display": "KÓŁKO",
+    "clue": "___ i krzyżyk – remis w każdej partii.",
+    "enum": "5"
+   },
+   {
+    "num": 12,
+    "dir": "D",
+    "row": 12,
+    "col": 6,
+    "answer": "TALIA",
+    "display": "TALIA",
+    "clue": "52 karty plus dwa jokery.",
+    "enum": "5"
+   },
+   {
+    "num": 13,
+    "dir": "D",
+    "row": 12,
+    "col": 11,
+    "answer": "WOJNA",
+    "display": "WOJNA",
+    "clue": "Najprostsza gra w karty – wygrywa wyższa i trwa w nieskończoność.",
+    "enum": "5"
+   }
+  ]
+ },
+ {
+  "id": "wycieczka",
+  "emoji": "🚍",
+  "title": "Wycieczka szkolna",
+  "subtitle": "tylne siedzenia zajęte",
+  "section": "Sezon 3",
+  "width": 14,
+  "height": 15,
+  "entries": [
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 1,
+    "col": 7,
+    "answer": "AUTOKAR",
+    "display": "AUTOKAR",
+    "clue": "Tylne siedzenia zawsze zajmują ci sami.",
+    "enum": "7"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 3,
+    "col": 5,
+    "answer": "OPIEKUN",
+    "display": "OPIEKUN",
+    "clue": "Liczy uczniów co pięć minut i zawsze wychodzi o jednego mniej.",
+    "enum": "7"
+   },
+   {
+    "num": 9,
+    "dir": "A",
+    "row": 6,
+    "col": 0,
+    "answer": "WIELICZKA",
+    "display": "WIELICZKA",
+    "clue": "Kopalnia soli, w której każdy próbował polizać ścianę.",
+    "enum": "9"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 9,
+    "col": 7,
+    "answer": "MALBORK",
+    "display": "MALBORK",
+    "clue": "Zamek krzyżacki, z którego wraca się z drewnianym mieczem.",
+    "enum": "7"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 11,
+    "col": 4,
+    "answer": "ZGODA",
+    "display": "ZGODA",
+    "clue": "Pisemna ___ rodziców na wyjazd, której nikt nie oddał na czas.",
+    "enum": "5"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 13,
+    "col": 3,
+    "answer": "ZBIÓRKA",
+    "display": "ZBIÓRKA",
+    "clue": "O 6:30 pod szkołą – i zawsze ktoś się spóźnia.",
+    "enum": "7"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 2,
+    "answer": "DYSKOTEKA",
+    "display": "DYSKOTEKA",
+    "clue": "Ostatni wieczór wycieczki: wolny taniec i wychowawczyni przy drzwiach.",
+    "enum": "9"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 7,
+    "answer": "PAMIĄTKA",
+    "display": "PAMIĄTKA",
+    "clue": "Breloczek z imieniem – oczywiście nigdy nie ma twojego.",
+    "enum": "8"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 0,
+    "col": 11,
+    "answer": "SKANSEN",
+    "display": "SKANSEN",
+    "clue": "Muzeum starych chat pod gołym niebem.",
+    "enum": "7"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 0,
+    "col": 13,
+    "answer": "PRZEWODNIK",
+    "display": "PRZEWODNIK",
+    "clue": "Opowiada o każdej cegle, a nikt nie słucha.",
+    "enum": "10"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 1,
+    "col": 0,
+    "answer": "GRUPOWE",
+    "display": "GRUPOWE",
+    "clue": "___ zdjęcie przed wejściem – zawsze ktoś ma zamknięte oczy.",
+    "enum": "7"
+   },
+   {
+    "num": 7,
+    "dir": "D",
+    "row": 2,
+    "col": 5,
+    "answer": "WORECZEK",
+    "display": "WORECZEK",
+    "clue": "Ten na chorobę lokomocyjną – zawsze w kieszeni fotela z przodu.",
+    "enum": "8"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 8,
+    "col": 8,
+    "answer": "KANAPKI",
+    "display": "KANAPKI",
+    "clue": "Mama zapakowała je w folię, a ty zjadłeś je pięć minut po wyjeździe.",
+    "enum": "7"
+   },
+   {
+    "num": 11,
+    "dir": "D",
+    "row": 8,
+    "col": 11,
+    "answer": "POSTÓJ",
+    "display": "POSTÓJ",
+    "clue": "Na stacji benzynowej: 15 minut na hot doga i toaletę.",
+    "enum": "6"
+   },
+   {
+    "num": 13,
+    "dir": "D",
+    "row": 10,
+    "col": 6,
+    "answer": "POKÓJ",
+    "display": "POKÓJ",
+    "clue": "Czteroosobowy, a na noc ląduje w nim dziesięć osób.",
+    "enum": "5"
+   }
+  ]
  }
 ];
