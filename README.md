@@ -1,40 +1,31 @@
 # krzyżówki dla gen z 🧩
 
-15 krzyżówek z odmłodzonymi pytaniami: pół normalnych haseł, pół rzeczy, które zna każde Gen Z – bajki z Cartoon Network, gierki, memy, polski internet, szkoła, domówki. Ma być śmiesznie, nie trudno.
+30 krzyżówek z odmłodzonymi pytaniami: pół normalnych haseł, pół rzeczy, które zna każde Gen Z – bajki z Cartoon Network, gierki, memy, polski internet, szkoła, wesela, siłka, korpo. Ma być śmiesznie, nie trudno.
 
-| # | Krzyżówka |
-|---|-----------|
-| 1 | 🔥 Rozgrzewka |
-| 2 | 🏫 Szkolny korytarz |
-| 3 | 📺 Dzieciństwo przed telewizorem |
-| 4 | 🍲 Niedziela u babci |
-| 5 | 🌐 Polski internet |
-| 6 | 🎮 Gierki |
-| 7 | 🎧 Muza |
-| 8 | 🏖️ Wakacje |
-| 9 | 💘 Randki i crushe |
-| 10 | 🥳 Domówka |
-| 11 | 📱 TikTok i reszta |
-| 12 | 🧾 Dorosłość mode |
-| 13 | 🍿 Filmy i seriale |
-| 14 | ⚽ Sport i fame |
-| 15 | 🎲 Nostalgia |
+**Sezon 1:** 🔥 Rozgrzewka · 🏫 Szkolny korytarz · 📺 Dzieciństwo przed telewizorem · 🍲 Niedziela u babci · 🌐 Polski internet · 🎮 Gierki · 🎧 Muza · 🏖️ Wakacje · 💘 Randki i crushe · 🥳 Domówka · 📱 TikTok i reszta · 🧾 Dorosłość mode · 🍿 Filmy i seriale · ⚽ Sport i fame · 🎲 Nostalgia
+
+**Sezon 2:** 💒 Wesele · 🎄 Święta · 🐾 Zwierzaki i memy · 🛒 Zakupy · 🚌 Na mieście · 💪 Siłka · 💄 Glow up · 📺 Polska telewizja · 🗣️ Słownik ziomka · 🗺️ Polska na mapie · 🍔 Fast food · 💼 Korpo i studia · ✏️ Piórnik i lekcje · ✈️ Wakacje za granicą · 🕹️ Gierki 2.0
 
 ## Jak grać
 
 Otwórz `index.html` w przeglądarce (działa też offline, bez serwera) albo wrzuć repo na GitHub Pages.
 
-- tapnij kratkę, żeby wybrać hasło, tapnij ją drugi raz, żeby zmienić kierunek,
-- na telefonie jest własna klawiatura z polskimi znakami (ale „Z” zamiast „Ż” też jest zaliczane),
+- tapnij kratkę i pisz – na telefonie wyskakuje zwykła klawiatura systemowa, a podpowiedź wisi tuż nad nią,
+- tapnij kratkę drugi raz albo w podpowiedź, żeby zmienić kierunek; strzałki ‹ › skaczą po hasłach,
+- **💡 Litera** sama uzupełnia brakującą (albo błędną) literę w aktualnym haśle i przesuwa kursor dalej,
+- **🔓 Hasło** odsłania całe słowo i przeskakuje do następnego niedokończonego,
+- **autosprawdzanie**: dobre hasło od razu się zieleni i blokuje (a „Z” zamienia się w „Ż” itd.), złe mignie na czerwono,
+- „Z” zamiast „Ż” też jest zaliczane,
 - na komputerze: strzałki, Tab/Enter = następne hasło, spacja = zmiana kierunku,
-- **Sprawdź** zaznacza błędne litery, **Litera** / **Hasło** to podpowiedzi,
-- postęp i czas zapisują się w przeglądarce.
+- ⚙️ ustawienia: autosprawdzanie, przeskakiwanie wypełnionych kratek, klawiatura w apce zamiast systemowej, czyszczenie postępu,
+- na stronie głównej: „Kontynuuj”, „Losuj krzyżówkę” i postęp każdej krzyżówki; po rozwiązaniu – konfetti, udostępnianie wyniku i przejście do następnej.
 
 ## Jak dodać lub zmienić hasła
 
 Wszystkie hasła siedzą w jednym pliku: [`hasla.txt`](hasla.txt).
 
 ```
+[Sezon 2]
 == id | emoji | tytuł | podtytuł
 HASŁO | podpowiedź
 BUDZIK | Wróg publiczny numer jeden o 6:30.

@@ -31,15 +31,21 @@ ATTEMPTS = 1500     # liczba prób na krzyżówkę
 def parse_source(text):
     puzzles = []
     cur = None
+    section = ""
     for lineno, raw in enumerate(text.splitlines(), 1):
         line = raw.strip()
         if not line or line.startswith("#"):
+            continue
+        if line.startswith("[") and line.endswith("]"):
+            section = line[1:-1].strip()
+            cur = None
             continue
         if line.startswith("=="):
             parts = [p.strip() for p in line[2:].split("|")]
             if len(parts) != 4:
                 sys.exit(f"hasla.txt:{lineno}: nagłówek musi mieć 4 pola: id | emoji | tytuł | podtytuł")
-            cur = {"id": parts[0], "emoji": parts[1], "title": parts[2], "subtitle": parts[3], "words": []}
+            cur = {"id": parts[0], "emoji": parts[1], "title": parts[2], "subtitle": parts[3],
+                   "section": section, "words": []}
             puzzles.append(cur)
             continue
         if cur is None:
@@ -258,6 +264,7 @@ def export(puzzle, lay):
         "emoji": puzzle["emoji"],
         "title": puzzle["title"],
         "subtitle": puzzle["subtitle"],
+        "section": puzzle["section"],
         "width": w,
         "height": h,
         "entries": out_entries,

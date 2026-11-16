@@ -7,11 +7,14 @@
 #
 #  Spacje, myślniki i apostrofy w HASŁE są OK (np. RED FLAG) –
 #  w siatce znikają, a przy podpowiedzi pojawia się układ liter (3, 4).
+#  Linia [Nazwa] zaczyna nową sekcję na stronie głównej (np. [Sezon 2]).
 #  Po zmianach odpal:  python3 tools/generate.py
 # ─────────────────────────────────────────────────────────────
 
+[Sezon 1]
+
 == rozgrzewka | 🔥 | Rozgrzewka | na dzień dobry, zanim wstaniesz z łóżka
-USTA | Przydają się do całowania i do jedzenia kebaba.
+USTA | Przydają się do całowania i do jedzenia zapiekanki.
 PONIEDZIAŁEK | Dzień, którego nikt nie zamawiał.
 BUDZIK | Wróg publiczny numer jeden o 6:30.
 DRZEMKA | „Jeszcze pięć minut”, które trwa dwie godziny.
@@ -143,7 +146,7 @@ BAŁTYK | Woda ma 17 stopni, a i tak się wchodzi.
 MEWA | Kradnie ci frytki prosto z ręki.
 KREM | Ten z filtrem – zapominasz go raz i jesteś czerwony jak rak.
 SANDAŁY | Ze skarpetami to polska klasyka.
-OSA | Przychodzi na każdego grilla bez zaproszenia.
+OSA | Przychodzi na każdą majówkę bez zaproszenia.
 KOMAR | Brzęczy przy uchu dokładnie wtedy, gdy zasypiasz.
 GRILL | Kiełbasa, karkówka i wujek, który „wie, jak rozpalić”.
 WAKACJE | Dwa miesiące, które mijają w dwa tygodnie.
@@ -158,7 +161,7 @@ LEŻAK | Rozkładasz go 15 minut, a on i tak przytrzaśnie ci palce.
 CRUSH | Osoba, przy której nagle zapominasz, jak się chodzi.
 GHOSTING | Znika bez słowa, ale twoje story dalej ogląda.
 RED FLAG | Mówi, że wszystkie jego byłe to wariatki.
-WALENTYNKI | 14 lutego: albo randka, albo pizza z psiapsiółkami.
+WALENTYNKI | 14 lutego: albo kolacja we dwoje, albo pizza z psiapsiółkami.
 TINDER | Apka, w której przesuwasz ludzi w prawo i w lewo.
 BUZIAK | Całus, najczęściej od cioci, prosto w policzek.
 RANDKA | Spotkanie, przed którym trzy razy zmieniasz outfit.
@@ -194,7 +197,7 @@ KAC | Pamiątka po domówce, odbierana rano.
 TIKTOK | Apka, na której „pięć minut” trwa dwie godziny.
 POV | Trzy litery przed scenką, w której to ty jesteś bohaterem.
 VIRAL | Wieczorem milion wyświetleń, rano wie o nim twoja ciocia.
-STORY | Znika po 24 godzinach, ale screenshot zostaje na zawsze.
+STORY | Znika po 24 godzinach, ale zrzut ekranu zostaje na zawsze.
 FILTR | Dzięki niemu masz psie uszy i cerę jak z reklamy.
 HASHTAG | Kratka i słowo – np. #dlaciebie.
 LAJK | Serduszko pod zdjęciem, pisane po polsku.
@@ -279,3 +282,278 @@ GUMKI | Kolorowe ___ do plecenia bransoletek – szał z 2014 r.
 FRUGO | Napój z lat 90., który wrócił i znów stał w każdym sklepiku.
 BEYBLADE | Bączek do walki: „Let it rip!”.
 PIÓRNIK | Dwupiętrowy, z magnesem – flex w podstawówce.
+
+[Sezon 2]
+
+== wesele | 💒 | Wesele | do białego rana
+WUJEK | Krawat na głowie o północy – klasyczny ___.
+OCZEPINY | Zabawy po północy: rzucanie muszką, zgadywanki i wstydliwe konkursy.
+POPRAWINY | Drugi dzień wesela, bo pierwszy to było za mało.
+KOPERTA | Najpopularniejszy prezent ślubny, bo „przynajmniej się przyda”.
+KACZUSZKI | Taniec, przy którym machasz łokciami jak skrzydłami.
+DISCO POLO | Muzyka, której „nikt nie słucha”, a o 2 w nocy wszyscy znają teksty.
+WELON | Biały, długi, przypięty do włosów panny młodej.
+ŚWIADEK | Organizuje imprezę przed ślubem i pilnuje, żeby nikt nie zgubił obrączek.
+OBRĄCZKA | Zakładana na palec serdeczny przy ołtarzu.
+BIGOS | Kapuściany klasyk, który podają o trzeciej w nocy.
+SALA | ___ weselna: krzesła w pokrowcach z kokardą.
+GOŚCIE | Połowy z nich nie znasz, a i tak przyszli.
+FOTOBUDKA | Zakładasz wąsy na patyku i robisz sobie zdjęcia.
+PANNA MŁODA | Ta w białej sukni – nie wolno jej przyćmić!
+SZAMPAN | Korek z niego zawsze trafia w żyrandol.
+PIERWSZY TANIEC | Para młoda ćwiczyła go pół roku, a i tak się pomyliła.
+KAWALERSKI | Wieczór ___ – impreza, z której zdjęcia nie mogą wyciec.
+
+== swieta | 🎄 | Święta | karp w wannie
+OPŁATEK | Łamiesz się nim z ciocią i robi się niezręcznie.
+KARP | Pływa w wannie, aż nadejdzie Wigilia.
+BARSZCZ | Czerwona zupa, w której pływają małe pierożki.
+USZKA | Małe pierożki z grzybami nazwane od części ciała.
+GWIAZDKA | „Pierwsza ___” – bez niej nie wolno zacząć jeść.
+PASTERKA | Msza o północy, na którą idzie się po kolacji.
+CHOINKA | Kot przewraca ją co roku.
+BOMBKA | Szklana ozdoba – tłucze się zawsze ta najładniejsza.
+MIKOŁAJ | 6 grudnia zostawia słodycze w bucie.
+PREZENT | Skarpetki od cioci to też ___.
+SIANKO | Wkłada się je pod obrus na wigilijny stół.
+GRINCH | Zielony gość, który ukradł święta.
+MAKOWIEC | Ciasto zawinięte w rulon z czarnym nadzieniem.
+PIERNIK | Pachnie przyprawami, a robi się z niego całe domki.
+LAST CHRISTMAS | Piosenka Wham!, przed którą od listopada nie da się uciec w sklepach.
+NAKRYCIE | Dodatkowe ___ dla niespodziewanego gościa.
+DWANAŚCIE | Tyle potraw podobno powinno być na wigilijnym stole.
+
+== zwierzaki | 🐾 | Zwierzaki i memy | mordki z internetu
+KAPIBARA | Największy gryzoń świata, wyluzowany jak nikt.
+MOO DENG | Hipopotamek karłowaty z Tajlandii, który w 2024 r. gryzł opiekunów i podbił internet.
+PESTO | Pisklę pingwina z akwarium w Melbourne, które w 2024 r. było większe od rodziców.
+PEDRO | Imię zwierzaka w czarnej masce, który kręcił się w kółko w viralu z 2024 r.
+DOGE | Shiba inu z memów, która dała twarz kryptowalucie.
+CHILL GUY | Pies w swetrze z rękami w kieszeniach, który ma wszystko gdzieś.
+GRUMPY CAT | Kotka z wiecznie skwaszoną miną.
+SZOP | ___ pracz – złodziej śmietników w czarnej masce.
+GOŁĄB | Miejski ptak, który nie boi się nikogo i zjada twoją bułkę.
+CHOMIK | Pakuje jedzenie do policzków jak ty przekąski do plecaka.
+LENIWIEC | Rusza się tak wolno, że rosną na nim glony.
+AKSOLOTL | Płaz, który wiecznie się uśmiecha; w Minecrafcie bywa różowy.
+ŻYRAFA | Ma tyle samo kręgów szyjnych co ty – siedem.
+KRET | Kopie kopce w ogródku dziadka i nigdy nie daje się złapać.
+JEŻ | Kolczasty, a na zimę zakopuje się w liściach.
+WIEWIÓRKA | Zakopuje orzechy i zapomina, gdzie.
+
+== zakupy | 🛒 | Zakupy | „karta Moja Biedronka?”
+BIEDRONKA | Sklep z czerwonym owadem w logo.
+LIDL | Sklep z tygodniem włoskim, greckim i hiszpańskim.
+KASA | „Nieoczekiwany przedmiot w strefie pakowania” – krzyczy samoobsługowa ___.
+PARAGON | „___?” – pyta kasjerka, a ty i tak go zostawiasz.
+GAZETKA | Promocyjna broszura, którą babcia studiuje jak lekturę.
+PROMOCJA | „Druga sztuka za złotówkę” – czyli ___.
+KOSZYK | Bierzesz go „tylko po jedną rzecz”, a wychodzisz z pełnym.
+REKLAMÓWKA | Płatna przy kasie, bo znowu zapomniałeś własnej torby.
+TEMU | „Kupuj jak miliarder” – i czekaj trzy tygodnie na paczkę.
+ROSSMANN | Drogeria, na której promocję −55% czeka pół Polski.
+ACTION | Wchodzisz po baterie, wychodzisz z lampką w kształcie kaktusa.
+WÓZEK | Ten sklepowy zawsze ma jedno kółko, które jedzie w inną stronę.
+PRZECENA | Żółta naklejka na jedzeniu wieczorem.
+ZWROT | Robisz go, bo zamówiłeś trzy rozmiary tej samej bluzy.
+GROSZ | Najmniejsza moneta, której nikt nie chce nosić.
+ZAKUPY | Idziesz po mleko, wracasz z czterema torbami.
+
+== na-miescie | 🚌 | Na mieście | ostatni autobus właśnie odjechał
+KANAR | Na jego widok cały autobus nagle zajmuje się telefonami.
+BILET | Zapomniałeś go skasować, a kontroler właśnie wsiadł.
+KOREK | Stoisz w nim, a mapa mówi „jeszcze 3 minuty”.
+HULAJNOGA | Elektryczna, porzucona na środku chodnika.
+RONDO | Na egzaminie na prawo jazdy twój największy wróg.
+PRAWKO | Zdajesz je za trzecim razem, a mówisz, że za pierwszym.
+EGZAMINATOR | Siedzi obok i milczy w najgorszy możliwy sposób.
+PERON | Stoisz na nim, a pociąg ma „opóźnienie 40 minut”.
+PKP | Trzy litery, które tłumaczą każde spóźnienie na zajęcia.
+WARS | Bar w pociągu z najdroższą kawą w Polsce.
+BOLT | Zielona apka: taksówki, hulajnogi i jedzenie.
+NAWIGACJA | „Za 200 metrów skręć w prawo” – i skręcasz w lewo.
+PARKOWANIE | Równoległe ___ – kręcisz kierownicą i się modlisz.
+KIEROWCA | Ten w autobusie rusza dokładnie wtedy, gdy dobiegasz do drzwi.
+PASY | Na nich nie wolno gapić się w telefon – serio, za to jest mandat.
+STACJA | ___ benzynowa – hot dog i kawa o drugiej w nocy.
+
+== silka | 💪 | Siłka | dzień nóg znowu pominięty
+KREATYNA | Suplement, o którym gym bros gadają częściej niż o pogodzie.
+BIAŁKO | Liczysz je w gramach i dosypujesz nawet do owsianki.
+PRZYSIAD | Ćwiczenie, przy którym ktoś zawsze krzyczy „niżej!”.
+ZAKWASY | Dzień po treningu nie możesz zejść ze schodów – przez nie.
+KARDIO | Bieżnia, rower i orbitrek, czyli wszystko, czego unikasz.
+LUSTRO | Na siłowni służy głównie do selfie.
+HANTLE | Leżą wszędzie, tylko nie na swoim miejscu.
+POMPKI | Robisz ich 20 w domu i czujesz się jak Pudzian.
+SZTANGA | Długi drążek z talerzami na końcach.
+TRENER | Personalny ___ – płacisz mu, żeby na ciebie krzyczał.
+KARNET | Kupujesz go w styczniu, w lutym już nie chodzisz.
+WODA | Pijesz ją z bidonu wielkości wiadra.
+KROKI | 10 tysięcy dziennie – tyle każe ci robić zegarek.
+PLANK | Deska, w której minuta trwa godzinę.
+DZIEŃ NÓG | Ten, który najczęściej się „przypadkiem” pomija.
+JOGA | Ćwiczenia z „psem z głową w dół”.
+
+== glow-up | 💄 | Glow up | skincare o 23:00
+SKINCARE | Dziesięć kroków na twarz przed snem.
+SERUM | Kosztuje jak obiad, a jest go 30 ml.
+MASECZKA | Ta w płachcie: wyglądasz w niej jak duch z horroru.
+HYBRYDA | Manicure, który trzyma się trzy tygodnie.
+TUSZ | ___ do rzęs – maluje się nim z otwartymi ustami.
+BROKAT | Raz użyty, zostaje w mieszkaniu na zawsze.
+LOKÓWKA | Gorący wałek do kręcenia włosów, którym parzysz sobie ucho.
+SUSZARKA | Ta od Dysona kosztuje tyle, co nowy telefon.
+PERFUMY | Pryskasz na nadgarstki i pocierasz, choć podobno nie wolno.
+LABUBU | Potworek z ząbkami od Pop Martu, przypięty do torebki.
+FRYZJER | Mówisz „tylko podetnij”, wychodzisz o 10 cm krótszy.
+GRZYWKA | Ścinasz ją sobie sama o północy i żałujesz rano.
+MAKIJAŻ | Robisz go 40 minut, żeby wyglądał jak „no makeup”.
+OUTFIT | Zmieniasz go trzy razy i wychodzisz w pierwszym.
+BALSAM | Do ust: masz ich pięć, a i tak nie możesz znaleźć żadnego.
+LUSTERKO | Małe, w torebce, do poprawek w tramwaju.
+
+== telewizja | 📺 | Polska telewizja | z pilotem na kanapie
+GESSLER | Magda, która w „Kuchennych rewolucjach” wyrzuca mrożonki do kosza.
+FAMILIADA | Teleturniej, w którym „pytaliśmy 100 osób”.
+STRASBURGER | Karol, król sucharów z telewizji.
+MILIONERZY | Teleturniej z kołem ratunkowym „pół na pół”.
+ROLNIK | „___ szuka żony” – randki na wsi w telewizji.
+TOP MODEL | Show, w którym jurorzy oceniają chód w szpilkach.
+PARADISE | Hotel ___ – reality, w którym ludzie w rajskim hotelu dobierają się w pary.
+MAM TALENT | Program, w którym jurorzy wciskają złoty przycisk.
+KOŁO FORTUNY | Kręcisz kołem i kupujesz samogłoskę.
+MELODIA | „Jaka to ___?” – zgadujesz piosenkę po kilku nutach.
+TELEZAKUPY | Nóż, który kroi puszkę, za jedyne 99,99 zł.
+PARADOKUMENT | „Trudne sprawy” albo „Dlaczego ja?” – czyli ___.
+POLSAT | Stacja, która co święta zostawia Kevina samego w domu.
+REKLAMA | Przerwa w filmie, podczas której robisz herbatę.
+POGODYNKA | Pani, która zapowiada słońce, a potem pada.
+SERIAL | „Jeszcze jeden odcinek” – i jest trzecia w nocy.
+
+== slownik | 🗣️ | Słownik ziomka | po naszemu
+ZIOMEK | Kumpel, z którym siedzisz na murku.
+MORDO | „Dzięki, ___!” – najczulsze słowo między kumplami.
+SZTOS | Ocena kebaba, gdy jest naprawdę dobry.
+BEKA | „Ale ___!” – mówisz, płacząc ze śmiechu.
+OGARNIJ | Mama: „___ się wreszcie!”.
+AURA | Tracisz ją, potykając się przy crushu na korytarzu.
+GOAT | 🐐 – ale to komplement, nie zwierzę.
+SUS | Kolega nagle jest „bardzo miły”. Podejrzane, czyli…
+FLEX | Pokazywanie zegarka na każdym zdjęciu.
+BESTIE | Najlepsza psiapsi, której wysyłasz 40 rolek dziennie.
+RIZZ | Umiejętność podrywania – niektórym brakuje jej od urodzenia.
+ESSA | Okrzyk, gdy nauczycielka nie przyszła na lekcję.
+DZBAN | Ktoś, kto piąty raz pyta na grupie, co jest zadane.
+CHILL | „Spokojnie, ___” – czyli na luzie.
+SPINA | „Bez ___” – czyli nie stresuj się.
+BAMBIK | Młody gracz, który krzyczy na voice chacie.
+YAPPING | Nawijanie bez sensu przez godzinę.
+
+== polska | 🗺️ | Polska na mapie | słoiki i krasnale
+ŁÓDŹ | Miasto bez morza, a nazywa się jak statek.
+POZNAŃ | Koziołki na ratuszu i pyry na obiad.
+WROCŁAW | Miasto, w którym na każdym rogu siedzi krasnal.
+GDAŃSK | Neptun i Żuraw nad Motławą.
+TORUŃ | Pierniki i Kopernik.
+SOPOT | Monciak i najdłuższe drewniane molo w Europie.
+KATOWICE | Spodek i Śląsk.
+BIAŁYSTOK | Stolica Podlasia.
+LUBLIN | Miasto słynące z cebularzy.
+SŁOIK | Przyjezdny w Warszawie, który wozi obiady od mamy.
+KRAKÓW | Miasto, w którym hejnał urywa się w połowie.
+WISŁA | Najdłuższa rzeka Polski – i miasto Małysza.
+MAZURY | Kraina jezior, żagli i komarów.
+BIESZCZADY | „Rzucę wszystko i wyjadę w ___”.
+HEL | Półwysep, na który jedzie się dwie godziny w korku.
+GIEWONT | Śpiący rycerz z krzyżem na szczycie.
+
+== fast-food | 🍔 | Fast food | na wynos, poproszę
+FRYTKI | Te z dna torby są najlepsze.
+NUGGETSY | Kurczakowe kawałki – jeden zawsze ma kształt buta.
+BURGER | Na zdjęciu w menu jest trzy razy większy.
+HOT DOG | Z Żabki o 23:00 smakuje najlepiej.
+ZAPIEKANKA | Pół bagietki z pieczarkami i serem – legenda Kazimierza.
+PĄCZEK | W tłusty czwartek zjadasz ich więcej niż przez cały rok.
+KETCHUP | Na pizzę? Za granicą by cię za to aresztowali.
+MAJONEZ | Kielecki czy Winiary? Wojna domowa.
+SUSHI | Jesz je pałeczkami, aż się poddajesz i bierzesz widelec.
+RAMEN | Instant za trzy złote – dieta każdego studenta.
+MATCHA | Zielony napój, który smakuje jak trawa, ale wygląda aesthetic.
+BUBBLE TEA | Herbata z kulkami, które wciągasz przez grubą słomkę.
+DUBAJSKA | ___ czekolada: pistacje i kataifi, za które płaciło się fortunę.
+OBWARZANEK | Krakowski precel z niebieskiego wózka.
+ZESTAW | Powiększony ___ – bo „tylko trzy złote więcej”.
+FALAFEL | Kulki z ciecierzycy w picie – dla tych, co nie jedzą mięsa.
+
+== korpo | 💼 | Korpo i studia | zróbmy szybkiego calla
+ASAP | „Na wczoraj” po biurowemu (skrót).
+CALL | „Zróbmy szybkiego ___” – trwa godzinę.
+MAIL | Wysyłasz go o 23:59 z „przepraszam za późną porę”.
+TEAMS | Apka, w której zawsze masz wyciszony mikrofon, kiedy mówisz.
+KORPO | Praca z kartą sportową, owocowymi czwartkami i biurem bez ścian.
+OPEN SPACE | Wielkie biuro, w którym słychać każde chrupnięcie.
+STAŻ | Bezpłatny ___ – „za to zdobędziesz doświadczenie”.
+SESJA | Czas, gdy nagle sprzątanie pokoju staje się fascynujące.
+KOLOKWIUM | Sprawdzian na studiach, tylko z dłuższą nazwą.
+WARUNEK | Przedmiot, który powtarzasz za własne pieniądze.
+ERASMUS | Pół roku „nauki” w Hiszpanii.
+AKADEMIK | Wspólna kuchnia, z której znika twoje jedzenie.
+PROMOTOR | Odpisuje na wiadomości raz w miesiącu.
+OBRONA | Ostatni boss studiów – przed komisją.
+LINKEDIN | „Z radością ogłaszam…” – sociale dla ludzi w marynarkach.
+PIĄTEK | Dzień, w którym w biurze nikt już nic nie robi.
+
+== piornik | ✏️ | Piórnik i lekcje | przybory przetrwania
+CYRKIEL | Do rysowania kół i dźgania kolegi z ławki.
+EKIERKA | Trójkąt z podziałką z lekcji matmy.
+LINIJKA | Robiło się nią „sprężynkę” o ławkę.
+KALKULATOR | „Nie będziecie go zawsze mieć przy sobie” – a jednak jest w telefonie.
+GUMKA | Do mazania – ktoś zawsze kroi ją na kawałki.
+TEMPERÓWKA | Wiórki z niej zawsze lądują na dnie torby.
+ZAKREŚLACZ | Zaznaczasz nim cały podręcznik na żółto.
+ATLAS | Geograficzny ___ – tam szukało się państw na mapie.
+LEKTURA | Książka, z której każdy zna tylko opracowanie.
+STRESZCZENIE | Przeczytałeś je zamiast książki.
+UKŁAD OKRESOWY | Tabelka z pierwiastkami, która wisi w każdej pracowni chemii.
+PITAGORAS | Z jego twierdzenia pamiętasz tylko a² + b² = c².
+MITOCHONDRIUM | Siłownia komórki – jedyne, co zostało ci z biologii.
+ZESZYT | W kratkę do matmy, w linię do polskiego.
+KLEJ | Ten w sztyfcie jest zawsze zaschnięty.
+PLECAK | Noszony na jedno ramię, bo na dwa to obciach.
+
+== za-granica | ✈️ | Wakacje za granicą | all inclusive mode
+RYANAIR | Linia, w której za walizkę płacisz więcej niż za bilet.
+WALIZKA | Pakujesz ją w ostatniej chwili i zawsze czegoś brakuje.
+LOTNISKO | Miejsce, gdzie butelka wody kosztuje 15 zł.
+EGIPT | Piramidy, wielbłądy i nurkowanie w Morzu Czerwonym.
+CHORWACJA | Kierunek, do którego Polacy jadą autem całą noc.
+OPASKA | Kolorowa na ręce – dzięki niej w all inclusive wszystko jest „w cenie”.
+TURCJA | Kraj, z którego niektórzy wracają z nowymi włosami.
+PASZPORT | Bez niego nie wpuszczą cię do USA.
+BOARDING | Wszyscy stoją w kolejce, choć miejsca są numerowane.
+MAGNES | Na lodówkę – pamiątka z każdego wyjazdu.
+JETLAG | Przez niego budzisz się o trzeciej w nocy.
+ROAMING | Kiedyś przez niego wracało się z wakacji z rachunkiem na 500 zł.
+HOTEL | Na zdjęciach ma pięć gwiazdek, na miejscu trzy.
+KLAPKI | Na basen, na plażę i do stołówki na śniadanie.
+SAMOLOT | Bijesz mu brawo, gdy wyląduje.
+PALMA | Drzewo z każdej pocztówki z wakacji.
+
+== gierki-2 | 🕹️ | Gierki 2.0 | GG WP
+COUNTER-STRIKE | „Rush B” – krzyczą w tej grze.
+LEAGUE | „___ of Legends” – gra, po której wszyscy są toksyczni.
+VALORANT | Shooter od twórców LoL-a, z agentami i umiejętnościami.
+CYBERPUNK | Gra, która na premierze w 2020 r. miała więcej bugów niż mieszkańców Night City.
+WIEDŹMIN | Polska gra z Geraltem, którą zna cały świat.
+WORDLE | Codziennie zgadujesz słowo z pięciu liter w sześciu próbach.
+GEOGUESSR | Gra, w której poznajesz kraj po słupkach przy drodze.
+STEAM | Kupujesz tu gry na wyprzedaży i nigdy w nie nie grasz.
+DISCORD | Serwer, na którym gra się w nocy z ekipą.
+TWITCH | Fioletowa platforma ze streamami.
+KONSOLA | PlayStation albo Xbox.
+ZELDA | Księżniczka, której imieniem wszyscy błędnie nazywają Linka.
+MARIO | Wąsaty hydraulik w czerwonej czapce.
+SONIC | Niebieski jeż, który biega szybciej niż dźwięk.
+TETRIS | Spadające klocki i radziecka gra z 1984 r.
+RAGEQUIT | Wyjście z gry w złości po przegranej.
