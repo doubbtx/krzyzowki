@@ -1096,3 +1096,547 @@ CAPTCHA | Klikasz w obrazki z sygnalizatorami, żeby udowodnić, że jesteś cz�
 TERMINATOR | Maszyna z przyszłości: „I’ll be back”.
 ALGORYTM | Decyduje, co zobaczysz na stronie „Dla ciebie”.
 CYBORG | Pół człowiek, pół maszyna.
+
+[Sezon 5]
+
+== pupile | 🐶 | Pupile | kto tu jest dobrym pieskiem?
+SMYCZ | Pies ciągnie za nią ciebie, a nie odwrotnie.
+KUWETA | Kocia toaleta, którą sprzątasz codziennie z miną męczennika.
+OBROŻA | Ma przywieszkę z imieniem i numerem do właściciela.
+WETERYNARZ | Lekarz, na widok którego pies nagle zapomina, jak się chodzi.
+KARMA | Sucha, mokra albo „tylko to, co masz na talerzu”.
+KŁACZKI | Kot zwraca je na dywan zawsze o trzeciej w nocy.
+KOCIMIĘTKA | Roślina, po której kot zachowuje się jak na imprezie.
+SZCZENIAK | Gryzie kable, buty i twoje serce.
+PAPUGA | Powtarza słowa, których nie powinna była usłyszeć.
+AKWARIUM | Szklany dom dla rybek.
+ŻÓŁW | Może żyć dłużej niż ty – i nigdzie się nie spieszy.
+ADOPCJA | Zamiast kupować – zabierasz zwierzaka ze schroniska.
+MRUCZENIE | Kocia wibracja, która uspokaja lepiej niż playlista lo-fi.
+APORT | „___!” – i pies przynosi patyk… albo nie.
+ŁAPA | „Daj ___!” – pierwsza sztuczka każdego psa.
+DRAPAK | Kot ma go, a i tak drapie kanapę.
+
+== harry-potter | ⚡ | Harry Potter | list ze szkoły magii wciąż nie doszedł
+HERMIONA | Najmądrzejsza czarownica rocznika, zawsze z ręką w górze.
+DUMBLEDORE | Dyrektor z długą brodą i słabością do cytrynowych dropsów.
+HAGRID | Półolbrzym, który powiedział „Jesteś czarodziejem, Harry”.
+SNAPE | Profesor eliksirów, którego jedno słowo „zawsze” rozbiło fanów.
+VOLDEMORT | Ten, Którego Imienia Nie Wolno Wymawiać.
+ZGREDEK | Skrzat domowy, którego uwolniła skarpetka.
+QUIDDITCH | Sport na miotłach z kaflem, tłuczkami i zniczem.
+GRYFFINDOR | Dom odważnych z lwem w herbie.
+SLYTHERIN | Dom z wężem, do którego gadająca czapka prawie wysłała Harry’ego.
+HEDWIGA | Śnieżnobiała sowa Harry’ego.
+ALOHOMORA | Zaklęcie, które otwiera zamki.
+MUGOL | Ktoś bez magicznych zdolności, czyli niestety ty.
+POKĄTNA | Ulica ___ – tu kupuje się różdżki i szaty.
+TIARA | ___ Przydziału – gadająca czapka, która wybiera dom.
+RÓŻDŻKA | U Ollivandera to ona wybiera czarodzieja.
+BLIZNA | Ma kształt błyskawicy i piecze, gdy zło jest blisko.
+
+== superbohaterowie | 🦸 | Superbohaterowie | z wielką mocą wiąże się wielka odpowiedzialność
+SPIDERMAN | Ugryzł go pająk i od tamtej pory ma same problemy.
+BATMAN | Miliarder bez mocy, za to z gadżetami i traumą.
+SUPERMAN | Przyleciał z planety Krypton i nosi majtki na rajstopach.
+IRON MAN | Tony Stark w zbroi, z reaktorem w klatce piersiowej.
+HULK | Zielony, gdy się zdenerwuje – i wtedy rwie ubrania.
+THOR | Bóg piorunów z młotem, którego nikt inny nie podniesie.
+DEADPOOL | Antybohater w czerwieni, który gada prosto do widzów.
+WOLVERINE | Szpony z adamantium i bokobrody.
+GROOT | Drzewo, które mówi tylko trzy słowa.
+LOKI | Bóg psot w hełmie z rogami, który zawsze kombinuje.
+WAKANDA | Tajny afrykański kraj Czarnej Pantery.
+KRYPTONIT | Zielony kamień – jedyna słabość pewnego kosmity w pelerynie.
+GOTHAM | Mroczne miasto, w którym grasuje Joker.
+AVENGERS | Drużyna Marvela, która zbierała się przez kilkanaście filmów.
+TARCZA | Okrągła, z gwiazdą – broń Kapitana Ameryki.
+PETER | ___ Parker, przyjazny pająk z sąsiedztwa.
+
+== kuchnia-swiata | 🌮 | Kuchnia świata | dookoła świata z widelcem
+CROISSANT | Francuski rogalik, po którym cały stół jest w okruchach.
+PAELLA | Hiszpański ryż z owocami morza z wielkiej patelni.
+GYROS | Grecki kuzyn kebaba w picie z tzatziki.
+BURRITO | Meksykańska tortilla zawinięta jak śpiwór.
+KIMCHI | Koreańska kiszona kapusta – ostra kuzynka naszej.
+PAD THAI | Tajski makaron z orzeszkami i limonką.
+CURRY | Indyjski sos, po którym czujesz język przez godzinę.
+HUMMUS | Pasta z ciecierzycy, w której maczasz wszystko.
+TIRAMISU | Włoski deser z kawą, którego nazwa znaczy „podnieś mnie”.
+CHURROS | Hiszpańskie paluchy z ciasta maczane w czekoladzie.
+LAZANIA | Makaronowe piętra z sosem – ulubione danie Garfielda.
+BAGIETKA | Długa bułka, którą Francuz nosi pod pachą.
+NACHOS | Trójkątne chipsy z serem na seans w kinie.
+TACOS | Złożona na pół tortilla, z której wszystko wypada.
+POKE | Hawajska miska z surową rybą, ryżem i awokado.
+GULASZ | Węgierska potrawka z papryką – Węgrzy kłócą się, czy to zupa.
+
+== wf | 🏐 | Lekcja WF | kto nie ćwiczy, ten siedzi na ławce
+ZBIJAK | Gra, w której celujesz w ludzi i nikt cię za to nie karze.
+DRABINKI | Wspinasz się po nich przy ścianie sali gimnastycznej.
+KOZIOŁ | Skok przez ___ – trauma na czterech nogach.
+MATERAC | Niebieski, pachnie gumą i leży pod skrzynią do skoków.
+COOPERA | Test ___ – bieg przez 12 minut.
+LINA | Wspinanie się po niej pod sufit – horror każdej lekcji.
+GWIZDEK | Wuefista nosi go na szyi i używa przy każdej okazji.
+DRUŻYNY | Kapitanowie wybierają skład, a ty czekasz do samego końca.
+ROZGRZEWKA | Krążenia ramion i bieganie dookoła sali na początek lekcji.
+ZWOLNIENIE | Karteczka od mamy, że „dziś nie może ćwiczyć”.
+PIŁKA | Lekarska ___ – ciężka jak kamień.
+PAJACYKI | Podskoki z machaniem rąk nad głową.
+KOSZYKÓWKA | Rzucasz do obręczy i zawsze trafiasz w tablicę.
+SIATKÓWKA | Wszyscy krzyczą „moja!” i nikt nie odbiera.
+SZTAFETA | Bieg z pałeczką przekazywaną koledze.
+STRÓJ | „Zapomniałem ___” – najstarsza wymówka na tej lekcji.
+
+== eurowizja | 🎙️ | Eurowizja | twelve points go to…
+ABBA | Szwedzi, którzy w 1974 r. wygrali piosenką „Waterloo”.
+LOREEN | Szwedka, która wygrała dwa razy – drugi raz w 2023 r. z „Tattoo”.
+MÅNESKIN | Włoski zespół, który wygrał w 2021 r., a potem podbił świat rockiem.
+CONCHITA | Zwyciężczyni z 2014 r. z brodą i w sukni.
+LORDI | Fińskie potwory, które wygrały metalowym hitem w 2006 r.
+KALUSH | Ukraiński zespół, który wygrał w 2022 r.
+GÓRNIAK | Edyta, która w debiucie Polski w 1994 r. zajęła drugie miejsce.
+SZPAK | Michał, który w 2016 r. zaśpiewał „Color of Your Life”.
+CLEO | Wokalistka od „My Słowianie” z 2014 r.
+STECZKOWSKA | Justyna, która w 2025 r. pojechała na konkurs z „Gają”.
+DOUZE | „___ points” – najsłynniejsze dwa słowa po francusku na konkursie.
+GŁOSOWANIE | Najbardziej emocjonująca część: kto komu da punkty i czy sąsiedzi pomogą.
+ZERO | ___ points – najgorszy możliwy wynik.
+JUNIOR | Eurowizja ___ – wygrywały w niej Roksana Węgiel i Viki Gabor.
+BAZYLEA | Szwajcarskie miasto, które gościło konkurs w 2025 r.
+WIEDEŃ | Stolica, która gościła konkurs w 2015 r.
+
+== mitologia | 🏛️ | Mitologia na luzie | bogowie też mieli dramy
+ZEUS | Szef greckich bogów, który rzuca piorunami i ma milion dzieci.
+HADES | Bóg podziemi, u którego nikt nie chce mieszkać.
+POSEJDON | Bóg mórz z trójzębem.
+HERKULES | Siłacz od dwunastu prac.
+MEDUZA | Ma węże zamiast włosów i zamienia w kamień jednym spojrzeniem.
+ACHILLES | Niezniszczalny – poza piętą.
+PANDORA | Otworzyła puszkę, której miała nie otwierać.
+NARCYZ | Zakochał się we własnym odbiciu – pierwszy influencer.
+IKAR | Poleciał za blisko słońca na skrzydłach z wosku.
+MINOTAUR | Pół byk, pół człowiek, mieszka w labiryncie.
+PEGAZ | Skrzydlaty koń.
+CERBER | Trzygłowy pies pilnujący wejścia do świata zmarłych.
+OLIMP | Góra, na której mieszkali greccy bogowie.
+AFRODYTA | Bogini miłości, która wynurzyła się z morskiej piany.
+ODYN | Nordycki bóg z jednym okiem i dwoma krukami.
+SYRENY | Śpiewały tak, że Odyseusz kazał się przywiązać do masztu.
+
+== osiedle | 🏢 | Osiedle | kto znowu zostawił rower na klatce?
+BLOK | Wielka płyta z PRL, w której słychać, jak sąsiad kicha.
+WINDA | Zawsze stoi na ostatnim piętrze, gdy się spieszysz.
+DOMOFON | „Kto tam?” – „Ulotki!”.
+KLATKA | ___ schodowa – tu pachnie obiadem sąsiadów.
+SĄSIADKA | Wie, kto o której wraca, i mówi „dzień dobry” podejrzliwie.
+ŁAWKA | Starsi panowie siedzą na niej od rana i komentują wszystko.
+PIWNICA | Komórka pełna słoików babci i starego roweru.
+ZSYP | Rura na śmieci w starszych budynkach.
+ADMINISTRACJA | Dzwonisz do niej, gdy cieknie, a nikt nie odbiera.
+BALKON | Tu wisi pranie, rośnie pomidor i stoi rower.
+PLAC ZABAW | Huśtawki i zjeżdżalnia między budynkami.
+PIASKOWNICA | Kot traktuje ją jak toaletę, dzieci jak plażę.
+PARKING | Wieczorem nie ma na nim ani jednego wolnego miejsca.
+FIRANKA | Zza niej ktoś zawsze obserwuje całe podwórko.
+WYCIERACZKA | Mata przed drzwiami z napisem „Welcome”.
+SKRZYNKA | Pocztowa – w środku same ulotki i rachunki.
+
+== podworko | 🧸 | Podwórko i przedszkole | mamo, jeszcze 5 minut na dworze!
+LEŻAKOWANIE | Obowiązkowa drzemka w przedszkolu, której wtedy nikt nie doceniał.
+PLASTELINA | Ugniatasz z niej ludziki, a potem wszystko jest jednym szarym kolorem.
+KREDKI | Z pudełka zawsze najszybciej znika zielona do trawy.
+JASEŁKA | Przedstawienie, w którym grałeś osiołka albo pastuszka.
+PASOWANIE | ___ na ucznia – wielkim ołówkiem po ramieniu.
+TORNISTER | Ciężki plecak pierwszoklasisty, większy od niego samego.
+BEREK | Gonisz kogoś, a jak dotkniesz, to on goni.
+CHOWANEGO | Zabawa w ___ – liczysz do dziesięciu, a reszta znika.
+KLASY | Gra w ___ – skakanie po kratkach narysowanych na chodniku.
+SKAKANKA | Sznurek do skakania na przerwie.
+CIUCIUBABKA | Zawiązane oczy i łapanie innych po omacku.
+HUŚTAWKA | Rozbujana do granic, żeby „zrobić fikołka”.
+KREDA | Rysujesz nią po chodniku, aż przyjdzie deszcz.
+BAŃKI | Mydlane – pękają, zanim zdążysz je złapać.
+KOLANO | Zawsze zdarte, z plastrem w dinozaury.
+ŚNIADANIÓWKA | Pudełko z kanapką i jabłkiem, które wracało nietknięte.
+
+== pod-woda | 🌊 | Pod wodą | Nemo, gdzie jesteś?
+KONIK MORSKI | U niego w ciążę zachodzi tata.
+WIELORYB | Płetwal błękitny to największe zwierzę, jakie kiedykolwiek żyło.
+KRAB | Chodzi bokiem i szczypie w palec.
+ROZGWIAZDA | Może jej odrosnąć utracone ramię.
+MORS | Wąsacz z kłami – i Polak, który zimą kąpie się w przerębli.
+FOKA | Leży na brzuchu i klaszcze płetwami.
+PERŁA | Powstaje w małży wokół ziarenka, które się tam dostało.
+KAŁAMARNICA | Wypuszcza atrament i ucieka.
+ATLANTYDA | Mityczne miasto, które zatonęło w jeden dzień.
+PODWODNA | Łódź ___ – pływa pod powierzchnią.
+NURKOWANIE | Butla, płetwy, maska – i ryby gapią się na ciebie.
+RAFA | Koralowa ___ – kolorowe miasto ryb.
+PIRAT | Opaska na oku, papuga na ramieniu i skrzynia złota.
+KOTWICA | Trzyma statek w miejscu – i jest popularnym tatuażem.
+LATARNIA | Wysoka wieża na brzegu, która świeci statkom w nocy.
+SZTORM | Fala za falą, a ty żałujesz, że wsiadłeś na prom.
+
+== apteczka | 🩹 | Apteczka | wiedza, która może uratować dzień
+PLASTER | Z dinozaurami działa lepiej niż zwykły.
+KATAR | Przez niego brzmisz, jakbyś mówił przez skarpetę.
+TERMOMETR | Mama przykłada rękę do czoła i jest dokładniejsza od niego.
+GORĄCZKA | Powyżej 38 stopni – i nagle masz wolne od szkoły.
+RECEPTA | Lekarz ją wystawia, a ty dostajesz SMS-a z kodem.
+APTEKA | Tu kupujesz leki i pytasz farmaceutę, gdy nie wiesz.
+BOCZNA | Pozycja ___ – tak układasz nieprzytomnego, który oddycha.
+OPATRUNEK | Jałowy kawałek gazy na ranę.
+BANDAŻ | Owijasz nim skręconą kostkę.
+LÓD | Przykładasz go na guza – albo mrożony groszek.
+NUMER | ___ alarmowy 112 działa w całej Unii.
+SYROP | Słodki lek na kaszel, po którym łyżka zawsze się klei.
+CHUSTA | Trójkątna ___ – temblak na złamaną rękę.
+ODWODNIENIE | Pijesz za mało wody w upał i boli cię głowa – to właśnie ono.
+OPARZENIE | Chłodzisz je letnią, bieżącą wodą przez kilkanaście minut.
+DEFIBRYLATOR | AED, czyli automatyczny ___ – zielona skrzynka z sercem i błyskawicą.
+
+== las | 🌲 | Wypad do lasu | grzybobranie to sport narodowy
+GRZYBOBRANIE | Polski sport narodowy z koszykiem o szóstej rano.
+MUCHOMOR | Czerwony w białe kropki – ładny, ale nie do koszyka.
+BOROWIK | Król grzybów, przez którego dziadek wstaje przed świtem.
+KURKI | Żółte grzyby, które w sezonie kosztują jak złoto.
+KLESZCZ | Mały pajęczak, przez którego po lesie oglądasz się w lustrze.
+SZYSZKA | Spada z sosny i przydaje się do świątecznych ozdób.
+ŻOŁĄDŹ | Owoc dębu w czapeczce.
+DZIK | Wpada do miast i przewraca śmietniki.
+SARNA | Wyskakuje na drogę dokładnie wtedy, gdy jedziesz nocą.
+DZIĘCIOŁ | Stuka dziobem w drzewo i nie boli go głowa.
+POKRZYWA | Parzy, a babcia i tak robi z niej zupę.
+MRÓWKA | Unosi wielokrotność swojej wagi.
+OGNISKO | Kiełbaski na patyku i dym, który zawsze leci w twoją stronę.
+LEŚNICZÓWKA | Domek leśniczego w samym środku lasu.
+JAGODY | Zbierasz je i masz fioletowe zęby.
+KOMPAS | Pokazuje północ, gdy padł zasięg.
+
+== igrzyska | 🥇 | Igrzyska | szybciej, wyżej, silniej
+MEDAL | Złoty, srebrny albo brązowy – a niektórzy gryzą go do zdjęcia.
+PODIUM | Trzy stopnie, na których staje się z kwiatami i hymnem.
+TYCZKA | Skacze się z nią kilka metrów w górę.
+OSZCZEP | Rzucasz nim jak włócznią.
+MŁOT | Rzut ___ – dyscyplina Anity Włodarczyk.
+KULA | Pchnięcie ___ – ciężką metalową piłką z barku.
+DYSK | Rzut ___ – kręcisz się i puszczasz talerz.
+PŁOTKI | Bieg przez przeszkody, przy których zawsze ktoś zahacza.
+MASKOTKA | Każde igrzyska mają swoją – w 2024 r. była czapką frygijką.
+KÓŁKA | Pięć kolorowych ___ – symbol igrzysk.
+PARYŻ | Gospodarz igrzysk 2024, z ceremonią otwarcia na Sekwanie.
+MEDIOLAN | Razem z Cortiną gościł zimowe igrzyska w 2026 r.
+DOPING | Niedozwolone wspomaganie, za które odbierają nagrody.
+MARATON | Bieg na 42 kilometry z kawałkiem.
+WIOŚLARSTWO | Łódź, wiosła i synchron do ostatniego metra.
+BREAKING | Taniec, który w 2024 r. był dyscypliną olimpijską.
+
+== sztuka | 🎨 | Sztuka i muzea | nie dotykać eksponatów!
+VAN GOGH | Malarz „Słoneczników”, który odciął sobie kawałek ucha.
+PICASSO | Malował twarze z oczami po jednej stronie.
+MATEJKO | Jan, autor „Bitwy pod Grunwaldem”.
+BANKSY | Anonimowy artysta, którego obraz zaraz po sprzedaży pociął się w ramie.
+MONA LISA | Najsłynniejszy uśmiech świata – w rzeczywistości mniejszy, niż myślisz.
+LUWR | Paryska galeria ze szklaną piramidą przed wejściem.
+RZEŹBA | Dzieło z marmuru albo z brązu.
+GRAFFITI | Sztuka na murach – albo wandalizm, zależy kogo spytasz.
+DALI | Salvador od rozpływających się zegarów i podkręconego wąsa.
+MONET | Malował lilie wodne raz za razem.
+FRIDA | ___ Kahlo – autoportrety ze zrośniętymi brwiami.
+WYSTAWA | Czasowa ___ – kolejka i zakaz zdjęć z fleszem.
+PĘDZEL | Narzędzie malarza.
+PALETA | Deska, na której malarz miesza farby.
+MUZEUM | Chodzisz tu z klasą, ale patrzysz głównie na sklepik z pamiątkami.
+DAWID | Nagi marmurowy posąg Michała Anioła we Florencji.
+
+== slodycze | 🍬 | Słodycze | tylko jeden… dobra, całą paczkę
+PRINCE POLO | Wafelek w złotku – polska klasyka od lat 50.
+KRÓWKI | Ciągnące się jak guma słodkości z krową na papierku.
+PTASIE MLECZKO | Piankowe kostki w polewie, które z ptakami nie mają nic wspólnego.
+MICHAŁKI | Czekoladki z orzeszkami, które babcia trzyma w kredensie na święta.
+DELICJE | Biszkopt, galaretka i polewa – ciastko czy słodycz?
+NUTELLA | Krem orzechowy, który wyjadasz łyżką prosto ze słoika.
+LIZAK | Na patyku – kiedyś dostawało się go u fryzjera.
+CHRUPKI | Kukurydziane, lekkie jak powietrze.
+PALUSZKI | Słone, chrupiące i zawsze w szklance na imprezie.
+KASZTANKI | Czekoladki z Wedla w brązowych papierkach.
+CZEKOLADA | Gorzka, mleczna albo biała – ta ostatnia podobno się nie liczy.
+MARCEPAN | Słodka masa migdałowa – albo ją kochasz, albo nienawidzisz.
+CUKIERKI | Babcia zawsze ma je w kieszeni płaszcza.
+PIANKI | Na patyk i nad ognisko.
+OREO | Ciastko, które najpierw rozkręcasz, a potem maczasz w mleku.
+DROPSY | Kolorowe twarde drażetki w rolce, którymi dzielisz się z całą klasą.
+
+[Sezon 6]
+
+== minecraft | ⛏️ | Minecraft | creeper? aw man
+CREEPER | Zielony, cichy i wybucha ci przy nogach.
+ENDERMAN | Wysoki i czarny – nie patrz mu w oczy.
+NETHER | Ognisty wymiar, do którego przechodzi się przez fioletowy portal.
+DIAMENT | Szukasz go na dnie świata, a znajdujesz lawę.
+KILOF | Podstawowe narzędzie do kopania.
+STEVE | Domyślny gość w turkusowej koszulce.
+OSADNIK | Mieszkaniec wioski z wielkim nosem, który mówi tylko „hmm”.
+SZKIELET | Strzela z łuku z ciemności.
+TNT | Czerwony blok, który robi bum (skrót).
+REDSTONE | Czerwony pył, z którego gracze budują całe komputery.
+OBSYDIAN | Najtwardszy blok, z którego buduje się portal.
+SMOK | ___ Kresu – ostatni boss.
+BIOM | Pustynia, dżungla, tundra – każdy to inny ___.
+CRAFTING | Układanie przedmiotów w siatce 3×3.
+ŁÓŻKO | Śpisz w nim, żeby przeskoczyć noc – w złym wymiarze wybucha.
+POCHODNIA | Wbijasz ją w ścianę, żeby w jaskini nie pojawiały się potwory.
+
+== influencer | 🤳 | Słownik influencera | link w bio!
+GRWM | „Get ready with me” – szykujesz się do wyjścia na kamerze (skrót).
+UNBOXING | Rozpakowywanie paczki przed kamerą.
+HAUL | Pokazujesz wszystkie zakupy z jednej wyprzedaży.
+COLLAB | Wspólny filmik dwóch twórców.
+DRAMA | Afera między youtuberami, przy której wszyscy jedzą popcorn.
+STORYTIME | „Opowiem wam, co mi się dziś przydarzyło” – siedząc przed kamerą.
+LIVE | Transmisja na żywo, na której ktoś pyta „a skąd jesteś?”.
+VLOG | Wideopamiętnik z życia.
+PRANK | Głupi kawał nagrany dla wyświetleń.
+REACTION | Oglądasz cudzy film i robisz miny.
+CLICKBAIT | Miniaturka: „NIE UWIERZYSZ, CO SIĘ STAŁO 😱”.
+ASMR | Szepty i chrupanie prosto do mikrofonu (skrót).
+SPONSOR | Firma, która płaci za odcinek – a wszyscy i tak przewijają reklamę.
+KOD | ___ rabatowy na 10% – zawsze w opisie.
+OOTD | „Outfit of the day” (skrót).
+ŁAPKA | „Zostaw ___ w górę!”.
+
+== wynalazki | 💡 | Wynalazki z przypadku | oops, wyszło lepiej niż plan
+PENICYLINA | Fleming zostawił brudne szalki na urlop, a wyrosła na nich leczącą pleśń.
+POST-IT | Karteczki z klejem, który miał być supermocny, a ledwo trzyma.
+COCA-COLA | Napój, który zaczynał jako syrop z apteki.
+PLAY-DOH | Ciastolina, która zaczynała jako środek do czyszczenia tapet.
+RZEP | Zapięcie wymyślone po spacerze z psem oblepionym łopianem.
+KAMIZELKA | Kuloodporną wymyślił Polak, Kazimierz Żegleń.
+LAMPA | Naftową ___ wymyślił Ignacy Łukasiewicz.
+RENTGEN | Promienie, dzięki którym wynalazca zobaczył kości dłoni żony.
+SACHARYNA | Słodzik odkryty, bo chemik nie umył rąk przed obiadem.
+TEFLON | Odkryty przypadkiem – dziś jest na każdej patelni.
+SUPERGLUE | Klej, który odkryto przy próbach zrobienia przezroczystego celownika.
+KOŁO | Wynalazek tak stary, że „wymyślanie go na nowo” to przysłowie.
+DRUK | Gutenberg i ruchome czcionki.
+TELEFON | Bell powiedział przez niego pierwsze słowa do asystenta.
+LODY NA PATYKU | Wymyślił je 11-latek, który zostawił napój z mieszadełkiem na mrozie.
+DYNAMIT | Wynalazca ufundował potem nagrody, żeby nie zapamiętano go tylko z tego.
+
+== legendy | 🐉 | Polskie legendy | dawno, dawno temu nad Wisłą
+SAWA | Ta z legendy, która z rybakiem Warsem dała nazwę stolicy.
+SYRENKA | Pół kobieta, pół ryba, z mieczem i tarczą w herbie Warszawy.
+POPIEL | Książę, którego według legendy zjadły myszy.
+LECH | Brat Czecha i Rusa, który zobaczył orła w gnieździe.
+GNIEZNO | Pierwsza stolica, nazwana od orlego gniazda.
+BAZYLISZEK | Potwór z warszawskich piwnic, który zamieniał wzrokiem w kamień.
+TWARDOWSKI | Czarnoksiężnik, który uciekł przed diabłem na Księżyc.
+WANDA | Królewna, która nie chciała Niemca.
+KRAKUS | Legendarny założyciel Krakowa.
+SKUBA | Szewc, który pokonał smoka owcą nadzianą siarką.
+ŚPIĄCY RYCERZE | Czekają pod Giewontem, aż Polska ich zawoła.
+SKARBNIK | Duch kopalni, który pomaga dobrym górnikom.
+KACZKA | Złota ___ z warszawskich podziemi.
+PIAST | Kołodziej, od którego wzięła się pierwsza dynastia.
+DIABEŁ | Boruta to ___ z Łęczycy.
+KOPCE | Kraków ma ich kilka – podobno usypanych dla legendarnych władców.
+
+== kino-pl | 🎬 | Polskie kino kultowe | cytaty, które zna każdy wujek
+KILER | Taksówkarz Jurek, którego wzięli za płatnego zabójcę.
+SEKSMISJA | Dwóch facetów budzi się w świecie samych kobiet.
+PSY | „Bo to zła kobieta była” – film z Franzem Maurerem.
+SAMI SWOI | Kargul i Pawlak kłócą się przez płot.
+KLOSS | Kapitan Hans ___, czyli agent J-23.
+SZARIK | Pies-czołgista z „Czterech pancernych”.
+POTOP | Kmicic i oblężenie Częstochowy.
+CHŁOPAKI | „___ nie płaczą” – kultowa komedia z 2000 r.
+REJS | Film o wycieczce statkiem po Wiśle z inżynierem Mamoniem.
+KLEKS | Pan ___ i jego akademia.
+BOŻE CIAŁO | Film o chłopaku, który udawał księdza – nominacja do Oscara.
+IDA | Pierwszy polski film, który zdobył Oscara dla najlepszego filmu nieanglojęzycznego.
+ZIMNA WOJNA | Film Pawlikowskiego z trzema nominacjami do Oscara.
+BAREJA | Reżyser „Misia” i „Alternatywy 4”.
+PIANISTA | Film Polańskiego, za który Adrien Brody dostał Oscara.
+WESELE | Film Smarzowskiego, po którym nie chcesz iść na żadną imprezę rodzinną.
+
+== y2k | 💿 | Moda Y2K | biodrówki i błyszczyk
+BIODRÓWKI | Spodnie tak nisko, że widać było pół bielizny.
+TIPSY | Długie sztuczne paznokcie z białą końcówką.
+BŁYSZCZYK | Lepki i brokatowy – włosy przyklejały się do ust.
+WELUR | Dres z tego materiału z napisem na pupie.
+KLAPKA | Telefon z ___ – zamykasz go z trzaskiem, kończąc rozmowę.
+SPINKI | Kolorowe ___ w kształcie motylków we włosach.
+PIERCING | Kolczyk w pępku – obowiązkowo przy krótkiej bluzce.
+CROP TOP | Krótka koszulka odsłaniająca brzuch.
+BANDANA | Chusta na głowę albo na szyję.
+PLATFORMY | Buty na grubej podeszwie, w których rosłaś o 10 cm.
+RURKI | Spodnie tak obcisłe, że zakładało się je z podskokiem.
+OKULARY | Przeciwsłoneczne na pół twarzy, jak u Paris Hilton.
+CEKINY | Błyszczące kółeczka na wszystkim, od bluzki po torebkę.
+DŻINS | Kurtka i spodnie z tego samego materiału – total look.
+LOGOMANIA | Moda na wielkie logo marki na wszystkim.
+PASEK | Szeroki, nisko na biodrach, z wielką klamrą.
+
+== f1 | 🏎️ | Formuła 1 | box, box, box
+VERSTAPPEN | Holender, który zdobył cztery tytuły z rzędu (2021–2024).
+HAMILTON | Siedmiokrotny mistrz świata, który w 2025 r. przeszedł do czerwonego zespołu z Maranello.
+FERRARI | Czerwony zespół z koniem w logo i fanami, którzy ciągle cierpią.
+PIT STOP | Zmiana opon w dwie sekundy.
+BOLID | Wyścigowe auto F1 po polsku.
+MONZA | Włoski tor zwany „świątynią prędkości”.
+SAFETY CAR | Samochód bezpieczeństwa, za którym wszyscy jadą gęsiego.
+DRS | Klapka w tylnym skrzydle, która do 2025 r. pomagała wyprzedzać (skrót).
+OPONY | Miękkie, pośrednie, twarde – strategia to ich wymiana.
+SENNA | Brazylijska legenda F1 w żółtym kasku.
+SCHUMACHER | Niemiec z siedmioma tytułami, ikona czerwonego zespołu.
+NORRIS | Lando z McLarena, ulubieniec memów.
+DRIVE | „___ to Survive” – serial Netfliksa, przez który pokochał F1 cały świat.
+FLAGA | Szachownicowa ___ – meta wyścigu.
+PADDOCK | Strefa za kulisami z celebrytami i zespołami.
+BOX | „___, ___!” – krzyczy inżynier przez radio, wzywając na zmianę opon.
+
+== instrumenty | 🎷 | Instrumenty | fałszujesz, ale z sercem
+FLET | Szkolny prosty – przez niego cierpiała cała klasa.
+CYMBAŁKI | Kolorowe metalowe płytki, w które stuka się pałeczką.
+UKULELE | Mała gitara z Hawajów.
+SAKSOFON | Epic Sax Guy grał na nim na Eurowizji w 2010 r.
+TRÓJKĄT | Instrument, na którym gra ten, kto „nie umie grać”.
+PIANINO | Kot przechodzi po nim i komponuje symfonię.
+AKORDEON | Gra na każdym weselu, rozciągając miech.
+DUDY | Szkoci grają na nich w kiltach.
+HARFA | Strunowa – grają na niej anioły na obrazkach.
+TRĄBKA | Hejnał mariacki gra się właśnie na niej.
+KONTRABAS | Ogromne skrzypce, które stawia się na podłodze.
+WIOLONCZELA | Gra się na niej siedząc, trzymając ją między kolanami.
+BAS | Gitara z czterema strunami – nikt jej nie słyszy, ale wszyscy czują.
+METRONOM | Tyka równo, żebyś nie przyspieszał.
+KAMERTON | Metalowe widełki, które dają dźwięk do strojenia.
+TAMBURYN | Okrągły bębenek z brzękadełkami.
+
+== tance | 🕺 | Tańce | parkiet jest nasz
+MACARENA | Ręce na biodra, na głowę i obrót – hit z lat 90.
+MOONWALK | Krok Michaela Jacksona do tyłu, jakby szedł do przodu.
+FLOSS | Taniec z Fortnite, w którym machasz biodrami i rękami.
+DAB | Głowa w łokieć – gest, który w 2016 r. robili wszyscy.
+HARLEM SHAKE | Wszyscy stoją spokojnie, a po dropie szaleją w przebraniach.
+TWERK | Taniec pośladkami, przy którym babcia zakrywa oczy.
+TANGO | Do tego trzeba dwojga – i róży w zębach.
+SALSA | Gorący taniec latino – i sos do nachosów.
+WALC | Raz-dwa-trzy, raz-dwa-trzy na balu.
+KRAKOWIAK | Polski taniec ludowy z Krakowa.
+ZUMBA | Fitness w rytmie latino.
+BREAKDANCE | Kręcenie się na głowie na kartonie.
+DISCO | Kula z lusterek i światła na parkiecie.
+CHA-CHA | Taniec z „raz, dwa, cza-cza-cza”.
+POLKA | Szybki taniec w parach, który ma w nazwie narodowość.
+CHOREOGRAFIA | Ułożone kroki do trendu na TikToku.
+
+== wies | 🐓 | Wakacje na wsi | budzik? nie, kogut
+KOGUT | Budzi całą wieś o piątej rano.
+KURY | Znoszą jajka i biegną za tobą, gdy masz ziarno.
+TRAKTOR | Jedziesz za nim 20 km/h po wiejskiej drodze.
+SIANO | Skaczesz w nie ze stogu, a potem kichasz cały dzień.
+STODOŁA | Drewniany budynek, w którym trzyma się zboże i sprzęt.
+KOMBAJN | Wielka maszyna do koszenia zboża.
+ŻNIWA | Sierpień, kurz i praca do późnej nocy przy zbożu.
+GĘŚ | Goni cię po podwórku z sykiem.
+KOZA | Zjada wszystko, nawet twoją koszulkę.
+STUDNIA | Wiadro na łańcuchu i lodowata woda.
+SAD | Jabłonie, z których podjadasz w sierpniu.
+MLEKO | Prosto od krowy, ciepłe i pachnące.
+WIDŁY | Narzędzie do siana – i do memów o wściekłym tłumie.
+KROWA | Muczy i łazi po pastwisku.
+ŚWINKA | Różowa, w błocie i ciągle głodna.
+OGRÓDEK | Babcia ma w nim pomidory, ogórki i grządki do pielenia.
+
+== wladca-pierscieni | 💍 | Władca Pierścieni | jeden, by wszystkimi rządzić
+FRODO | Niziołek, który ma najcięższe zadanie i najkrótsze nogi.
+GOLLUM | „Mój ssskarb!”.
+SAURON | Wielkie płonące oko na wieży.
+HOBBIT | Niski, bosy, je drugie śniadanie i kocha święty spokój.
+MORDOR | „Nie wchodzi się ot tak do ___” – mem z Boromirem.
+LEGOLAS | Elf-łucznik, który zjeżdża na tarczy po schodach.
+ARAGORN | Strażnik, który okazał się królem.
+ENT | Gadające drzewo, które bardzo powoli podejmuje decyzje.
+NAZGUL | Czarny upiór na koniu, który wyczuwa niziołki.
+SHIRE | Zielona kraina z okrągłymi drzwiami w pagórkach.
+TOLKIEN | Profesor z Oksfordu, który wymyślił całe Śródziemie i języki elfów.
+PIERŚCIEŃ | Jeden, by wszystkimi rządzić.
+SAM | Wierny ogrodnik – prawdziwy bohater tej historii.
+GIMLI | Krasnolud z toporem, który liczył pokonanych wrogów na wyścigi z elfem.
+BALROG | Ognisty demon, któremu czarodziej krzyczy „Nie przejdziesz!”.
+ORK | Brzydki żołnierz zła.
+
+== booktok | 📚 | BookTok | jeszcze jeden rozdział
+BOOKTOK | Część TikToka, przez którą kupujesz książki dla ładnych okładek.
+WATTPAD | Apka z opowiadaniami, z której wyszło wiele bestsellerów.
+FANFIK | Opowiadanie fana o ulubionych bohaterach.
+ROMANTASY | Smoki plus romans – najgorętszy gatunek ostatnich lat.
+ENEMIES TO LOVERS | Najpierw się nienawidzą, potem całują – ulubiony motyw.
+ZAKŁADKA | Najczęściej to paragon albo bilet.
+CZYTNIK | Urządzenie z e-papierem do e-booków.
+BIBLIOTEKA | Książki za darmo – serio, to wciąż istnieje.
+EMPIK | Polska sieć z książkami, płytami i kolejką przy kasie.
+OKŁADKA | Po niej oceniamy książki, choć nie powinniśmy.
+ROZDZIAŁ | „Jeszcze jeden ___” – i jest trzecia w nocy.
+AUTOGRAF | Stoisz po niego dwie godziny na targach.
+TROP | Powtarzalny motyw fabularny, np. „było tylko jedno łóżko”.
+KSIĘGARNIA | Wchodzisz po jedną książkę, wychodzisz z pięcioma.
+PÓŁKA | Ugina się od książek, których jeszcze nie przeczytałeś.
+COLLEEN | ___ Hoover, królowa łez na książkowym TikToku.
+
+== logo | 🏷️ | Logo i marki | wiesz, co to za znaczek?
+NIKE | „Swoosh” i „Just Do It”.
+APPLE | Nadgryzione jabłko.
+STARBUCKS | Zielona syrena i twoje imię napisane z błędem.
+LACOSTE | Zielony krokodyl na koszulce polo.
+PUMA | Skaczący kot.
+ADIDAS | Trzy paski.
+RED BULL | „Doda ci skrzydeł” – i dwa byki w logo.
+SHELL | Żółta muszla na stacji.
+LEGO | Duńskie klocki, na które nadepnięcie boli jak nic innego.
+TOYOTA | Japońskie auta z trzema elipsami w logo.
+MCDONALD'S | Złote łuki w kształcie litery M.
+TWITTER | Niebieski ptaszek, którego zastąpiła litera X.
+PEPSI | Niebiesko-czerwona kula – wieczna rywalka coli.
+WIKIPEDIA | Kula z puzzli z literami – tu ściągasz do referatu.
+AUDI | Cztery kółka.
+MERCEDES | Trójramienna gwiazda w kółku.
+
+== lunapark | 🎡 | Wesołe miasteczko | trzymaj się mocno
+ROLLERCOASTER | Kolejka górska, na której krzyczysz i wychodzisz na zdjęciu z najgorszą miną.
+KARUZELA | Kręci się w kółko z konikami.
+DIABELSKI MŁYN | Wielkie koło z wagonikami, z którego widać całe miasto.
+WATA | Cukrowa ___ – różowa chmurka na patyku.
+KLAUN | Ma czerwony nos, a część ludzi panicznie się go boi.
+ŻONGLER | Podrzuca piłeczki, kręgle, a nawet pochodnie.
+AKROBATA | Skacze pod kopułą cyrku na trapezie.
+ENERGYLANDIA | Największy park rozrywki w Polsce, w Zatorze.
+STRZELNICA | Strzelasz do puszek, żeby wygrać wielkiego misia.
+SAMOCHODZIKI | Wjeżdżasz w znajomych i nikt nie wzywa policji.
+LABIRYNT | Ten z luster – odbijasz się od własnego odbicia.
+MAGIK | Wyciąga królika z kapelusza.
+ADRENALINA | Hormon, przez który krzyczysz na kolejce.
+STRACHU | Zamek ___ – wagonik w ciemności i szkielet zza rogu.
+MANEŻ | Okrągła arena w cyrku.
+BALONIK | Z helem, kupiony przy wejściu i wypuszczony po pięciu minutach.
+
+== gadzety | 📱 | Gadżety | bateria 1%
+ETUI | Chroni telefon – albo nie, gdy spadnie ekranem w dół.
+SZKŁO | Hartowane ___ – pęka zamiast ekranu.
+SMARTWATCH | Zegarek, który przypomina ci, żeby wstać i oddychać.
+TABLET | Duży telefon, który nie dzwoni – przyklejony do rąk dzieci w restauracji.
+PENDRIVE | Wkładasz go do portu trzy razy, bo zawsze odwrotną stroną.
+KABEL | Ten od ładowarki zawsze jest za krótki do łóżka.
+ZASIĘG | Szukasz go, machając telefonem nad głową.
+SAMOLOTOWY | Tryb ___ – włączasz go, żeby nikt ci nie przeszkadzał.
+BATERIA | Kończy się zawsze w najgorszym momencie.
+KIJEK | ___ do selfie – turyści z nim są wszędzie.
+LAPTOP | Na kolanach tak gorący, że można by na nim smażyć jajka.
+MYSZKA | Kot by ją złapał, ale ona jest na kablu.
+KLAWIATURA | Mechaniczna klika tak, że słyszy cały dom.
+DRUKARKA | Zawsze „brak tuszu”, gdy masz coś wydrukować na jutro.
+ROUTER | „Wyłącz i włącz” – i internet wraca.
+AIRPODS | Białe słuchawki, z których jedna zawsze się gubi.

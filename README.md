@@ -1,6 +1,6 @@
 # krzyżówki dla gen z 🧩
 
-60 krzyżówek z odmłodzonymi pytaniami: pół normalnych haseł, pół rzeczy, które zna każde Gen Z – bajki z Cartoon Network, gierki, memy, polski internet, szkoła, wesela, siłka, korpo. Ma być śmiesznie, nie trudno.
+90 krzyżówek z odmłodzonymi pytaniami: pół normalnych haseł, pół rzeczy, które zna każde Gen Z – bajki z Cartoon Network, gierki, memy, polski internet, szkoła, wesela, siłka, korpo. Ma być śmiesznie, nie trudno.
 
 **Sezon 1:** 🔥 Rozgrzewka · 🏫 Szkolny korytarz · 📺 Dzieciństwo przed telewizorem · 🍲 Niedziela u babci · 🌐 Polski internet · 🎮 Gierki · 🎧 Muza · 🏖️ Wakacje · 💘 Randki i crushe · 🥳 Domówka · 📱 TikTok i reszta · 🧾 Dorosłość mode · 🍿 Filmy i seriale · ⚽ Sport i fame · 🎲 Nostalgia
 
@@ -9,6 +9,10 @@
 **Sezon 3:** 🚗 Pierwsze auto · 🎤 Muza 2.0 · 📲 Apki w telefonie · ⚽ Piłka nożna · 🌧️ Polska pogoda · 👨‍👩‍👧 Rodzinka · 🐣 Wielkanoc · 😷 Pandemia 2020 · 🤯 Ciekawostki z TikToka · 🏠 Pierwsze mieszkanie · 🏰 Disney i Pixar · 🍳 Kuchnia na studiach · 📅 Kalendarz świąt · 🎲 Gry na przerwę · 🚍 Wycieczka szkolna
 
 **Sezon 4:** 😂 Memy 2025 · 🍝 Włoski brainrot · 🔎 Czego szukaliście w Google · 🚀 Kosmos dla laików · 📼 Za czasów rodziców · 🕹️ Retro gaming · 🛋️ Seriale do bingowania · 🗣️ Polskie powiedzonka · 🎃 Horrory · 🌍 Kraje w jednym zdaniu · 🧑‍🏫 Pokój nauczycielski · 💸 Kasa · 🌙 Bajki na dobranoc · 🏓 Dziwne sporty · 🤖 AI i przyszłość
+
+**Sezon 5:** 🐶 Pupile · ⚡ Harry Potter · 🦸 Superbohaterowie · 🌮 Kuchnia świata · 🏐 Lekcja WF · 🎙️ Eurowizja · 🏛️ Mitologia na luzie · 🏢 Osiedle · 🧸 Podwórko i przedszkole · 🌊 Pod wodą · 🩹 Apteczka · 🌲 Wypad do lasu · 🥇 Igrzyska · 🎨 Sztuka i muzea · 🍬 Słodycze
+
+**Sezon 6:** ⛏️ Minecraft · 🤳 Słownik influencera · 💡 Wynalazki z przypadku · 🐉 Polskie legendy · 🎬 Polskie kino kultowe · 💿 Moda Y2K · 🏎️ Formuła 1 · 🎷 Instrumenty · 🕺 Tańce · 🐓 Wakacje na wsi · 💍 Władca Pierścieni · 📚 BookTok · 🏷️ Logo i marki · 🎡 Wesołe miasteczko · 📱 Gadżety
 
 ## Jak grać
 
