@@ -25,9 +25,12 @@
   const save = (id, data) => writeJSON(STORE + id, data);
   const clearSave = (id) => removeKey(STORE + id);
 
-  const DEFAULT_SETTINGS = { autoCheck: true, skipFilled: true, builtinKb: false };
+  // systemKb: na telefonie domyślnie jest klawiatura w apce; systemową można włączyć w ustawieniach
+  const DEFAULT_SETTINGS = { autoCheck: true, skipFilled: true, systemKb: false };
   let settings = { ...DEFAULT_SETTINGS, ...(readJSON(SETTINGS_KEY) || {}) };
+  delete settings.builtinKb; // stara opcja z czasów, gdy domyślna była klawiatura systemowa
   const saveSettings = () => writeJSON(SETTINGS_KEY, settings);
+  const useBuiltinKb = () => isTouch && !settings.systemKb;
 
   // ───────── pomocnicze ─────────
   const up = (ch) => (ch || "").toLocaleUpperCase("pl-PL");
@@ -98,7 +101,7 @@
       ["autoCheck", "Autosprawdzanie", "Dobrze wpisane hasło od razu się zieleni i blokuje, a złe mignie na czerwono."],
       ["skipFilled", "Przeskakuj wypełnione kratki", "Kursor sam leci do następnej pustej kratki."],
     ];
-    if (isTouch) opts.push(["builtinKb", "Klawiatura w apce", "Zamiast systemowej klawiatury telefonu pokazuje własną, z polskimi literami."]);
+    if (isTouch) opts.push(["systemKb", "Klawiatura systemowa", "Zamiast klawiatury w apce używa zwykłej klawiatury telefonu."]);
     const ov = document.createElement("div");
     ov.className = "overlay";
     ov.innerHTML = `
@@ -318,7 +321,8 @@
         </div>`;
 
       const gridEl = app.querySelector(".grid");
-      const inputMode = isTouch && settings.builtinKb ? "none" : "text";
+      const builtin = useBuiltinKb();
+      const inputMode = builtin ? "none" : "text";
       this.cellEls = [];
       this.inputs = [];
       for (let r = 0; r < this.H; r++) {
@@ -344,6 +348,7 @@
             inp.setAttribute("spellcheck", "false");
             inp.setAttribute("enterkeyhint", "next");
             inp.setAttribute("aria-label", `wiersz ${r + 1}, kolumna ${c + 1}`);
+            if (builtin) { inp.readOnly = true; inp.tabIndex = -1; } // klawiatura w apce: telefon nie pokazuje swojej
             d.appendChild(inp);
             this.inputs[r][c] = inp;
           }
@@ -369,7 +374,7 @@
         const dock = document.createElement("div");
         dock.className = "dock";
         dock.appendChild(this.cluebar);
-        if (settings.builtinKb) {
+        if (builtin) {
           const rows = ["QWERTYUIOP".split(""), "ASDFGHJKL".split(""), [..."ZXCVBNM", "⌫"], "ĄĆĘŁŃÓŚŹŻ".split("")];
           const kb = document.createElement("div");
           kb.className = "kb";
@@ -537,7 +542,7 @@
       this.renderWin();
       this.positionDock();
       if (opts.quiet) return; // odświeżenie po animacji – bez ruszania fokusu i przewijania
-      if (this.active && !this.solved) this.focusSel();
+      if (this.active && !this.solved && !useBuiltinKb()) this.focusSel();
       this.ensureVisible();
     }
 

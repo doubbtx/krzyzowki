@@ -18,14 +18,14 @@
 
 Otwórz `index.html` w przeglądarce (działa też offline, bez serwera) albo wrzuć repo na GitHub Pages.
 
-- tapnij kratkę i pisz – na telefonie wyskakuje zwykła klawiatura systemowa, a podpowiedź wisi tuż nad nią,
+- tapnij kratkę i pisz – na telefonie jest klawiatura w apce z polskimi literami, a podpowiedź wisi tuż nad nią,
 - tapnij kratkę drugi raz albo w podpowiedź, żeby zmienić kierunek; strzałki ‹ › skaczą po hasłach,
 - **💡 Litera** sama uzupełnia brakującą (albo błędną) literę w aktualnym haśle i przesuwa kursor dalej,
 - **🔓 Hasło** odsłania całe słowo i przeskakuje do następnego niedokończonego,
 - **autosprawdzanie**: dobre hasło od razu się zieleni i blokuje (a „Z” zamienia się w „Ż” itd.), złe mignie na czerwono,
 - „Z” zamiast „Ż” też jest zaliczane,
 - na komputerze: strzałki, Tab/Enter = następne hasło, spacja = zmiana kierunku,
-- ⚙️ ustawienia: autosprawdzanie, przeskakiwanie wypełnionych kratek, klawiatura w apce zamiast systemowej, czyszczenie postępu,
+- ⚙️ ustawienia: autosprawdzanie, przeskakiwanie wypełnionych kratek, klawiatura systemowa zamiast tej w apce, czyszczenie postępu,
 - na stronie głównej: „Kontynuuj”, „Losuj krzyżówkę” i postęp każdej krzyżówki; po rozwiązaniu – konfetti, udostępnianie wyniku i przejście do następnej.
 
 ## Jak dodać lub zmienić hasła
