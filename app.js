@@ -205,7 +205,7 @@
       <p class="howto">
         <b>Jak grać:</b> tapnij kratkę i pisz. Tapnij ją drugi raz, żeby zmienić kierunek.
         <b>Litera</b> sama uzupełnia brakującą literę w haśle, <b>Hasło</b> odsłania całe słowo.
-        „Z” zamiast „Ż” też przejdzie. W mieszanych krzyżówkach: <b>↔</b> to przeciwieństwo, <b>🎵</b> – tytuł piosenki po fragmencie tekstu, <b>🎶</b> – tytuł hitu po opisie. Postęp zapisuje się sam.
+        „Z” zamiast „Ż” też przejdzie. W mieszanych krzyżówkach: <b>↔</b> to przeciwieństwo, a <b>🎵</b> – tytuł piosenki po fragmencie tekstu. Postęp zapisuje się sam.
       </p>`;
 
     app.querySelectorAll(".card").forEach((b) =>
@@ -293,7 +293,6 @@
       const kinds = [
         ["↔", "przeciwieństwo"],
         ["🎵", "tytuł piosenki po fragmencie tekstu"],
-        ["🎶", "tytuł hitu po opisie"],
       ].filter(([sym]) => this.entries.some((e) => e.clue.startsWith(sym)));
       if (!kinds.length) return "";
       return `<div class="legend">${kinds.map(([sym, txt]) => `<span><b>${sym}</b> ${txt}</span>`).join("")}</div>`;

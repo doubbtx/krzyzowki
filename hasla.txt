@@ -1646,7 +1646,7 @@ AIRPODS | Białe słuchawki, z których jedna zawsze się gubi.
 == salatka | 🥗 | Sałatka jarzynowa | wszystkiego po trochu, jak w prawdziwej krzyżówce
 STO LAT | 🎵 „…niech żyje, żyje nam”
 WLAZŁ KOTEK | 🎵 „…i mruga, ładna to piosenka, niedługa”
-NO SORY | 🎶 Przebój sanah, którego tytuł brzmi jak przeprosiny bez przekonania.
+STRATA | ↔ zysk (stan konta po Black Friday)
 ZIMNO | ↔ ciepło (czyli twój pokój, gdy tata pilnuje kaloryferów)
 CICHO | ↔ głośno
 PUSTY | ↔ pełny (stan lodówki w niedzielę wieczorem)
@@ -1664,7 +1664,7 @@ MUCHA | Lata po pokoju i zawsze siada akurat na twojej kanapce.
 == bigos | 🍲 | Bigos | im dłużej się dusi, tym lepszy
 KOTKI DWA | 🎵 „…szare, bure obydwa”
 BÓG SIĘ RODZI | 🎵 „…moc truchleje, Pan niebiosów obnażony”
-SZKLANKI | 🎶 Wakacyjny hit Young Leosii z 2021 r.
+DÓŁ | ↔ góra
 NISKI | ↔ wysoki
 LEKKI | ↔ ciężki (jak plecak w piątek po szkole)
 KONIEC | ↔ początek
@@ -1682,7 +1682,7 @@ BALON | Na urodzinach zawsze jeden pęka komuś przy uchu.
 == mieszanka | 🥜 | Mieszanka studencka | orzeszki, rodzynki i pytania
 STARY NIEDŹWIEDŹ | 🎵 „…mocno śpi, my się go boimy, na palcach chodzimy”
 GAUDEAMUS | 🎵 „…igitur, iuvenes dum sumus” – studencki hymn po łacinie
-MAŁOMIASTECZKOWY | 🎶 Tytułowy hit z płyty Dawida Podsiadły z 2018 r.
+UCZEŃ | ↔ nauczyciel
 SUCHY | ↔ mokry
 DROGI | ↔ tani (jak woda na lotnisku)
 WRÓG | ↔ przyjaciel
@@ -1700,7 +1700,7 @@ KAWA | Trzecia przed dziewiątą rano to jeszcze norma?
 == kogel-mogel | 🍮 | Kogel-mogel | ucierasz wszystko razem
 KÓŁKO GRANIASTE | 🎵 „…czworokanciaste”
 LULAJŻE JEZUNIU | 🎵 „…moja perełko, lulaj, ulubione me pieścidełko”
-ESPRESSO | 🎶 Hit Sabriny Carpenter, który brzmi jak zamówienie w kawiarni.
+ANIOŁ | 🎵 „…Chrystus się wam narodził” – ___ pasterzom mówił
 CIEMNO | ↔ jasno
 PŁACZ | ↔ śmiech
 ODPOWIEDŹ | ↔ pytanie
@@ -1718,7 +1718,7 @@ BOCIAN | Według bajek przynosi dzieci.
 == groch | 🫛 | Groch z kapustą | i nikt nie wie, co dalej
 BYŁ SOBIE KRÓL | 🎵 „…był sobie paź i była też królewna”
 OJCIEC WIRGILIUSZ | 🎵 „…uczył dzieci swoje, a miał ich wszystkich sto dwadzieścia troje”
-FLOWERS | 🎶 Hit Miley Cyrus z 2023 r. o kupowaniu kwiatów samej sobie.
+TCHÓRZ | ↔ bohater
 GORZKI | ↔ słodki (smak kawy bez cukru)
 MIĘKKI | ↔ twardy
 BRUDNY | ↔ czysty (stan auta po zimie)
@@ -1736,7 +1736,7 @@ SOCZEWKI | Kontaktowe – wkładasz je palcem i modlisz się, żeby nie mrugną�
 == szwedzki-stol | 🍽️ | Szwedzki stół | bierzesz wszystkiego po trochu
 SZŁA DZIEWECZKA | 🎵 „…do laseczka, do zielonego”
 PŁYNIE WISŁA | 🎵 „…płynie, po polskiej krainie”
-LEVITATING | 🎶 Hit Dui Lipy o unoszeniu się w powietrzu z zakochania.
+META | ↔ start
 BIEDNY | ↔ bogaty
 PECH | ↔ szczęście (czarny kot właśnie przebiegł drogę)
 NIGDY | ↔ zawsze
@@ -1754,7 +1754,7 @@ KLOPSIKI | Szwedzkie kuleczki z mięsa z sosem i borówką.
 == losowanko | 🎲 | Losowanko | co wypadnie, to wypadnie
 HEJ SOKOŁY | 🎵 „…omijajcie góry, lasy, doły”
 GÓRALU | 🎵 „…odchodzić od stron ojczystych, świerkowych lasów i hal” – ___, czy ci nie żal
-BAD GUY | 🎶 Szeptany hit Billie Eilish z 2019 r. z dudniącym basem.
+TYŁ | ↔ przód
 PORAŻKA | ↔ sukces
 HAŁAS | ↔ cisza (czyli sąsiad z wiertarką)
 ZACHÓD | ↔ wschód (słońca)
@@ -1772,7 +1772,7 @@ GRAWITACJA | Przez nią kanapka zawsze spada masłem w dół.
 == chaos | 🌀 | Chaos kontrolowany | wszystko pod kontrolą (nie)
 WŚRÓD NOCNEJ CISZY | 🎵 „…głos się rozchodzi: wstańcie, pasterze”
 DĄBROWSKIEGO | 🎵 „…kiedy my żyjemy” – Mazurek ___
-AS IT WAS | 🎶 Hit Harry’ego Stylesa z 2022 r. – tytuł znaczy „tak, jak było”.
+PRZYBIEŻELI | 🎵 „…grając skocznie Dzieciąteczku na lirze” – ___ do Betlejem pasterze
 POŁUDNIE | ↔ północ
 WOLNO | ↔ szybko (prędkość Wi-Fi w hotelu)
 MINUS | ↔ plus
@@ -1790,7 +1790,7 @@ KABLE | Splątane za biurkiem tak, że nikt nie wie, co jest od czego.
 == z-kazdej-beczki | 🛢️ | Z każdej beczki | po trochu, ale z sensem
 DZISIAJ W BETLEJEM | 🎵 „…wesoła nowina, że Panna czysta porodziła Syna”
 ROTA | 🎵 „Nie rzucim ziemi, skąd nasz ród…”
-BLINDING LIGHTS | 🎶 Synthpopowy hit The Weeknda z czerwoną marynarką w teledysku.
+ODJAZD | ↔ przyjazd (pociągu, który i tak ma opóźnienie)
 KŁAMSTWO | ↔ prawda (np. „przeczytałem regulamin”)
 PRZEGRANA | ↔ wygrana
 WYJŚCIE | ↔ wejście (ewakuacyjne – zielona tabliczka nad drzwiami)
@@ -1808,7 +1808,7 @@ PIKNIK | Koc, kanapki i mrówki, które przyszły bez zaproszenia.
 == kompot | 🧃 | Kompot | z tego, co było w ogródku
 GDY ŚLICZNA PANNA | 🎵 „…Syna kołysała, z wielkim weselem tak Jemu śpiewała”
 CZERWONE JABŁUSZKO | 🎵 „…przekrojone na krzyż”
-APT | 🎶 Hit Rosé i Bruno Marsa z 2024 r., nazwany od koreańskiej gry imprezowej.
+STAJENKI | 🎵 „…do Jezusa i Panienki” – Pójdźmy wszyscy do ___
 WIECZÓR | ↔ rano
 KRÓTKI | ↔ długi (jak każdy weekend)
 GŁUPI | ↔ mądry
@@ -1826,7 +1826,7 @@ ROBAK | W jabłku źle, a w połowie jabłka – jeszcze gorzej.
 == szuflada | 🗄️ | Szuflada ze wszystkim | baterie, gumki i klucz od niczego
 W ŻŁOBIE LEŻY | 🎵 „…któż pobieży kolędować Małemu”
 WARSZAWIANKA | 🎵 „Oto dziś dzień krwi i chwały…”
-DANCE MONKEY | 🎶 Hit Tones and I z 2019 r., który grało każde radio.
+DOROSŁY | ↔ dziecko
 WĄSKI | ↔ szeroki
 PŁYTKI | ↔ głęboki (jak brodzik dla dzieci)
 BRZYDKI | ↔ ładny
@@ -1844,7 +1844,7 @@ LIST | Papierowy – ostatni dostałeś chyba od babci.
 == miszmasz | 🌪️ | Miszmasz | kto to układał?!
 PIERWSZA BRYGADA | 🎵 „Legiony to żołnierska nuta, legiony to straceńców los”
 BOGURODZICA | 🎵 „…dziewica, Bogiem sławiena Maryja”
-OLD TOWN ROAD | 🎶 Country-rap Lil Nasa X o jeździe konnej, który pobił rekordy list przebojów.
+CHORY | ↔ zdrowy
 NIENAWIŚĆ | ↔ miłość
 ZAMKNIĘTE | ↔ otwarte (sklepy w niedzielę)
 MŁODY | ↔ stary
@@ -1862,7 +1862,7 @@ KISZONKI | Ogórki i kapusta, które babcia robi na zimę.
 == pizza | 🍕 | Pizza ze wszystkim | ananas też jest
 MARSZ MARSZ POLONIA | 🎵 „…nasz dzielny narodzie”
 O MÓJ ROZMARYNIE | 🎵 „…rozwijaj się”
-SHAPE OF YOU | 🎶 Hit Eda Sheerana z 2017 r. z rytmem do stukania w stół.
+GOŚĆ | ↔ gospodarz
 CIENKI | ↔ gruby (jak ciasto w dobrej pizzy)
 WYLOGUJ | ↔ zaloguj
 GREEN FLAG | ↔ red flag
@@ -1880,7 +1880,7 @@ DOSTAWCA | Przyjeżdża zawsze wtedy, gdy jesteś pod prysznicem.
 == paczka | 📦 | Paczka niespodzianka | nie wiesz, co w środku
 WOJENKO | 🎵 „…cóżeś ty za pani, że za tobą idą…”
 MAŁO NAS | 🎵 „…do pieczenia chleba”
-THRILLER | 🎶 Hit Michaela Jacksona z teledyskiem pełnym tańczących zombie.
+PRACOWNIK | ↔ szef
 SPRZEDAĆ | ↔ kupić (to, co robisz z ciuchami na Vinted)
 OSTATNI | ↔ pierwszy
 DOBRANOC | ↔ dzień dobry
@@ -1899,7 +1899,7 @@ ETYKIETA | Wystaje z koszulki i drapie w kark.
 TAŃCOWAŁA | 🎵 „…igła pięknie, nitka brzydko” – ___ igła z nitką
 POJEDZIEMY NA ŁÓW | 🎵 „…towarzyszu mój”
 GĘSI ZA WODĄ | 🎵 „…kaczki za wodą”
-JESTEŚ SZALONA | 🎶 Discopolowy hit zespołu Boys, przy którym tańczy cała sala.
+EKSTRAWERTYK | ↔ introwertyk
 NIE | ↔ tak
 PESYMISTA | ↔ optymista
 PRO | ↔ noob

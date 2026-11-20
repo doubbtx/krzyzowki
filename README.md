@@ -16,7 +16,7 @@
 
 **Sezon 7 · Mix:** 🥗 Sałatka jarzynowa · 🍲 Bigos · 🥜 Mieszanka studencka · 🍮 Kogel-mogel · 🫛 Groch z kapustą · 🍽️ Szwedzki stół · 🎲 Losowanko · 🌀 Chaos kontrolowany · 🛢️ Z każdej beczki · 🧃 Kompot · 🗄️ Szuflada ze wszystkim · 🌪️ Miszmasz · 🍕 Pizza ze wszystkim · 📦 Paczka niespodzianka · 🃏 Dzika karta
 
-Krzyżówki z Sezonu 7 są wymieszane jak w gazecie. Oznaczenia w podpowiedziach: **↔** przeciwieństwo (↔ ciepło → ZIMNO), **🎵** tytuł piosenki po fragmencie tekstu (tylko piosenki ludowe, kolędy i stare utwory, bo teksty współczesnych hitów są chronione prawem autorskim), **🎶** tytuł hitu po opisie.
+Krzyżówki z Sezonu 7 są wymieszane jak w gazecie. Oznaczenia w podpowiedziach: **↔** przeciwieństwo (↔ ciepło → ZIMNO), **🎵** tytuł piosenki po fragmencie tekstu (piosenki ludowe, kolędy, przedszkolne i stare pieśni – teksty współczesnych hitów są chronione prawem autorskim).
 
 ## Jak grać
 
