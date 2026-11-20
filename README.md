@@ -1,6 +1,6 @@
 # krzyżówki dla gen z 🧩
 
-90 krzyżówek z odmłodzonymi pytaniami: pół normalnych haseł, pół rzeczy, które zna każde Gen Z – bajki z Cartoon Network, gierki, memy, polski internet, szkoła, wesela, siłka, korpo. Ma być śmiesznie, nie trudno.
+105 krzyżówek z odmłodzonymi pytaniami: pół normalnych haseł, pół rzeczy, które zna każde Gen Z – bajki z Cartoon Network, gierki, memy, polski internet, szkoła, wesela, siłka, korpo. Ma być śmiesznie, nie trudno.
 
 **Sezon 1:** 🔥 Rozgrzewka · 🏫 Szkolny korytarz · 📺 Dzieciństwo przed telewizorem · 🍲 Niedziela u babci · 🌐 Polski internet · 🎮 Gierki · 🎧 Muza · 🏖️ Wakacje · 💘 Randki i crushe · 🥳 Domówka · 📱 TikTok i reszta · 🧾 Dorosłość mode · 🍿 Filmy i seriale · ⚽ Sport i fame · 🎲 Nostalgia
 
@@ -13,6 +13,10 @@
 **Sezon 5:** 🐶 Pupile · ⚡ Harry Potter · 🦸 Superbohaterowie · 🌮 Kuchnia świata · 🏐 Lekcja WF · 🎙️ Eurowizja · 🏛️ Mitologia na luzie · 🏢 Osiedle · 🧸 Podwórko i przedszkole · 🌊 Pod wodą · 🩹 Apteczka · 🌲 Wypad do lasu · 🥇 Igrzyska · 🎨 Sztuka i muzea · 🍬 Słodycze
 
 **Sezon 6:** ⛏️ Minecraft · 🤳 Słownik influencera · 💡 Wynalazki z przypadku · 🐉 Polskie legendy · 🎬 Polskie kino kultowe · 💿 Moda Y2K · 🏎️ Formuła 1 · 🎷 Instrumenty · 🕺 Tańce · 🐓 Wakacje na wsi · 💍 Władca Pierścieni · 📚 BookTok · 🏷️ Logo i marki · 🎡 Wesołe miasteczko · 📱 Gadżety
+
+**Sezon 7 · Mix:** 🥗 Sałatka jarzynowa · 🍲 Bigos · 🥜 Mieszanka studencka · 🍮 Kogel-mogel · 🫛 Groch z kapustą · 🍽️ Szwedzki stół · 🎲 Losowanko · 🌀 Chaos kontrolowany · 🛢️ Z każdej beczki · 🧃 Kompot · 🗄️ Szuflada ze wszystkim · 🌪️ Miszmasz · 🍕 Pizza ze wszystkim · 📦 Paczka niespodzianka · 🃏 Dzika karta
+
+Krzyżówki z Sezonu 7 są wymieszane jak w gazecie. Oznaczenia w podpowiedziach: **↔** przeciwieństwo (↔ ciepło → ZIMNO), **🎵** tytuł piosenki po fragmencie tekstu (tylko piosenki ludowe, kolędy i stare utwory, bo teksty współczesnych hitów są chronione prawem autorskim), **🎶** tytuł hitu po opisie.
 
 ## Jak grać
 

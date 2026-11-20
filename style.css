@@ -101,6 +101,9 @@ h2.sec small { font-size: 12px; letter-spacing: 0; color: var(--lime); }
 .progress .bar { flex: 1; height: 6px; border-radius: 99px; background: var(--panel-2); overflow: hidden; }
 .progress .bar i { display: block; height: 100%; width: 0; background: var(--lime); border-radius: 99px; transition: width .3s ease; }
 
+.legend { display: flex; flex-wrap: wrap; gap: 6px 14px; margin: -2px 2px 10px; font-size: 12px; color: var(--muted); }
+.legend b { color: var(--lime); font-weight: 800; }
+
 .cluebar {
   position: sticky; top: 0; z-index: 5;
   display: flex; align-items: stretch; gap: 6px;

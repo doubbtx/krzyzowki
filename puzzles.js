@@ -15369,5 +15369,2570 @@ window.PUZZLES = [
     "enum": "4"
    }
   ]
+ },
+ {
+  "id": "salatka",
+  "emoji": "🥗",
+  "title": "Sałatka jarzynowa",
+  "subtitle": "wszystkiego po trochu, jak w prawdziwej krzyżówce",
+  "section": "Sezon 7 · Mix",
+  "width": 14,
+  "height": 17,
+  "entries": [
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 3,
+    "col": 1,
+    "answer": "SITUATIONSHIP",
+    "display": "SITUATIONSHIP",
+    "clue": "Więcej niż przyjaźń, mniej niż związek – i nie wolno pytać, kim jesteście.",
+    "enum": "13"
+   },
+   {
+    "num": 7,
+    "dir": "A",
+    "row": 6,
+    "col": 0,
+    "answer": "SZPILKI",
+    "display": "SZPILKI",
+    "clue": "Buty, w których na wesele się przychodzi, a wraca boso.",
+    "enum": "7"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 7,
+    "col": 7,
+    "answer": "CICHO",
+    "display": "CICHO",
+    "clue": "↔ głośno",
+    "enum": "5"
+   },
+   {
+    "num": 9,
+    "dir": "A",
+    "row": 8,
+    "col": 0,
+    "answer": "STOLAT",
+    "display": "STO LAT",
+    "clue": "🎵 „…niech żyje, żyje nam”",
+    "enum": "3, 3"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 11,
+    "col": 6,
+    "answer": "ZIMNO",
+    "display": "ZIMNO",
+    "clue": "↔ ciepło (czyli twój pokój, gdy tata pilnuje kaloryferów)",
+    "enum": "5"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 13,
+    "col": 0,
+    "answer": "SAMOGŁOSKA",
+    "display": "SAMOGŁOSKA",
+    "clue": "A, e, i, o, u, y – i jeszcze ą, ę, ó.",
+    "enum": "10"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 16,
+    "col": 7,
+    "answer": "KOŁDRA",
+    "display": "KOŁDRA",
+    "clue": "Latem jedna noga zawsze musi spod niej wystawać.",
+    "enum": "6"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 3,
+    "answer": "PUSTY",
+    "display": "PUSTY",
+    "clue": "↔ pełny (stan lodówki w niedzielę wieczorem)",
+    "enum": "5"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 1,
+    "col": 5,
+    "answer": "WLAZŁKOTEK",
+    "display": "WLAZŁ KOTEK",
+    "clue": "🎵 „…i mruga, ładna to piosenka, niedługa”",
+    "enum": "5, 5"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 1,
+    "col": 8,
+    "answer": "PLOTTWIST",
+    "display": "PLOT TWIST",
+    "clue": "Nieoczekiwany zwrot akcji – np. kartkówka, która jednak jest.",
+    "enum": "4, 5"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 1,
+    "col": 10,
+    "answer": "PESEL",
+    "display": "PESEL",
+    "clue": "Jedenaście cyfr, z których przedostatnia zdradza płeć.",
+    "enum": "5"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 1,
+    "col": 13,
+    "answer": "KOPERNIK",
+    "display": "KOPERNIK",
+    "clue": "Wstrzymał Słońce, ruszył Ziemię.",
+    "enum": "8"
+   },
+   {
+    "num": 6,
+    "dir": "D",
+    "row": 3,
+    "col": 1,
+    "answer": "SZCZOTECZKA",
+    "display": "SZCZOTECZKA",
+    "clue": "Do zębów – wymieniasz ją, gdy włosie wygląda jak po wybuchu.",
+    "enum": "11"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 10,
+    "col": 3,
+    "answer": "NOSORY",
+    "display": "NO SORY",
+    "clue": "🎶 Przebój sanah, którego tytuł brzmi jak przeprosiny bez przekonania.",
+    "enum": "2, 4"
+   },
+   {
+    "num": 11,
+    "dir": "D",
+    "row": 10,
+    "col": 7,
+    "answer": "WIESZAK",
+    "display": "WIESZAK",
+    "clue": "Krzesło w twoim pokoju od dawna pełni jego funkcję.",
+    "enum": "7"
+   },
+   {
+    "num": 13,
+    "dir": "D",
+    "row": 12,
+    "col": 12,
+    "answer": "MUCHA",
+    "display": "MUCHA",
+    "clue": "Lata po pokoju i zawsze siada akurat na twojej kanapce.",
+    "enum": "5"
+   }
+  ]
+ },
+ {
+  "id": "bigos",
+  "emoji": "🍲",
+  "title": "Bigos",
+  "subtitle": "im dłużej się dusi, tym lepszy",
+  "section": "Sezon 7 · Mix",
+  "width": 13,
+  "height": 15,
+  "entries": [
+   {
+    "num": 1,
+    "dir": "A",
+    "row": 0,
+    "col": 1,
+    "answer": "MOTYL",
+    "display": "MOTYL",
+    "clue": "Gąsienica po glow upie.",
+    "enum": "5"
+   },
+   {
+    "num": 4,
+    "dir": "A",
+    "row": 2,
+    "col": 2,
+    "answer": "LOWKEY",
+    "display": "LOWKEY",
+    "clue": "Trochę, po cichu, nieoficjalnie.",
+    "enum": "6"
+   },
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 4,
+    "col": 1,
+    "answer": "BÓGSIĘRODZI",
+    "display": "BÓG SIĘ RODZI",
+    "clue": "🎵 „…moc truchleje, Pan niebiosów obnażony”",
+    "enum": "3, 3, 5"
+   },
+   {
+    "num": 7,
+    "dir": "A",
+    "row": 6,
+    "col": 2,
+    "answer": "SZKLANKI",
+    "display": "SZKLANKI",
+    "clue": "🎶 Wakacyjny hit Young Leosii z 2021 r.",
+    "enum": "8"
+   },
+   {
+    "num": 11,
+    "dir": "A",
+    "row": 8,
+    "col": 0,
+    "answer": "BALON",
+    "display": "BALON",
+    "clue": "Na urodzinach zawsze jeden pęka komuś przy uchu.",
+    "enum": "5"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 8,
+    "col": 8,
+    "answer": "DRZWI",
+    "display": "DRZWI",
+    "clue": "Pchać czy ciągnąć? Zawsze wybierasz źle.",
+    "enum": "5"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 10,
+    "col": 1,
+    "answer": "ŁYŻECZKA",
+    "display": "ŁYŻECZKA",
+    "clue": "Ginie w zlewie i w zmywarce – nikt nie wie gdzie.",
+    "enum": "8"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 12,
+    "col": 5,
+    "answer": "SKIP",
+    "display": "SKIP",
+    "clue": "Przycisk, który klikasz po pięciu sekundach reklamy.",
+    "enum": "4"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 5,
+    "answer": "LEKKI",
+    "display": "LEKKI",
+    "clue": "↔ ciężki (jak plecak w piątek po szkole)",
+    "enum": "5"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 1,
+    "col": 11,
+    "answer": "MARIA",
+    "display": "MARIA",
+    "clue": "___ Skłodowska-Curie, dwa Noble.",
+    "enum": "5"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 3,
+    "col": 8,
+    "answer": "KOTKIDWA",
+    "display": "KOTKI DWA",
+    "clue": "🎵 „…szare, bure obydwa”",
+    "enum": "5, 3"
+   },
+   {
+    "num": 8,
+    "dir": "D",
+    "row": 6,
+    "col": 4,
+    "answer": "KONIEC",
+    "display": "KONIEC",
+    "clue": "↔ początek",
+    "enum": "6"
+   },
+   {
+    "num": 9,
+    "dir": "D",
+    "row": 7,
+    "col": 1,
+    "answer": "HASŁO",
+    "display": "HASŁO",
+    "clue": "Nie powinno brzmieć „123456”.",
+    "enum": "5"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 7,
+    "col": 12,
+    "answer": "NISKI",
+    "display": "NISKI",
+    "clue": "↔ wysoki",
+    "enum": "5"
+   },
+   {
+    "num": 12,
+    "dir": "D",
+    "row": 8,
+    "col": 6,
+    "answer": "GUZIK",
+    "display": "GUZIK",
+    "clue": "Odpada z ulubionej koszuli tuż przed wyjściem.",
+    "enum": "5"
+   },
+   {
+    "num": 15,
+    "dir": "D",
+    "row": 12,
+    "col": 5,
+    "answer": "SMS",
+    "display": "SMS",
+    "clue": "Kiedyś kosztował 20 groszy, więc liczyło się każdy znak.",
+    "enum": "3"
+   }
+  ]
+ },
+ {
+  "id": "mieszanka",
+  "emoji": "🥜",
+  "title": "Mieszanka studencka",
+  "subtitle": "orzeszki, rodzynki i pytania",
+  "section": "Sezon 7 · Mix",
+  "width": 15,
+  "height": 16,
+  "entries": [
+   {
+    "num": 3,
+    "dir": "A",
+    "row": 1,
+    "col": 4,
+    "answer": "WRÓG",
+    "display": "WRÓG",
+    "clue": "↔ przyjaciel",
+    "enum": "4"
+   },
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 3,
+    "col": 5,
+    "answer": "DROGI",
+    "display": "DROGI",
+    "clue": "↔ tani (jak woda na lotnisku)",
+    "enum": "5"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 6,
+    "col": 0,
+    "answer": "STARYNIEDŹWIEDŹ",
+    "display": "STARY NIEDŹWIEDŹ",
+    "clue": "🎵 „…mocno śpi, my się go boimy, na palcach chodzimy”",
+    "enum": "5, 10"
+   },
+   {
+    "num": 10,
+    "dir": "A",
+    "row": 8,
+    "col": 0,
+    "answer": "VAT",
+    "display": "VAT",
+    "clue": "Podatek doliczany do ceny prawie wszystkiego (skrót).",
+    "enum": "3"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 10,
+    "col": 0,
+    "answer": "NOCAP",
+    "display": "NO CAP",
+    "clue": "Serio, bez ściemy.",
+    "enum": "2, 3"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 11,
+    "col": 6,
+    "answer": "GAUDEAMUS",
+    "display": "GAUDEAMUS",
+    "clue": "🎵 „…igitur, iuvenes dum sumus” – studencki hymn po łacinie",
+    "enum": "9"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 13,
+    "col": 2,
+    "answer": "ORZESZKI",
+    "display": "ORZESZKI",
+    "clue": "Solone, w miseczce na imprezie – znikają pierwsze.",
+    "enum": "8"
+   },
+   {
+    "num": 16,
+    "dir": "A",
+    "row": 15,
+    "col": 1,
+    "answer": "WYKŁAD",
+    "display": "WYKŁAD",
+    "clue": "Siedzisz w ostatnim rzędzie i ładujesz telefon.",
+    "enum": "6"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 2,
+    "answer": "MAŁOMIASTECZKOWY",
+    "display": "MAŁOMIASTECZKOWY",
+    "clue": "🎶 Tytułowy hit z płyty Dawida Podsiadły z 2018 r.",
+    "enum": "16"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 1,
+    "col": 0,
+    "answer": "INDEKS",
+    "display": "INDEKS",
+    "clue": "Kiedyś papierowa książeczka z ocenami na studiach.",
+    "enum": "6"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 1,
+    "col": 5,
+    "answer": "RODZYNKI",
+    "display": "RODZYNKI",
+    "clue": "Te w serniku dzielą ludzkość na dwa obozy.",
+    "enum": "8"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 2,
+    "col": 12,
+    "answer": "STYPENDIUM",
+    "display": "STYPENDIUM",
+    "clue": "Pieniądze za dobre oceny – znikają w tydzień.",
+    "enum": "10"
+   },
+   {
+    "num": 7,
+    "dir": "D",
+    "row": 4,
+    "col": 10,
+    "answer": "KAWA",
+    "display": "KAWA",
+    "clue": "Trzecia przed dziewiątą rano to jeszcze norma?",
+    "enum": "4"
+   },
+   {
+    "num": 9,
+    "dir": "D",
+    "row": 6,
+    "col": 7,
+    "answer": "EUREKA",
+    "display": "EUREKA",
+    "clue": "Okrzyk Archimedesa w wannie.",
+    "enum": "6"
+   },
+   {
+    "num": 11,
+    "dir": "D",
+    "row": 8,
+    "col": 9,
+    "answer": "DEADLINE",
+    "display": "DEADLINE",
+    "clue": "Termin, do którego wszystko robisz w ostatnią noc.",
+    "enum": "8"
+   },
+   {
+    "num": 14,
+    "dir": "D",
+    "row": 11,
+    "col": 14,
+    "answer": "SUCHY",
+    "display": "SUCHY",
+    "clue": "↔ mokry",
+    "enum": "5"
+   }
+  ]
+ },
+ {
+  "id": "kogel-mogel",
+  "emoji": "🍮",
+  "title": "Kogel-mogel",
+  "subtitle": "ucierasz wszystko razem",
+  "section": "Sezon 7 · Mix",
+  "width": 14,
+  "height": 16,
+  "entries": [
+   {
+    "num": 1,
+    "dir": "A",
+    "row": 0,
+    "col": 0,
+    "answer": "CUKIER",
+    "display": "CUKIER",
+    "clue": "Z żółtkiem ucierany na kogel-mogel.",
+    "enum": "6"
+   },
+   {
+    "num": 4,
+    "dir": "A",
+    "row": 2,
+    "col": 1,
+    "answer": "ICK",
+    "display": "ICK",
+    "clue": "Nagła odraza do kogoś, np. bo zobaczyłaś, jak biegnie za autobusem.",
+    "enum": "3"
+   },
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 2,
+    "col": 5,
+    "answer": "ODPOWIEDŹ",
+    "display": "ODPOWIEDŹ",
+    "clue": "↔ pytanie",
+    "enum": "9"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 4,
+    "col": 7,
+    "answer": "CIEMNO",
+    "display": "CIEMNO",
+    "clue": "↔ jasno",
+    "enum": "6"
+   },
+   {
+    "num": 10,
+    "dir": "A",
+    "row": 7,
+    "col": 9,
+    "answer": "PŁACZ",
+    "display": "PŁACZ",
+    "clue": "↔ śmiech",
+    "enum": "5"
+   },
+   {
+    "num": 11,
+    "dir": "A",
+    "row": 8,
+    "col": 0,
+    "answer": "ESPRESSO",
+    "display": "ESPRESSO",
+    "clue": "🎶 Hit Sabriny Carpenter, który brzmi jak zamówienie w kawiarni.",
+    "enum": "8"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 10,
+    "col": 5,
+    "answer": "NIL",
+    "display": "NIL",
+    "clue": "Najdłuższa rzeka Afryki.",
+    "enum": "3"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 12,
+    "col": 0,
+    "answer": "LULAJŻEJEZUNIU",
+    "display": "LULAJŻE JEZUNIU",
+    "clue": "🎵 „…moja perełko, lulaj, ulubione me pieścidełko”",
+    "enum": "7, 7"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 14,
+    "col": 5,
+    "answer": "PANDA",
+    "display": "PANDA",
+    "clue": "Je bambus przez pół dnia i i tak jest pulchna.",
+    "enum": "5"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 5,
+    "answer": "RKO",
+    "display": "RKO",
+    "clue": "30 uciśnięć i 2 wdechy (skrót).",
+    "enum": "3"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 1,
+    "col": 8,
+    "answer": "BOCIAN",
+    "display": "BOCIAN",
+    "clue": "Według bajek przynosi dzieci.",
+    "enum": "6"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 2,
+    "col": 3,
+    "answer": "KÓŁKOGRANIASTE",
+    "display": "KÓŁKO GRANIASTE",
+    "clue": "🎵 „…czworokanciaste”",
+    "enum": "5, 9"
+   },
+   {
+    "num": 7,
+    "dir": "D",
+    "row": 2,
+    "col": 12,
+    "answer": "DOOMSCROLLING",
+    "display": "DOOMSCROLLING",
+    "clue": "Przewijanie złych newsów do trzeciej w nocy.",
+    "enum": "13"
+   },
+   {
+    "num": 9,
+    "dir": "D",
+    "row": 6,
+    "col": 6,
+    "answer": "DISLIKE",
+    "display": "DISLIKE",
+    "clue": "Łapka w dół, której licznik YouTube schował w 2021 r.",
+    "enum": "7"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 7,
+    "col": 9,
+    "answer": "PODUSZKA",
+    "display": "PODUSZKA",
+    "clue": "Odwracasz ją na zimną stronę w upalną noc.",
+    "enum": "8"
+   },
+   {
+    "num": 12,
+    "dir": "D",
+    "row": 8,
+    "col": 1,
+    "answer": "SKORUPKA",
+    "display": "SKORUPKA",
+    "clue": "Zawsze jedna wpada do ciasta.",
+    "enum": "8"
+   }
+  ]
+ },
+ {
+  "id": "groch",
+  "emoji": "🫛",
+  "title": "Groch z kapustą",
+  "subtitle": "i nikt nie wie, co dalej",
+  "section": "Sezon 7 · Mix",
+  "width": 14,
+  "height": 17,
+  "entries": [
+   {
+    "num": 5,
+    "dir": "A",
+    "row": 2,
+    "col": 5,
+    "answer": "GWARANCJA",
+    "display": "GWARANCJA",
+    "clue": "Kończy się dzień przed tym, jak sprzęt się psuje.",
+    "enum": "9"
+   },
+   {
+    "num": 7,
+    "dir": "A",
+    "row": 4,
+    "col": 7,
+    "answer": "EVEREST",
+    "display": "EVEREST",
+    "clue": "Najwyższa góra świata.",
+    "enum": "7"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 5,
+    "col": 1,
+    "answer": "PLAMA",
+    "display": "PLAMA",
+    "clue": "Zawsze na białej koszulce i zawsze od keczupu.",
+    "enum": "5"
+   },
+   {
+    "num": 10,
+    "dir": "A",
+    "row": 8,
+    "col": 2,
+    "answer": "BYŁSOBIEKRÓL",
+    "display": "BYŁ SOBIE KRÓL",
+    "clue": "🎵 „…był sobie paź i była też królewna”",
+    "enum": "3, 5, 4"
+   },
+   {
+    "num": 11,
+    "dir": "A",
+    "row": 10,
+    "col": 4,
+    "answer": "NARA",
+    "display": "NARA",
+    "clue": "↔ siema (na pożegnanie)",
+    "enum": "4"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 11,
+    "col": 0,
+    "answer": "MID",
+    "display": "MID",
+    "clue": "Ani dobre, ani złe – takie se.",
+    "enum": "3"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 12,
+    "col": 4,
+    "answer": "SOCZEWKI",
+    "display": "SOCZEWKI",
+    "clue": "Kontaktowe – wkładasz je palcem i modlisz się, żeby nie mrugnąć.",
+    "enum": "8"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 15,
+    "col": 8,
+    "answer": "GORZKI",
+    "display": "GORZKI",
+    "clue": "↔ słodki (smak kawy bez cukru)",
+    "enum": "6"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 3,
+    "answer": "SAHARA",
+    "display": "SAHARA",
+    "clue": "Największa gorąca pustynia świata.",
+    "enum": "6"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 11,
+    "answer": "OJCIECWIRGILIUSZ",
+    "display": "OJCIEC WIRGILIUSZ",
+    "clue": "🎵 „…uczył dzieci swoje, a miał ich wszystkich sto dwadzieścia troje”",
+    "enum": "6, 10"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 1,
+    "col": 7,
+    "answer": "ZAMEK",
+    "display": "ZAMEK",
+    "clue": "Błyskawiczny – zacina się dokładnie wtedy, gdy się spieszysz.",
+    "enum": "5"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 1,
+    "col": 9,
+    "answer": "BASED",
+    "display": "BASED",
+    "clue": "Mówi, co myśli, i ma w nosie opinię tłumu.",
+    "enum": "5"
+   },
+   {
+    "num": 6,
+    "dir": "D",
+    "row": 4,
+    "col": 5,
+    "answer": "KAPUSTA",
+    "display": "KAPUSTA",
+    "clue": "Kiszona zimą trzyma Polaków przy życiu.",
+    "enum": "7"
+   },
+   {
+    "num": 9,
+    "dir": "D",
+    "row": 7,
+    "col": 13,
+    "answer": "FLOWERS",
+    "display": "FLOWERS",
+    "clue": "🎶 Hit Miley Cyrus z 2023 r. o kupowaniu kwiatów samej sobie.",
+    "enum": "7"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 8,
+    "col": 2,
+    "answer": "BRUDNY",
+    "display": "BRUDNY",
+    "clue": "↔ czysty (stan auta po zimie)",
+    "enum": "6"
+   },
+   {
+    "num": 12,
+    "dir": "D",
+    "row": 11,
+    "col": 0,
+    "answer": "MIĘKKI",
+    "display": "MIĘKKI",
+    "clue": "↔ twardy",
+    "enum": "6"
+   }
+  ]
+ },
+ {
+  "id": "szwedzki-stol",
+  "emoji": "🍽️",
+  "title": "Szwedzki stół",
+  "subtitle": "bierzesz wszystkiego po trochu",
+  "section": "Sezon 7 · Mix",
+  "width": 15,
+  "height": 17,
+  "entries": [
+   {
+    "num": 2,
+    "dir": "A",
+    "row": 1,
+    "col": 1,
+    "answer": "SHADOWBAN",
+    "display": "SHADOWBAN",
+    "clue": "Platforma po cichu ukrywa twoje posty, a ty nawet nie wiesz, czym podpadłeś.",
+    "enum": "9"
+   },
+   {
+    "num": 3,
+    "dir": "A",
+    "row": 3,
+    "col": 0,
+    "answer": "PŁYNIEWISŁA",
+    "display": "PŁYNIE WISŁA",
+    "clue": "🎵 „…płynie, po polskiej krainie”",
+    "enum": "6, 5"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 6,
+    "col": 3,
+    "answer": "LEVITATING",
+    "display": "LEVITATING",
+    "clue": "🎶 Hit Dui Lipy o unoszeniu się w powietrzu z zakochania.",
+    "enum": "10"
+   },
+   {
+    "num": 10,
+    "dir": "A",
+    "row": 10,
+    "col": 2,
+    "answer": "NIGDY",
+    "display": "NIGDY",
+    "clue": "↔ zawsze",
+    "enum": "5"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 12,
+    "col": 7,
+    "answer": "SERWETKA",
+    "display": "SERWETKA",
+    "clue": "Na weselu składa się z niej łabędzia.",
+    "enum": "8"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 16,
+    "col": 1,
+    "answer": "TOUCHGRASS",
+    "display": "TOUCH GRASS",
+    "clue": "Rada dla kogoś, kto za długo siedzi w sieci.",
+    "enum": "5, 5"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 5,
+    "answer": "NOBEL",
+    "display": "NOBEL",
+    "clue": "Nagroda wręczana w Sztokholmie (a pokojowa w Oslo).",
+    "enum": "5"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 1,
+    "col": 1,
+    "answer": "SKŁADNIKI",
+    "display": "SKŁADNIKI",
+    "clue": "Lista na etykiecie, którą czytasz, gdy masz alergię.",
+    "enum": "9"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 3,
+    "col": 8,
+    "answer": "SZŁADZIEWECZKA",
+    "display": "SZŁA DZIEWECZKA",
+    "clue": "🎵 „…do laseczka, do zielonego”",
+    "enum": "4, 10"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 5,
+    "col": 3,
+    "answer": "KLOPSIKI",
+    "display": "KLOPSIKI",
+    "clue": "Szwedzkie kuleczki z mięsa z sosem i borówką.",
+    "enum": "8"
+   },
+   {
+    "num": 6,
+    "dir": "D",
+    "row": 5,
+    "col": 6,
+    "answer": "BIEDNY",
+    "display": "BIEDNY",
+    "clue": "↔ bogaty",
+    "enum": "6"
+   },
+   {
+    "num": 7,
+    "dir": "D",
+    "row": 5,
+    "col": 10,
+    "answer": "WIKINGOWIE",
+    "display": "WIKINGOWIE",
+    "clue": "Skandynawscy żeglarze, którzy wbrew filmom nie mieli rogów na hełmach.",
+    "enum": "10"
+   },
+   {
+    "num": 9,
+    "dir": "D",
+    "row": 7,
+    "col": 14,
+    "answer": "ŚNIADANIE",
+    "display": "ŚNIADANIE",
+    "clue": "Najważniejszy posiłek dnia, który pomijasz codziennie.",
+    "enum": "9"
+   },
+   {
+    "num": 11,
+    "dir": "D",
+    "row": 10,
+    "col": 12,
+    "answer": "SZTUĆCE",
+    "display": "SZTUĆCE",
+    "clue": "Nóż, widelec i łyżka razem.",
+    "enum": "7"
+   },
+   {
+    "num": 12,
+    "dir": "D",
+    "row": 12,
+    "col": 1,
+    "answer": "BUFET",
+    "display": "BUFET",
+    "clue": "Szwedzki stół inaczej – idziesz trzy razy po dokładkę.",
+    "enum": "5"
+   },
+   {
+    "num": 14,
+    "dir": "D",
+    "row": 13,
+    "col": 5,
+    "answer": "PECH",
+    "display": "PECH",
+    "clue": "↔ szczęście (czarny kot właśnie przebiegł drogę)",
+    "enum": "4"
+   }
+  ]
+ },
+ {
+  "id": "losowanko",
+  "emoji": "🎲",
+  "title": "Losowanko",
+  "subtitle": "co wypadnie, to wypadnie",
+  "section": "Sezon 7 · Mix",
+  "width": 12,
+  "height": 15,
+  "entries": [
+   {
+    "num": 2,
+    "dir": "A",
+    "row": 0,
+    "col": 6,
+    "answer": "BADGUY",
+    "display": "BAD GUY",
+    "clue": "🎶 Szeptany hit Billie Eilish z 2019 r. z dudniącym basem.",
+    "enum": "3, 3"
+   },
+   {
+    "num": 5,
+    "dir": "A",
+    "row": 2,
+    "col": 4,
+    "answer": "MONETA",
+    "display": "MONETA",
+    "clue": "Rzucasz nią, żeby podjąć decyzję – orzeł czy reszka.",
+    "enum": "6"
+   },
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 3,
+    "col": 0,
+    "answer": "RATIO",
+    "display": "RATIO",
+    "clue": "Gdy odpowiedź pod twoim postem ma więcej lajków niż sam post.",
+    "enum": "5"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 4,
+    "col": 6,
+    "answer": "DOMINO",
+    "display": "DOMINO",
+    "clue": "Efekt ___ – jedno pociąga za sobą całą resztę.",
+    "enum": "6"
+   },
+   {
+    "num": 9,
+    "dir": "A",
+    "row": 6,
+    "col": 2,
+    "answer": "ZACHÓD",
+    "display": "ZACHÓD",
+    "clue": "↔ wschód (słońca)",
+    "enum": "6"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 9,
+    "col": 3,
+    "answer": "LASVEGAS",
+    "display": "LAS VEGAS",
+    "clue": "Miasto kasyn na pustyni w Nevadzie.",
+    "enum": "3, 5"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 11,
+    "col": 0,
+    "answer": "ZAGADKA",
+    "display": "ZAGADKA",
+    "clue": "„Co ma klucze, ale nie otwiera drzwi?” – to właśnie ona (odpowiedź: pianino).",
+    "enum": "7"
+   },
+   {
+    "num": 16,
+    "dir": "A",
+    "row": 12,
+    "col": 7,
+    "answer": "HAŁAS",
+    "display": "HAŁAS",
+    "clue": "↔ cisza (czyli sąsiad z wiertarką)",
+    "enum": "5"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 4,
+    "answer": "JOMO",
+    "display": "JOMO",
+    "clue": "Radość z tego, że nigdzie nie idziesz – odwrotność FOMO.",
+    "enum": "4"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 0,
+    "col": 9,
+    "answer": "GRAWITACJA",
+    "display": "GRAWITACJA",
+    "clue": "Przez nią kanapka zawsze spada masłem w dół.",
+    "enum": "10"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 1,
+    "col": 0,
+    "answer": "PORAŻKA",
+    "display": "PORAŻKA",
+    "clue": "↔ sukces",
+    "enum": "7"
+   },
+   {
+    "num": 7,
+    "dir": "D",
+    "row": 3,
+    "col": 11,
+    "answer": "KOSTKA",
+    "display": "KOSTKA",
+    "clue": "Do gry – sześć ścianek, a i tak zawsze wypada jedynka.",
+    "enum": "6"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 6,
+    "col": 5,
+    "answer": "HEJSOKOŁY",
+    "display": "HEJ SOKOŁY",
+    "clue": "🎵 „…omijajcie góry, lasy, doły”",
+    "enum": "3, 6"
+   },
+   {
+    "num": 11,
+    "dir": "D",
+    "row": 9,
+    "col": 1,
+    "answer": "TRAF",
+    "display": "TRAF",
+    "clue": "Ślepy ___ – czyli czyste szczęście.",
+    "enum": "4"
+   },
+   {
+    "num": 13,
+    "dir": "D",
+    "row": 9,
+    "col": 8,
+    "answer": "GÓRALU",
+    "display": "GÓRALU",
+    "clue": "🎵 „…odchodzić od stron ojczystych, świerkowych lasów i hal” – ___, czy ci nie żal",
+    "enum": "6"
+   },
+   {
+    "num": 14,
+    "dir": "D",
+    "row": 10,
+    "col": 11,
+    "answer": "KASK",
+    "display": "KASK",
+    "clue": "Na rowerze i hulajnodze ratuje głowę.",
+    "enum": "4"
+   }
+  ]
+ },
+ {
+  "id": "chaos",
+  "emoji": "🌀",
+  "title": "Chaos kontrolowany",
+  "subtitle": "wszystko pod kontrolą (nie)",
+  "section": "Sezon 7 · Mix",
+  "width": 15,
+  "height": 16,
+  "entries": [
+   {
+    "num": 1,
+    "dir": "A",
+    "row": 0,
+    "col": 3,
+    "answer": "WOLNO",
+    "display": "WOLNO",
+    "clue": "↔ szybko (prędkość Wi-Fi w hotelu)",
+    "enum": "5"
+   },
+   {
+    "num": 2,
+    "dir": "A",
+    "row": 0,
+    "col": 9,
+    "answer": "MURPHY",
+    "display": "MURPHY",
+    "clue": "Prawo ___: jeśli coś może pójść źle, to pójdzie.",
+    "enum": "6"
+   },
+   {
+    "num": 4,
+    "dir": "A",
+    "row": 2,
+    "col": 0,
+    "answer": "ENTROPIA",
+    "display": "ENTROPIA",
+    "clue": "Miara nieporządku – naukowe wytłumaczenie twojego pokoju.",
+    "enum": "8"
+   },
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 4,
+    "col": 3,
+    "answer": "DĄBROWSKIEGO",
+    "display": "DĄBROWSKIEGO",
+    "clue": "🎵 „…kiedy my żyjemy” – Mazurek ___",
+    "enum": "12"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 6,
+    "col": 7,
+    "answer": "KABLE",
+    "display": "KABLE",
+    "clue": "Splątane za biurkiem tak, że nikt nie wie, co jest od czego.",
+    "enum": "5"
+   },
+   {
+    "num": 9,
+    "dir": "A",
+    "row": 8,
+    "col": 5,
+    "answer": "POŁUDNIE",
+    "display": "POŁUDNIE",
+    "clue": "↔ północ",
+    "enum": "8"
+   },
+   {
+    "num": 11,
+    "dir": "A",
+    "row": 10,
+    "col": 5,
+    "answer": "SZUFLADA",
+    "display": "SZUFLADA",
+    "clue": "Ta jedna w kuchni, w której są baterie, gumki i klucz od niczego.",
+    "enum": "8"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 12,
+    "col": 1,
+    "answer": "ASITWAS",
+    "display": "AS IT WAS",
+    "clue": "🎶 Hit Harry’ego Stylesa z 2022 r. – tytuł znaczy „tak, jak było”.",
+    "enum": "2, 2, 3"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 14,
+    "col": 6,
+    "answer": "BAŁAGAN",
+    "display": "BAŁAGAN",
+    "clue": "„To nie ___, to system” – mówisz o swoim pokoju.",
+    "enum": "7"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 3,
+    "answer": "WŚRÓDNOCNEJCISZY",
+    "display": "WŚRÓD NOCNEJ CISZY",
+    "clue": "🎵 „…głos się rozchodzi: wstańcie, pasterze”",
+    "enum": "5, 6, 5"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 9,
+    "answer": "MINUS",
+    "display": "MINUS",
+    "clue": "↔ plus",
+    "enum": "5"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 1,
+    "col": 0,
+    "answer": "TERMIN",
+    "display": "TERMIN",
+    "clue": "Ostateczny ___ – po angielsku deadline.",
+    "enum": "6"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 3,
+    "col": 14,
+    "answer": "GOBLINMODE",
+    "display": "GOBLIN MODE",
+    "clue": "Słowo roku Oxfordu 2022: leżenie w dresie i zero ambicji.",
+    "enum": "6, 4"
+   },
+   {
+    "num": 7,
+    "dir": "D",
+    "row": 4,
+    "col": 10,
+    "answer": "KALENDARZ",
+    "display": "KALENDARZ",
+    "clue": "Wpisujesz do niego plany, których i tak nie zrealizujesz.",
+    "enum": "9"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 10,
+    "col": 1,
+    "answer": "PLANB",
+    "display": "PLAN B",
+    "clue": "Na wypadek, gdyby plan A nie wypalił.",
+    "enum": "4, 1"
+   },
+   {
+    "num": 13,
+    "dir": "D",
+    "row": 12,
+    "col": 7,
+    "answer": "SPAM",
+    "display": "SPAM",
+    "clue": "Wiadomości, których nikt nie chciał.",
+    "enum": "4"
+   }
+  ]
+ },
+ {
+  "id": "z-kazdej-beczki",
+  "emoji": "🛢️",
+  "title": "Z każdej beczki",
+  "subtitle": "po trochu, ale z sensem",
+  "section": "Sezon 7 · Mix",
+  "width": 15,
+  "height": 17,
+  "entries": [
+   {
+    "num": 1,
+    "dir": "A",
+    "row": 0,
+    "col": 0,
+    "answer": "PRZEGRANA",
+    "display": "PRZEGRANA",
+    "clue": "↔ wygrana",
+    "enum": "9"
+   },
+   {
+    "num": 5,
+    "dir": "A",
+    "row": 3,
+    "col": 0,
+    "answer": "BLINDINGLIGHTS",
+    "display": "BLINDING LIGHTS",
+    "clue": "🎶 Synthpopowy hit The Weeknda z czerwoną marynarką w teledysku.",
+    "enum": "8, 6"
+   },
+   {
+    "num": 7,
+    "dir": "A",
+    "row": 5,
+    "col": 0,
+    "answer": "DIOGENES",
+    "display": "DIOGENES",
+    "clue": "Grecki filozof, który mieszkał w beczce.",
+    "enum": "8"
+   },
+   {
+    "num": 11,
+    "dir": "A",
+    "row": 9,
+    "col": 9,
+    "answer": "BECZKA",
+    "display": "BECZKA",
+    "clue": "Śmiech jak z ___ – albo ogórki kiszone w niej.",
+    "enum": "6"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 10,
+    "col": 0,
+    "answer": "PIKNIK",
+    "display": "PIKNIK",
+    "clue": "Koc, kanapki i mrówki, które przyszły bez zaproszenia.",
+    "enum": "6"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 12,
+    "col": 4,
+    "answer": "STAN",
+    "display": "STAN",
+    "clue": "Fan, który przesadza – od piosenki Eminema.",
+    "enum": "4"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 14,
+    "col": 11,
+    "answer": "ROTA",
+    "display": "ROTA",
+    "clue": "🎵 „Nie rzucim ziemi, skąd nasz ród…”",
+    "enum": "4"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 16,
+    "col": 6,
+    "answer": "KŁAMSTWO",
+    "display": "KŁAMSTWO",
+    "clue": "↔ prawda (np. „przeczytałem regulamin”)",
+    "enum": "8"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 5,
+    "answer": "RUMIENIEC",
+    "display": "RUMIENIEC",
+    "clue": "Pojawia się, gdy crush napisze „hej”.",
+    "enum": "9"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 0,
+    "col": 13,
+    "answer": "EINSTEIN",
+    "display": "EINSTEIN",
+    "clue": "E = mc².",
+    "enum": "8"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 1,
+    "col": 9,
+    "answer": "DZISIAJWBETLEJEM",
+    "display": "DZISIAJ W BETLEJEM",
+    "clue": "🎵 „…wesoła nowina, że Panna czysta porodziła Syna”",
+    "enum": "7, 1, 8"
+   },
+   {
+    "num": 6,
+    "dir": "D",
+    "row": 3,
+    "col": 7,
+    "answer": "GASLIGHTING",
+    "display": "GASLIGHTING",
+    "clue": "Wmawianie komuś, że mu się tylko wydaje – słowo roku Merriam-Webster 2022.",
+    "enum": "11"
+   },
+   {
+    "num": 8,
+    "dir": "D",
+    "row": 5,
+    "col": 2,
+    "answer": "OGÓREK",
+    "display": "OGÓREK",
+    "clue": "Kiszony – polski probiotyk.",
+    "enum": "6"
+   },
+   {
+    "num": 9,
+    "dir": "D",
+    "row": 5,
+    "col": 11,
+    "answer": "WYJŚCIE",
+    "display": "WYJŚCIE",
+    "clue": "↔ wejście (ewakuacyjne – zielona tabliczka nad drzwiami)",
+    "enum": "7"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 8,
+    "col": 14,
+    "answer": "GAŚNICA",
+    "display": "GAŚNICA",
+    "clue": "Czerwona butla na korytarzu – warto wiedzieć, gdzie wisi.",
+    "enum": "7"
+   },
+   {
+    "num": 13,
+    "dir": "D",
+    "row": 12,
+    "col": 4,
+    "answer": "SKARB",
+    "display": "SKARB",
+    "clue": "Mapa z krzyżykiem prowadzi właśnie do niego.",
+    "enum": "5"
+   }
+  ]
+ },
+ {
+  "id": "kompot",
+  "emoji": "🧃",
+  "title": "Kompot",
+  "subtitle": "z tego, co było w ogródku",
+  "section": "Sezon 7 · Mix",
+  "width": 15,
+  "height": 17,
+  "entries": [
+   {
+    "num": 4,
+    "dir": "A",
+    "row": 2,
+    "col": 7,
+    "answer": "WIECZÓR",
+    "display": "WIECZÓR",
+    "clue": "↔ rano",
+    "enum": "7"
+   },
+   {
+    "num": 5,
+    "dir": "A",
+    "row": 4,
+    "col": 6,
+    "answer": "ŚLIWKA",
+    "display": "ŚLIWKA",
+    "clue": "Węgierka w kompocie – zawsze z pestką.",
+    "enum": "6"
+   },
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 7,
+    "col": 1,
+    "answer": "SOK",
+    "display": "SOK",
+    "clue": "Tłoczony z jabłek – zdrowszy niż napój z kolorowej butelki.",
+    "enum": "3"
+   },
+   {
+    "num": 7,
+    "dir": "A",
+    "row": 7,
+    "col": 9,
+    "answer": "EWA",
+    "display": "EWA",
+    "clue": "Według Biblii zjadła zakazany owoc.",
+    "enum": "3"
+   },
+   {
+    "num": 9,
+    "dir": "A",
+    "row": 9,
+    "col": 0,
+    "answer": "GDYŚLICZNAPANNA",
+    "display": "GDY ŚLICZNA PANNA",
+    "clue": "🎵 „…Syna kołysała, z wielkim weselem tak Jemu śpiewała”",
+    "enum": "3, 7, 5"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 12,
+    "col": 7,
+    "answer": "GŁUPI",
+    "display": "GŁUPI",
+    "clue": "↔ mądry",
+    "enum": "5"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 13,
+    "col": 1,
+    "answer": "ERA",
+    "display": "ERA",
+    "clue": "„Jestem w swojej ___ spokoju” – czyli etap życia.",
+    "enum": "3"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 15,
+    "col": 5,
+    "answer": "APT",
+    "display": "APT",
+    "clue": "🎶 Hit Rosé i Bruno Marsa z 2024 r., nazwany od koreańskiej gry imprezowej.",
+    "enum": "3"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 16,
+    "col": 8,
+    "answer": "ROBAK",
+    "display": "ROBAK",
+    "clue": "W jabłku źle, a w połowie jabłka – jeszcze gorzej.",
+    "enum": "5"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 9,
+    "answer": "CZERWONEJABŁUSZKO",
+    "display": "CZERWONE JABŁUSZKO",
+    "clue": "🎵 „…przekrojone na krzyż”",
+    "enum": "8, 9"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 1,
+    "col": 11,
+    "answer": "DZIAŁKA",
+    "display": "DZIAŁKA",
+    "clue": "Ogródek za miastem z altanką i grillem.",
+    "enum": "7"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 1,
+    "col": 13,
+    "answer": "KRÓTKI",
+    "display": "KRÓTKI",
+    "clue": "↔ długi (jak każdy weekend)",
+    "enum": "6"
+   },
+   {
+    "num": 6,
+    "dir": "D",
+    "row": 7,
+    "col": 1,
+    "answer": "SIDEQUEST",
+    "display": "SIDE QUEST",
+    "clue": "Poboczna misja, np. zgubienie się w Ikei w drodze po klopsiki.",
+    "enum": "4, 5"
+   },
+   {
+    "num": 8,
+    "dir": "D",
+    "row": 8,
+    "col": 5,
+    "answer": "WITAMINA",
+    "display": "WITAMINA",
+    "clue": "C jest jej w natce pietruszki więcej niż w cytrynie.",
+    "enum": "8"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 9,
+    "col": 13,
+    "answer": "NEWTON",
+    "display": "NEWTON",
+    "clue": "Spadło mu jabłko na głowę (podobno).",
+    "enum": "6"
+   },
+   {
+    "num": 11,
+    "dir": "D",
+    "row": 11,
+    "col": 11,
+    "answer": "WIŚNIA",
+    "display": "WIŚNIA",
+    "clue": "Pestką z niej strzela się na odległość.",
+    "enum": "6"
+   }
+  ]
+ },
+ {
+  "id": "szuflada",
+  "emoji": "🗄️",
+  "title": "Szuflada ze wszystkim",
+  "subtitle": "baterie, gumki i klucz od niczego",
+  "section": "Sezon 7 · Mix",
+  "width": 15,
+  "height": 16,
+  "entries": [
+   {
+    "num": 1,
+    "dir": "A",
+    "row": 0,
+    "col": 1,
+    "answer": "BEZPIECZNIKI",
+    "display": "BEZPIECZNIKI",
+    "clue": "Wybijają, gdy włączysz czajnik i suszarkę naraz.",
+    "enum": "12"
+   },
+   {
+    "num": 5,
+    "dir": "A",
+    "row": 2,
+    "col": 10,
+    "answer": "WĄSKI",
+    "display": "WĄSKI",
+    "clue": "↔ szeroki",
+    "enum": "5"
+   },
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 3,
+    "col": 1,
+    "answer": "NARNIA",
+    "display": "NARNIA",
+    "clue": "Kraina, do której wchodziło się przez szafę.",
+    "enum": "6"
+   },
+   {
+    "num": 9,
+    "dir": "A",
+    "row": 5,
+    "col": 3,
+    "answer": "LIST",
+    "display": "LIST",
+    "clue": "Papierowy – ostatni dostałeś chyba od babci.",
+    "enum": "4"
+   },
+   {
+    "num": 11,
+    "dir": "A",
+    "row": 7,
+    "col": 0,
+    "answer": "KLUCZ",
+    "display": "KLUCZ",
+    "clue": "Do niczego – każdy dom ma jeden taki.",
+    "enum": "5"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 9,
+    "col": 1,
+    "answer": "WARSZAWIANKA",
+    "display": "WARSZAWIANKA",
+    "clue": "🎵 „Oto dziś dzień krwi i chwały…”",
+    "enum": "12"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 12,
+    "col": 4,
+    "answer": "DANCEMONKEY",
+    "display": "DANCE MONKEY",
+    "clue": "🎶 Hit Tones and I z 2019 r., który grało każde radio.",
+    "enum": "5, 6"
+   },
+   {
+    "num": 16,
+    "dir": "A",
+    "row": 14,
+    "col": 1,
+    "answer": "PŁYTKI",
+    "display": "PŁYTKI",
+    "clue": "↔ głęboki (jak brodzik dla dzieci)",
+    "enum": "6"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 12,
+    "answer": "INSTRUKCJA",
+    "display": "INSTRUKCJA",
+    "clue": "Czytasz ją dopiero, gdy coś już zepsujesz.",
+    "enum": "10"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 0,
+    "col": 14,
+    "answer": "SPINACZ",
+    "display": "SPINACZ",
+    "clue": "Mały drucik do kartek, który zawsze rozginasz z nudów.",
+    "enum": "7"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 2,
+    "col": 1,
+    "answer": "UNFOLLOW",
+    "display": "UNFOLLOW",
+    "clue": "↔ follow",
+    "enum": "8"
+   },
+   {
+    "num": 7,
+    "dir": "D",
+    "row": 4,
+    "col": 8,
+    "answer": "WŻŁOBIELEŻY",
+    "display": "W ŻŁOBIE LEŻY",
+    "clue": "🎵 „…któż pobieży kolędować Małemu”",
+    "enum": "1, 6, 4"
+   },
+   {
+    "num": 8,
+    "dir": "D",
+    "row": 4,
+    "col": 10,
+    "answer": "SCREENSHOT",
+    "display": "SCREENSHOT",
+    "clue": "Dowód w każdej dramie.",
+    "enum": "10"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 5,
+    "col": 6,
+    "answer": "TAŚMA",
+    "display": "TAŚMA",
+    "clue": "Klejąca – nigdy nie możesz znaleźć jej początku.",
+    "enum": "5"
+   },
+   {
+    "num": 13,
+    "dir": "D",
+    "row": 9,
+    "col": 5,
+    "answer": "ZAPAŁKI",
+    "display": "ZAPAŁKI",
+    "clue": "Na wypadek, gdyby nie było prądu.",
+    "enum": "7"
+   },
+   {
+    "num": 14,
+    "dir": "D",
+    "row": 9,
+    "col": 14,
+    "answer": "BRZYDKI",
+    "display": "BRZYDKI",
+    "clue": "↔ ładny",
+    "enum": "7"
+   }
+  ]
+ },
+ {
+  "id": "miszmasz",
+  "emoji": "🌪️",
+  "title": "Miszmasz",
+  "subtitle": "kto to układał?!",
+  "section": "Sezon 7 · Mix",
+  "width": 15,
+  "height": 17,
+  "entries": [
+   {
+    "num": 1,
+    "dir": "A",
+    "row": 0,
+    "col": 0,
+    "answer": "KOLUMB",
+    "display": "KOLUMB",
+    "clue": "Płynął do Indii, a trafił do Ameryki.",
+    "enum": "6"
+   },
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 3,
+    "col": 2,
+    "answer": "OLDTOWNROAD",
+    "display": "OLD TOWN ROAD",
+    "clue": "🎶 Country-rap Lil Nasa X o jeździe konnej, który pobił rekordy list przebojów.",
+    "enum": "3, 4, 4"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 6,
+    "col": 6,
+    "answer": "RECYKLING",
+    "display": "RECYKLING",
+    "clue": "Segregujesz śmieci, żeby dostały drugie życie.",
+    "enum": "9"
+   },
+   {
+    "num": 11,
+    "dir": "A",
+    "row": 9,
+    "col": 0,
+    "answer": "PIERWSZABRYGADA",
+    "display": "PIERWSZA BRYGADA",
+    "clue": "🎵 „Legiony to żołnierska nuta, legiony to straceńców los”",
+    "enum": "8, 7"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 12,
+    "col": 3,
+    "answer": "CZKAWKA",
+    "display": "CZKAWKA",
+    "clue": "Podobno pomaga na nią, jak ktoś cię nagle przestraszy.",
+    "enum": "7"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 15,
+    "col": 0,
+    "answer": "WIATRAK",
+    "display": "WIATRAK",
+    "clue": "Kręci się w upał, a i tak jest gorąco.",
+    "enum": "7"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 16,
+    "col": 11,
+    "answer": "VIBE",
+    "display": "VIBE",
+    "clue": "Klimat, nastrój – „dobry ___”.",
+    "enum": "4"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 0,
+    "answer": "KRZESŁO",
+    "display": "KRZESŁO",
+    "clue": "Bujasz się na nim, aż w końcu spadasz.",
+    "enum": "7"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 4,
+    "answer": "MŁODY",
+    "display": "MŁODY",
+    "clue": "↔ stary",
+    "enum": "5"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 0,
+    "col": 11,
+    "answer": "DYWAN",
+    "display": "DYWAN",
+    "clue": "Pod niego zamiata się problemy.",
+    "enum": "5"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 2,
+    "col": 2,
+    "answer": "ŁOKIEĆ",
+    "display": "ŁOKIEĆ",
+    "clue": "Uderzasz nim w kant i czujesz prąd w całej ręce.",
+    "enum": "6"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 2,
+    "col": 6,
+    "answer": "BOGURODZICA",
+    "display": "BOGURODZICA",
+    "clue": "🎵 „…dziewica, Bogiem sławiena Maryja”",
+    "enum": "11"
+   },
+   {
+    "num": 7,
+    "dir": "D",
+    "row": 5,
+    "col": 12,
+    "answer": "NIENAWIŚĆ",
+    "display": "NIENAWIŚĆ",
+    "clue": "↔ miłość",
+    "enum": "9"
+   },
+   {
+    "num": 9,
+    "dir": "D",
+    "row": 8,
+    "col": 1,
+    "answer": "KISZONKI",
+    "display": "KISZONKI",
+    "clue": "Ogórki i kapusta, które babcia robi na zimę.",
+    "enum": "8"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 8,
+    "col": 14,
+    "answer": "ZAMKNIĘTE",
+    "display": "ZAMKNIĘTE",
+    "clue": "↔ otwarte (sklepy w niedzielę)",
+    "enum": "9"
+   },
+   {
+    "num": 12,
+    "dir": "D",
+    "row": 11,
+    "col": 9,
+    "answer": "MAMUT",
+    "display": "MAMUT",
+    "clue": "Wymarły kosmaty słoń z epoki lodowcowej.",
+    "enum": "5"
+   }
+  ]
+ },
+ {
+  "id": "pizza",
+  "emoji": "🍕",
+  "title": "Pizza ze wszystkim",
+  "subtitle": "ananas też jest",
+  "section": "Sezon 7 · Mix",
+  "width": 15,
+  "height": 17,
+  "entries": [
+   {
+    "num": 4,
+    "dir": "A",
+    "row": 1,
+    "col": 4,
+    "answer": "DOSTAWCA",
+    "display": "DOSTAWCA",
+    "clue": "Przyjeżdża zawsze wtedy, gdy jesteś pod prysznicem.",
+    "enum": "8"
+   },
+   {
+    "num": 5,
+    "dir": "A",
+    "row": 3,
+    "col": 0,
+    "answer": "GREENFLAG",
+    "display": "GREEN FLAG",
+    "clue": "↔ red flag",
+    "enum": "5, 4"
+   },
+   {
+    "num": 7,
+    "dir": "A",
+    "row": 5,
+    "col": 1,
+    "answer": "KARTON",
+    "display": "KARTON",
+    "clue": "Zostaje po pizzy i stoi na blacie jeszcze trzy dni.",
+    "enum": "6"
+   },
+   {
+    "num": 9,
+    "dir": "A",
+    "row": 6,
+    "col": 7,
+    "answer": "OREGANO",
+    "display": "OREGANO",
+    "clue": "Zioło, którym posypujesz pizzę dla włoskiego klimatu.",
+    "enum": "7"
+   },
+   {
+    "num": 10,
+    "dir": "A",
+    "row": 9,
+    "col": 4,
+    "answer": "SER",
+    "display": "SER",
+    "clue": "Ciągnie się z każdego kawałka aż do brody.",
+    "enum": "3"
+   },
+   {
+    "num": 11,
+    "dir": "A",
+    "row": 11,
+    "col": 2,
+    "answer": "CIENKI",
+    "display": "CIENKI",
+    "clue": "↔ gruby (jak ciasto w dobrej pizzy)",
+    "enum": "6"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 11,
+    "col": 10,
+    "answer": "LORE",
+    "display": "LORE",
+    "clue": "Cała historia tła: „opowiedz mi swój ___”.",
+    "enum": "4"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 14,
+    "col": 0,
+    "answer": "OMÓJROZMARYNIE",
+    "display": "O MÓJ ROZMARYNIE",
+    "clue": "🎵 „…rozwijaj się”",
+    "enum": "1, 3, 10"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 16,
+    "col": 1,
+    "answer": "ANANAS",
+    "display": "ANANAS",
+    "clue": "Na pizzy dzieli świat na dwa obozy.",
+    "enum": "6"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 16,
+    "col": 9,
+    "answer": "NEAPOL",
+    "display": "NEAPOL",
+    "clue": "Włoskie miasto, w którym narodziła się pizza.",
+    "enum": "6"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 8,
+    "answer": "MARGHERITA",
+    "display": "MARGHERITA",
+    "clue": "Pizza nazwana na cześć włoskiej królowej.",
+    "enum": "10"
+   },
+   {
+    "num": 2,
+    "dir": "D",
+    "row": 0,
+    "col": 11,
+    "answer": "MARSZMARSZPOLONIA",
+    "display": "MARSZ MARSZ POLONIA",
+    "clue": "🎵 „…nasz dzielny narodzie”",
+    "enum": "5, 5, 7"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 1,
+    "col": 2,
+    "answer": "PIEKARNIK",
+    "display": "PIEKARNIK",
+    "clue": "Nagrzewasz go 20 minut, żeby podgrzać jeden kawałek pizzy.",
+    "enum": "9"
+   },
+   {
+    "num": 6,
+    "dir": "D",
+    "row": 3,
+    "col": 13,
+    "answer": "WYLOGUJ",
+    "display": "WYLOGUJ",
+    "clue": "↔ zaloguj",
+    "enum": "7"
+   },
+   {
+    "num": 8,
+    "dir": "D",
+    "row": 6,
+    "col": 0,
+    "answer": "SHAPEOFYOU",
+    "display": "SHAPE OF YOU",
+    "clue": "🎶 Hit Eda Sheerana z 2017 r. z rytmem do stukania w stół.",
+    "enum": "5, 2, 3"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 9,
+    "col": 4,
+    "answer": "SPEEDRUN",
+    "display": "SPEEDRUN",
+    "clue": "Przejście gry jak najszybciej.",
+    "enum": "8"
+   }
+  ]
+ },
+ {
+  "id": "paczka",
+  "emoji": "📦",
+  "title": "Paczka niespodzianka",
+  "subtitle": "nie wiesz, co w środku",
+  "section": "Sezon 7 · Mix",
+  "width": 13,
+  "height": 17,
+  "entries": [
+   {
+    "num": 2,
+    "dir": "A",
+    "row": 1,
+    "col": 3,
+    "answer": "NADAWCA",
+    "display": "NADAWCA",
+    "clue": "Ten, kto wysyła paczkę.",
+    "enum": "7"
+   },
+   {
+    "num": 6,
+    "dir": "A",
+    "row": 3,
+    "col": 5,
+    "answer": "NOŻYCZKI",
+    "display": "NOŻYCZKI",
+    "clue": "Nigdy ich nie ma, gdy trzeba otworzyć paczkę.",
+    "enum": "8"
+   },
+   {
+    "num": 7,
+    "dir": "A",
+    "row": 5,
+    "col": 0,
+    "answer": "REKLAMACJA",
+    "display": "REKLAMACJA",
+    "clue": "Składasz ją, gdy przyszło co innego niż na zdjęciu.",
+    "enum": "10"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 7,
+    "col": 8,
+    "answer": "AWIZO",
+    "display": "AWIZO",
+    "clue": "Kartka w skrzynce, że paczka czeka na poczcie.",
+    "enum": "5"
+   },
+   {
+    "num": 10,
+    "dir": "A",
+    "row": 8,
+    "col": 0,
+    "answer": "OSTATNI",
+    "display": "OSTATNI",
+    "clue": "↔ pierwszy",
+    "enum": "7"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 11,
+    "col": 1,
+    "answer": "KURIER",
+    "display": "KURIER",
+    "clue": "Dzwoni, gdy jesteś w wannie, i odjeżdża po 30 sekundach.",
+    "enum": "6"
+   },
+   {
+    "num": 15,
+    "dir": "A",
+    "row": 13,
+    "col": 8,
+    "answer": "FOLIA",
+    "display": "FOLIA",
+    "clue": "Bąbelkowa – pękanie jej to najlepsza terapia.",
+    "enum": "5"
+   },
+   {
+    "num": 16,
+    "dir": "A",
+    "row": 14,
+    "col": 0,
+    "answer": "SPRZEDAĆ",
+    "display": "SPRZEDAĆ",
+    "clue": "↔ kupić (to, co robisz z ciuchami na Vinted)",
+    "enum": "8"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 6,
+    "answer": "MAŁONAS",
+    "display": "MAŁO NAS",
+    "clue": "🎵 „…do pieczenia chleba”",
+    "enum": "4, 3"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 1,
+    "col": 12,
+    "answer": "BLINDBOX",
+    "display": "BLIND BOX",
+    "clue": "Pudełko-niespodzianka, w którym nie wiesz, którą figurkę dostaniesz.",
+    "enum": "5, 3"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 2,
+    "col": 0,
+    "answer": "DOBRANOC",
+    "display": "DOBRANOC",
+    "clue": "↔ dzień dobry",
+    "enum": "8"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 2,
+    "col": 2,
+    "answer": "ETYKIETA",
+    "display": "ETYKIETA",
+    "clue": "Wystaje z koszulki i drapie w kark.",
+    "enum": "8"
+   },
+   {
+    "num": 9,
+    "dir": "D",
+    "row": 7,
+    "col": 9,
+    "answer": "WOJENKO",
+    "display": "WOJENKO",
+    "clue": "🎵 „…cóżeś ty za pani, że za tobą idą…”",
+    "enum": "7"
+   },
+   {
+    "num": 11,
+    "dir": "D",
+    "row": 8,
+    "col": 4,
+    "answer": "THRILLER",
+    "display": "THRILLER",
+    "clue": "🎶 Hit Michaela Jacksona z teledyskiem pełnym tańczących zombie.",
+    "enum": "8"
+   },
+   {
+    "num": 12,
+    "dir": "D",
+    "row": 10,
+    "col": 6,
+    "answer": "TROJA",
+    "display": "TROJA",
+    "clue": "Miasto, które wpuściło do środka drewnianego konia-niespodziankę.",
+    "enum": "5"
+   },
+   {
+    "num": 14,
+    "dir": "D",
+    "row": 13,
+    "col": 2,
+    "answer": "DROP",
+    "display": "DROP",
+    "clue": "Limitowana premiera ciuchów, na którą czeka się z odświeżaniem strony.",
+    "enum": "4"
+   }
+  ]
+ },
+ {
+  "id": "dzika-karta",
+  "emoji": "🃏",
+  "title": "Dzika karta",
+  "subtitle": "tu może być wszystko",
+  "section": "Sezon 7 · Mix",
+  "width": 15,
+  "height": 16,
+  "entries": [
+   {
+    "num": 2,
+    "dir": "A",
+    "row": 1,
+    "col": 2,
+    "answer": "SZCZĘŚCIE",
+    "display": "SZCZĘŚCIE",
+    "clue": "Podobno przynosi je czterolistna koniczyna.",
+    "enum": "9"
+   },
+   {
+    "num": 4,
+    "dir": "A",
+    "row": 3,
+    "col": 0,
+    "answer": "POJEDZIEMYNAŁÓW",
+    "display": "POJEDZIEMY NA ŁÓW",
+    "clue": "🎵 „…towarzyszu mój”",
+    "enum": "10, 2, 3"
+   },
+   {
+    "num": 7,
+    "dir": "A",
+    "row": 5,
+    "col": 2,
+    "answer": "SIGMA",
+    "display": "SIGMA",
+    "clue": "Samotny wilk z memów, który „nie potrzebuje nikogo”.",
+    "enum": "5"
+   },
+   {
+    "num": 8,
+    "dir": "A",
+    "row": 5,
+    "col": 10,
+    "answer": "PRO",
+    "display": "PRO",
+    "clue": "↔ noob",
+    "enum": "3"
+   },
+   {
+    "num": 11,
+    "dir": "A",
+    "row": 11,
+    "col": 1,
+    "answer": "KAMELEON",
+    "display": "KAMELEON",
+    "clue": "Zmienia kolor skóry jak ty zdanie.",
+    "enum": "8"
+   },
+   {
+    "num": 12,
+    "dir": "A",
+    "row": 13,
+    "col": 1,
+    "answer": "HOUDINI",
+    "display": "HOUDINI",
+    "clue": "Iluzjonista, który uwalniał się z łańcuchów pod wodą.",
+    "enum": "7"
+   },
+   {
+    "num": 13,
+    "dir": "A",
+    "row": 13,
+    "col": 9,
+    "answer": "HAZARD",
+    "display": "HAZARD",
+    "clue": "Zakłady i automaty – łatwo wpaść, trudno wyjść.",
+    "enum": "6"
+   },
+   {
+    "num": 14,
+    "dir": "A",
+    "row": 15,
+    "col": 1,
+    "answer": "TAŃCOWAŁA",
+    "display": "TAŃCOWAŁA",
+    "clue": "🎵 „…igła pięknie, nitka brzydko” – ___ igła z nitką",
+    "enum": "9"
+   },
+   {
+    "num": 1,
+    "dir": "D",
+    "row": 0,
+    "col": 6,
+    "answer": "GĘSIZAWODĄ",
+    "display": "GĘSI ZA WODĄ",
+    "clue": "🎵 „…kaczki za wodą”",
+    "enum": "4, 2, 4"
+   },
+   {
+    "num": 3,
+    "dir": "D",
+    "row": 1,
+    "col": 12,
+    "answer": "ŻÓŁTODZIÓB",
+    "display": "ŻÓŁTODZIÓB",
+    "clue": "Nowicjusz – albo pisklę tuż po wykluciu.",
+    "enum": "10"
+   },
+   {
+    "num": 4,
+    "dir": "D",
+    "row": 3,
+    "col": 0,
+    "answer": "PSZCZOŁA",
+    "display": "PSZCZOŁA",
+    "clue": "Bez niej nie byłoby połowy owoców.",
+    "enum": "8"
+   },
+   {
+    "num": 5,
+    "dir": "D",
+    "row": 3,
+    "col": 2,
+    "answer": "JESTEŚSZALONA",
+    "display": "JESTEŚ SZALONA",
+    "clue": "🎶 Discopolowy hit zespołu Boys, przy którym tańczy cała sala.",
+    "enum": "6, 7"
+   },
+   {
+    "num": 6,
+    "dir": "D",
+    "row": 3,
+    "col": 14,
+    "answer": "WIEDŹMA",
+    "display": "WIEDŹMA",
+    "clue": "Lata na miotle i ma czarnego kota.",
+    "enum": "7"
+   },
+   {
+    "num": 8,
+    "dir": "D",
+    "row": 5,
+    "col": 10,
+    "answer": "PESYMISTA",
+    "display": "PESYMISTA",
+    "clue": "↔ optymista",
+    "enum": "9"
+   },
+   {
+    "num": 9,
+    "dir": "D",
+    "row": 7,
+    "col": 8,
+    "answer": "KASYNO",
+    "display": "KASYNO",
+    "clue": "Miejsce, w którym zawsze wygrywa ono samo.",
+    "enum": "6"
+   },
+   {
+    "num": 10,
+    "dir": "D",
+    "row": 9,
+    "col": 4,
+    "answer": "NIE",
+    "display": "NIE",
+    "clue": "↔ tak",
+    "enum": "3"
+   }
+  ]
  }
 ];

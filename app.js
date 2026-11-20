@@ -205,7 +205,7 @@
       <p class="howto">
         <b>Jak grać:</b> tapnij kratkę i pisz. Tapnij ją drugi raz, żeby zmienić kierunek.
         <b>Litera</b> sama uzupełnia brakującą literę w haśle, <b>Hasło</b> odsłania całe słowo.
-        „Z” zamiast „Ż” też przejdzie. Postęp zapisuje się sam.
+        „Z” zamiast „Ż” też przejdzie. W mieszanych krzyżówkach: <b>↔</b> to przeciwieństwo, <b>🎵</b> – tytuł piosenki po fragmencie tekstu, <b>🎶</b> – tytuł hitu po opisie. Postęp zapisuje się sam.
       </p>`;
 
     app.querySelectorAll(".card").forEach((b) =>
@@ -288,6 +288,17 @@
       save(this.p.id, { fill: this.fill, revealed: [...this.revealed], solved: this.solved, seconds: this.seconds });
     }
 
+    // legenda symboli w podpowiedziach (tylko jeśli krzyżówka ich używa)
+    legendHTML() {
+      const kinds = [
+        ["↔", "przeciwieństwo"],
+        ["🎵", "tytuł piosenki po fragmencie tekstu"],
+        ["🎶", "tytuł hitu po opisie"],
+      ].filter(([sym]) => this.entries.some((e) => e.clue.startsWith(sym)));
+      if (!kinds.length) return "";
+      return `<div class="legend">${kinds.map(([sym, txt]) => `<span><b>${sym}</b> ${txt}</span>`).join("")}</div>`;
+    }
+
     // ───────── DOM ─────────
     render() {
       const p = this.p;
@@ -302,6 +313,7 @@
           <button class="gear small" aria-label="Ustawienia">⚙️</button>
         </div>
         <div class="progress"><div class="bar"><i></i></div><span></span></div>
+        ${this.legendHTML()}
         <div class="cluebar">
           <button class="nav prev" aria-label="Poprzednie hasło">‹</button>
           <div class="box"><div class="label"></div><div class="text"></div></div>
